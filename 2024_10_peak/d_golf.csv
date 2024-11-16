@@ -1,0 +1,580 @@
+player,detail,peak_date,birth_year,gender
+Willie Park Sr.,The Open Championship,1860,1833,M
+Old Tom Morris,The Open Championship,1861,1821,M
+Old Tom Morris,The Open Championship,1862,1821,M
+Willie Park Sr.,The Open Championship,1863,1833,M
+Old Tom Morris,The Open Championship,1864,1821,M
+Andrew Strath,The Open Championship,1865,1837,M
+Willie Park Sr.,The Open Championship,1866,1833,M
+Old Tom Morris,The Open Championship,1867,1821,M
+Young Tom Morris,The Open Championship,1868,1851,M
+Young Tom Morris,The Open Championship,1869,1851,M
+Young Tom Morris,The Open Championship,1870,1851,M
+Young Tom Morris,The Open Championship,1872,1851,M
+Tom Kidd,The Open Championship,1873,1848,M
+Mungo Park,The Open Championship,1874,1836,M
+Willie Park Sr.,The Open Championship,1875,1833,M
+Bob Martin,The Open Championship,1876,1853,M
+Jamie Anderson,The Open Championship,1877,1842,M
+Jamie Anderson,The Open Championship,1878,1842,M
+Jamie Anderson,The Open Championship,1879,1842,M
+Bob Ferguson,The Open Championship,1880,1846,M
+Bob Ferguson,The Open Championship,1881,1846,M
+Bob Ferguson,The Open Championship,1882,1846,M
+Willie Fernie,The Open Championship,1883,1855,M
+Jack Simpson,The Open Championship,1884,1859,M
+Bob Martin,The Open Championship,1885,1853,M
+David Brown,The Open Championship,1886,1861,M
+Willie Park Jr.,The Open Championship,1887,1864,M
+Jack Burns,The Open Championship,1888,1859,M
+Willie Park Jr.,The Open Championship,1889,1864,M
+John Ball Jr.,The Open Championship,1890,1861,M
+Hugh Kirkaldy,The Open Championship,1891,1868,M
+Harold Hilton,The Open Championship,1892,1869,M
+Willie Auchterlonie,The Open Championship,1893,1872,M
+John Henry Taylor,The Open Championship,1894,1871,M
+John Henry Taylor,The Open Championship,1895,1871,M
+Horace Rawlins,U.S. Open,1895,1874,M
+Harry Vardon,The Open Championship,1896,1870,M
+James Foulis,U.S. Open,1896,1871,M
+Harold Hilton,The Open Championship,1897,1869,M
+Joe Lloyd,U.S. Open,1897,1864,M
+Harry Vardon,The Open Championship,1898,1870,M
+Fred Herd,U.S. Open,1898,1873,M
+Harry Vardon,The Open Championship,1899,1870,M
+Willie Smith,U.S. Open,1899,1876,M
+John Henry Taylor,The Open Championship,1900,1871,M
+Harry Vardon,U.S. Open,1900,1870,M
+James Braid,The Open Championship,1901,1870,M
+Willie Anderson,U.S. Open,1901,1879,M
+Sandy Herd,The Open Championship,1902,1868,M
+Laurie Auchterlonie,U.S. Open,1902,1867,M
+Harry Vardon,The Open Championship,1903,1870,M
+Willie Anderson,U.S. Open,1903,1879,M
+Jack White,The Open Championship,1904,1873,M
+Willie Anderson,U.S. Open,1904,1879,M
+James Braid,The Open Championship,1905,1870,M
+Willie Anderson,U.S. Open,1905,1879,M
+James Braid,The Open Championship,1906,1870,M
+Alex Smith,U.S. Open,1906,1874,M
+Arnaud Massy,The Open Championship,1907,1877,M
+Alec Ross,U.S. Open,1907,1879,M
+James Braid,The Open Championship,1908,1870,M
+Fred McLeod,U.S. Open,1908,1882,M
+John Henry Taylor,The Open Championship,1909,1871,M
+George Sargent,U.S. Open,1909,1882,M
+James Braid,The Open Championship,1910,1870,M
+Alex Smith,U.S. Open,1910,1874,M
+Harry Vardon,The Open Championship,1911,1870,M
+John McDermott,U.S. Open,1911,1891,M
+Ted Ray,The Open Championship,1912,1877,M
+John McDermott,U.S. Open,1912,1891,M
+John Henry Taylor,The Open Championship,1913,1871,M
+Francis Ouimet,U.S. Open,1913,1893,M
+Harry Vardon,The Open Championship,1914,1870,M
+Walter Hagen,U.S. Open,1914,1892,M
+Chick Evans,U.S. Open,1916,1890,M
+Jim Barnes,PGA Championship,1916,1886,M
+Walter Hagen,U.S. Open,1919,1892,M
+Jim Barnes,PGA Championship,1919,1886,M
+George Duncan,The Open Championship,1920,1883,M
+Ted Ray,U.S. Open,1920,1877,M
+Jock Hutchison,The Open Championship,1921,1884,M
+Jock Hutchison,U.S. Open,1921,1884,M
+Walter Hagen,The Open Championship,1922,1892,M
+Gene Sarazen,U.S. Open,1922,1902,M
+Gene Sarazen,PGA Championship,1922,1902,M
+Arthur Havers,The Open Championship,1923,1898,M
+Bobby Jones,U.S. Open,1923,1902,M
+Gene Sarazen,PGA Championship,1923,1902,M
+Walter Hagen,PGA Championship,1924,1892,M
+Jim Barnes,PGA Championship,1925,1886,M
+Bobby Jones,The Open Championship,1926,1902,M
+Bobby Jones,U.S. Open,1926,1902,M
+Walter Hagen,PGA Championship,1926,1892,M
+Bobby Jones,The Open Championship,1927,1902,M
+Tommy Armour,U.S. Open,1927,1896,M
+Walter Hagen,PGA Championship,1927,1892,M
+Walter Hagen,The Open Championship,1928,1892,M
+Johnny Farrell,U.S. Open,1928,1901,M
+Leo Diegel,PGA Championship,1928,1899,M
+Walter Hagen,The Open Championship,1929,1892,M
+Bobby Jones,U.S. Open,1929,1902,M
+Leo Diegel,PGA Championship,1929,1899,M
+Bobby Jones,The Open Championship,1930,1902,M
+Bobby Jones,U.S. Open,1930,1902,M
+Tommy Armour,PGA Championship,1930,1896,M
+Tommy Armour,The Open Championship,1931,1896,M
+Billy Burke,U.S. Open,1931,1902,M
+Tom Creavy,PGA Championship,1931,1911,M
+Gene Sarazen,The Open Championship,1932,1902,M
+Gene Sarazen,U.S. Open,1932,1902,M
+Olin Dutra,PGA Championship,1932,1901,M
+Denny Shute,PGA Championship,1933,1904,M
+Henry Cotton,The Open Championship,1934,1907,M
+Olin Dutra,U.S. Open,1934,1901,M
+Paul Runyan,PGA Championship,1934,1908,M
+Alf Perry,The Open Championship,1935,1904,M
+Sam Parks Jr.,U.S. Open,1935,1909,M
+Johnny Revolta,PGA Championship,1935,1911,M
+Alf Padgham,The Open Championship,1936,1906,M
+Tony Manero,U.S. Open,1936,1905,M
+Denny Shute,PGA Championship,1936,1904,M
+Henry Cotton,The Open Championship,1937,1907,M
+Ralph Guldahl,U.S. Open,1937,1911,M
+Denny Shute,PGA Championship,1937,1904,M
+Reg Whitcombe,The Open Championship,1938,1898,M
+Ralph Guldahl,U.S. Open,1938,1911,M
+Paul Runyan,PGA Championship,1938,1908,M
+Dick Burton,The Open Championship,1939,1907,M
+Byron Nelson,U.S. Open,1939,1912,M
+Henry Picard,PGA Championship,1939,1906,M
+Lawson Little,U.S. Open,1940,1910,M
+Byron Nelson,PGA Championship,1940,1912,M
+Craig Wood,Masters Tournament,1941,1901,M
+Craig Wood,U.S. Open,1941,1901,M
+Vic Ghezzi,PGA Championship,1941,1910,M
+Sam Snead,PGA Championship,1942,1912,M
+Byron Nelson,Masters Tournament,1942,1912,M
+Ben Hogan,U.S. Open,1946,1912,M
+Herman Keiser,Masters Tournament,1946,1914,M
+Fred Daly,The Open Championship,1947,1911,M
+Ben Hogan,Masters Tournament,1947,1912,M
+Lew Worsham,U.S. Open,1947,1917,M
+Jim Ferrier,PGA Championship,1947,1915,M
+Henry Cotton,The Open Championship,1948,1907,M
+Ben Hogan,Masters Tournament,1948,1912,M
+Claude Harmon,PGA Championship,1948,1916,M
+Bobby Locke,The Open Championship,1949,1917,M
+Sam Snead,Masters Tournament,1949,1912,M
+Cary Middlecoff,U.S. Open,1949,1921,M
+Sam Snead,PGA Championship,1949,1912,M
+Bobby Locke,The Open Championship,1950,1917,M
+Ben Hogan,U.S. Open,1950,1912,M
+Chandler Harper,PGA Championship,1950,1914,M
+Jimmy Demaret,The Masters,1950,1910,M
+Max Faulkner,The Open Championship,1951,1916,M
+Ben Hogan,U.S. Open,1951,1912,M
+Sam Snead,PGA Championship,1951,1912,M
+Ben Hogan,The Masters,1951,1912,M
+Bobby Locke,The Open Championship,1952,1917,M
+Julius Boros,U.S. Open,1952,1920,M
+Jim Turnesa,PGA Championship,1952,1912,M
+Sam Snead,The Masters,1952,1912,M
+Ben Hogan,The Open Championship,1953,1912,M
+Ben Hogan,U.S. Open,1953,1912,M
+Walter Burkemo,PGA Championship,1953,1918,M
+Ben Hogan,The Masters,1953,1912,M
+Peter Thomson,The Open Championship,1954,1929,M
+Ed Furgol,U.S. Open,1954,1917,M
+Chick Harbert,PGA Championship,1954,1915,M
+Sam Snead,The Masters,1954,1912,M
+Peter Thomson,The Open Championship,1955,1929,M
+Jack Fleck,U.S. Open,1955,1921,M
+Doug Ford,PGA Championship,1955,1922,M
+Cary Middlecoff,The Masters,1955,1921,M
+Peter Thomson,The Open Championship,1956,1929,M
+Cary Middlecoff,U.S. Open,1956,1921,M
+Jack Burke Jr.,PGA Championship,1956,1923,M
+Jack Burke Jr.,The Masters,1956,1923,M
+Bobby Locke,The Open Championship,1957,1917,M
+Dick Mayer,U.S. Open,1957,1924,M
+Lionel Hebert,PGA Championship,1957,1928,M
+Doug Ford,The Masters,1957,1922,M
+Peter Thomson,The Open Championship,1958,1929,M
+Tommy Bolt,U.S. Open,1958,1916,M
+Dow Finsterwald,PGA Championship,1958,1929,M
+Arnold Palmer,The Masters,1958,1929,M
+Gary Player,The Open Championship,1959,1935,M
+Billy Casper,U.S. Open,1959,1931,M
+Bob Rosburg,PGA Championship,1959,1926,M
+Art Wall,The Masters,1959,1923,M
+Kel Nagle,The Open Championship,1960,1920,M
+Arnold Palmer,U.S. Open,1960,1929,M
+Jay Hebert,PGA Championship,1960,1923,M
+Arnold Palmer,The Masters,1960,1929,M
+Arnold Palmer,The Open Championship,1961,1929,M
+Gene Littler,U.S. Open,1961,1930,M
+Jerry Barber,PGA Championship,1961,1916,M
+Gary Player,The Masters,1961,1935,M
+Arnold Palmer,The Open Championship,1962,1929,M
+Jack Nicklaus,U.S. Open,1962,1940,M
+Gary Player,PGA Championship,1962,1935,M
+Arnold Palmer,The Masters,1962,1929,M
+Bob Charles,The Open Championship,1963,1936,M
+Julius Boros,U.S. Open,1963,1920,M
+Jack Nicklaus,PGA Championship,1963,1940,M
+Jack Nicklaus,The Masters,1963,1940,M
+Tony Lema,The Open Championship,1964,1934,M
+Ken Venturi,U.S. Open,1964,1931,M
+Bobby Nichols,PGA Championship,1964,1936,M
+Arnold Palmer,The Masters,1964,1929,M
+Peter Thomson,The Open Championship,1965,1929,M
+Gary Player,U.S. Open,1965,1935,M
+Dave Marr,PGA Championship,1965,1933,M
+Jack Nicklaus,The Masters,1965,1940,M
+Jack Nicklaus,The Open Championship,1966,1940,M
+Billy Casper,U.S. Open,1966,1931,M
+Al Geiberger,PGA Championship,1966,1937,M
+Jack Nicklaus,The Masters,1966,1940,M
+Roberto De Vicenzo,The Open Championship,1967,1923,M
+Jack Nicklaus,U.S. Open,1967,1940,M
+Don January,PGA Championship,1967,1929,M
+Gay Brewer,The Masters,1967,1932,M
+Gary Player,The Open Championship,1968,1935,M
+Lee Trevino,U.S. Open,1968,1939,M
+Julius Boros,PGA Championship,1968,1920,M
+Bob Goalby,The Masters,1968,1929,M
+Tony Jacklin,The Open Championship,1969,1944,M
+Orville Moody,U.S. Open,1969,1933,M
+Raymond Floyd,PGA Championship,1969,1942,M
+George Archer,The Masters,1969,1939,M
+Jack Nicklaus,The Open Championship,1970,1940,M
+Tony Jacklin,U.S. Open,1970,1944,M
+Dave Stockton,PGA Championship,1970,1941,M
+Billy Casper,The Masters,1970,1931,M
+Lee Trevino,The Open Championship,1971,1939,M
+Lee Trevino,U.S. Open,1971,1939,M
+Jack Nicklaus,PGA Championship,1971,1940,M
+Charles Coody,The Masters,1971,1937,M
+Lee Trevino,The Open Championship,1972,1939,M
+Jack Nicklaus,U.S. Open,1972,1940,M
+Gary Player,PGA Championship,1972,1935,M
+Jack Nicklaus,The Masters,1972,1940,M
+Tom Weiskopf,The Open Championship,1973,1942,M
+Johnny Miller,U.S. Open,1973,1947,M
+Jack Nicklaus,PGA Championship,1973,1940,M
+Tommy Aaron,The Masters,1973,1937,M
+Gary Player,The Open Championship,1974,1935,M
+Hale Irwin,U.S. Open,1974,1945,M
+Lee Trevino,PGA Championship,1974,1939,M
+Gary Player,The Masters,1974,1935,M
+Tom Watson,The Open Championship,1975,1949,M
+Lou Graham,U.S. Open,1975,1938,M
+Jack Nicklaus,PGA Championship,1975,1940,M
+Jack Nicklaus,The Masters,1975,1940,M
+Johnny Miller,The Open Championship,1976,1947,M
+Jerry Pate,U.S. Open,1976,1953,M
+Dave Stockton,PGA Championship,1976,1941,M
+Raymond Floyd,The Masters,1976,1942,M
+Tom Watson,The Open Championship,1977,1949,M
+Hubert Green,U.S. Open,1977,1946,M
+Lanny Wadkins,PGA Championship,1977,1949,M
+Tom Watson,The Masters,1977,1949,M
+Jack Nicklaus,The Open Championship,1978,1940,M
+Andy North,U.S. Open,1978,1950,M
+John Mahaffey,PGA Championship,1978,1948,M
+Gary Player,The Masters,1978,1935,M
+Seve Ballesteros,The Open Championship,1979,1957,M
+Hale Irwin,U.S. Open,1979,1945,M
+David Graham,PGA Championship,1979,1946,M
+Fuzzy Zoeller,The Masters,1979,1951,M
+Tom Watson,The Open Championship,1980,1949,M
+Jack Nicklaus,U.S. Open,1980,1940,M
+Jack Nicklaus,PGA Championship,1980,1940,M
+Seve Ballesteros,The Masters,1980,1957,M
+Bill Rogers,The Open Championship,1981,1951,M
+David Graham,U.S. Open,1981,1946,M
+Larry Nelson,PGA Championship,1981,1947,M
+Tom Watson,The Masters,1981,1949,M
+Tom Watson,The Open Championship,1982,1949,M
+Tom Watson,U.S. Open,1982,1949,M
+Raymond Floyd,PGA Championship,1982,1942,M
+Craig Stadler,The Masters,1982,1953,M
+Tom Watson,The Open Championship,1983,1949,M
+Larry Nelson,U.S. Open,1983,1947,M
+Hal Sutton,PGA Championship,1983,1958,M
+Seve Ballesteros,The Masters,1983,1957,M
+Seve Ballesteros,The Open Championship,1984,1957,M
+Fuzzy Zoeller,U.S. Open,1984,1951,M
+Lee Trevino,PGA Championship,1984,1939,M
+Ben Crenshaw,The Masters,1984,1952,M
+Sandy Lyle,The Open Championship,1985,1958,M
+Andy North,U.S. Open,1985,1950,M
+Hubert Green,PGA Championship,1985,1946,M
+Bernhard Langer,The Masters,1985,1957,M
+Greg Norman,The Open Championship,1986,1955,M
+Raymond Floyd,U.S. Open,1986,1942,M
+Bob Tway,PGA Championship,1986,1959,M
+Jack Nicklaus,The Masters,1986,1940,M
+Nick Faldo,The Open Championship,1987,1957,M
+Scott Simpson,U.S. Open,1987,1955,M
+Larry Nelson,PGA Championship,1987,1947,M
+Larry Mize,The Masters,1987,1958,M
+Seve Ballesteros,The Open Championship,1988,1957,M
+Curtis Strange,U.S. Open,1988,1955,M
+Jeff Sluman,PGA Championship,1988,1957,M
+Sandy Lyle,The Masters,1988,1958,M
+Mark Calcavecchia,The Open Championship,1989,1960,M
+Curtis Strange,U.S. Open,1989,1955,M
+Payne Stewart,PGA Championship,1989,1957,M
+Nick Faldo,The Masters,1989,1957,M
+Nick Faldo,The Open Championship,1990,1957,M
+Hale Irwin,U.S. Open,1990,1945,M
+Wayne Grady,PGA Championship,1990,1957,M
+Nick Faldo,The Masters,1990,1957,M
+Ian Baker-Finch,The Open Championship,1991,1960,M
+Payne Stewart,U.S. Open,1991,1957,M
+John Daly,PGA Championship,1991,1966,M
+Ian Woosnam,The Masters,1991,1958,M
+Nick Faldo,The Open Championship,1992,1957,M
+Tom Kite,U.S. Open,1992,1949,M
+Nick Price,PGA Championship,1992,1957,M
+Fred Couples,The Masters,1992,1959,M
+Greg Norman,The Open Championship,1993,1955,M
+Lee Janzen,U.S. Open,1993,1964,M
+Paul Azinger,PGA Championship,1993,1960,M
+Bernhard Langer,The Masters,1993,1957,M
+Nick Price,The Open Championship,1994,1957,M
+Ernie Els,U.S. Open,1994,1969,M
+Nick Price,PGA Championship,1994,1957,M
+José María Olazábal,The Masters,1994,1966,M
+John Daly,The Open Championship,1995,1966,M
+Corey Pavin,U.S. Open,1995,1959,M
+Steve Elkington,PGA Championship,1995,1962,M
+Ben Crenshaw,The Masters,1995,1952,M
+Tom Lehman,The Open Championship,1996,1959,M
+Steve Jones,U.S. Open,1996,1958,M
+Mark Brooks,PGA Championship,1996,1961,M
+Nick Faldo,The Masters,1996,1957,M
+Justin Leonard,The Open Championship,1997,1972,M
+Ernie Els,U.S. Open,1997,1969,M
+Davis Love III,PGA Championship,1997,1964,M
+Tiger Woods,The Masters,1997,1975,M
+Mark O'Meara,The Open Championship,1998,1957,M
+Lee Janzen,U.S. Open,1998,1964,M
+Vijay Singh,PGA Championship,1998,1963,M
+Mark O'Meara,The Masters,1998,1957,M
+Paul Lawrie,The Open Championship,1999,1969,M
+Payne Stewart,U.S. Open,1999,1957,M
+Tiger Woods,PGA Championship,1999,1975,M
+José María Olazábal,The Masters,1999,1966,M
+Tiger Woods,The Open Championship,2000,1975,M
+Tiger Woods,U.S. Open,2000,1975,M
+Tiger Woods,PGA Championship,2000,1975,M
+Vijay Singh,The Masters,2000,1963,M
+David Duval,The Open Championship,2001,1971,M
+Retief Goosen,U.S. Open,2001,1969,M
+David Toms,PGA Championship,2001,1967,M
+Tiger Woods,The Masters,2001,1975,M
+Ernie Els,The Open Championship,2002,1969,M
+Tiger Woods,U.S. Open,2002,1975,M
+Rich Beem,PGA Championship,2002,1970,M
+Tiger Woods,The Masters,2002,1975,M
+Ben Curtis,The Open Championship,2003,1977,M
+Jim Furyk,U.S. Open,2003,1970,M
+Shaun Micheel,PGA Championship,2003,1969,M
+Mike Weir,The Masters,2003,1970,M
+Todd Hamilton,The Open Championship,2004,1965,M
+Retief Goosen,U.S. Open,2004,1969,M
+Vijay Singh,PGA Championship,2004,1963,M
+Phil Mickelson,The Masters,2004,1970,M
+Tiger Woods,The Open Championship,2005,1975,M
+Michael Campbell,U.S. Open,2005,1969,M
+Phil Mickelson,PGA Championship,2005,1970,M
+Tiger Woods,The Masters,2005,1975,M
+Tiger Woods,The Open Championship,2006,1975,M
+Geoff Ogilvy,U.S. Open,2006,1977,M
+Tiger Woods,PGA Championship,2006,1975,M
+Phil Mickelson,The Masters,2006,1970,M
+Pádraig Harrington,The Open Championship,2007,1971,M
+Ángel Cabrera,U.S. Open,2007,1969,M
+Tiger Woods,PGA Championship,2007,1975,M
+Zach Johnson,The Masters,2007,1976,M
+Pádraig Harrington,The Open Championship,2008,1971,M
+Tiger Woods,U.S. Open,2008,1975,M
+Pádraig Harrington,PGA Championship,2008,1971,M
+Trevor Immelman,The Masters,2008,1979,M
+Stewart Cink,The Open Championship,2009,1973,M
+Lucas Glover,U.S. Open,2009,1979,M
+Yang Yong-eun,PGA Championship,2009,1972,M
+Ángel Cabrera,The Masters,2009,1969,M
+Louis Oosthuizen,The Open Championship,2010,1982,M
+Graeme McDowell,U.S. Open,2010,1979,M
+Martin Kaymer,PGA Championship,2010,1984,M
+Phil Mickelson,The Masters,2010,1970,M
+Darren Clarke,The Open Championship,2011,1968,M
+Rory McIlroy,U.S. Open,2011,1989,M
+Keegan Bradley,PGA Championship,2011,1986,M
+Charl Schwartzel,The Masters,2011,1984,M
+Ernie Els,The Open Championship,2012,1969,M
+Webb Simpson,U.S. Open,2012,1985,M
+Rory McIlroy,PGA Championship,2012,1989,M
+Bubba Watson,The Masters,2012,1978,M
+Phil Mickelson,The Open Championship,2013,1970,M
+Justin Rose,U.S. Open,2013,1980,M
+Jason Dufner,PGA Championship,2013,1977,M
+Adam Scott,The Masters,2013,1980,M
+Rory McIlroy,The Open Championship,2014,1989,M
+Martin Kaymer,U.S. Open,2014,1984,M
+Rory McIlroy,PGA Championship,2014,1989,M
+Bubba Watson,The Masters,2014,1978,M
+Zach Johnson,The Open Championship,2015,1976,M
+Jordan Spieth,U.S. Open,2015,1993,M
+Jason Day,PGA Championship,2015,1987,M
+Jordan Spieth,The Masters,2015,1993,M
+Henrik Stenson,The Open Championship,2016,1976,M
+Dustin Johnson,U.S. Open,2016,1984,M
+Jimmy Walker,PGA Championship,2016,1979,M
+Danny Willett,The Masters,2016,1987,M
+Jordan Spieth,The Open Championship,2017,1993,M
+Brooks Koepka,U.S. Open,2017,1990,M
+Justin Thomas,PGA Championship,2017,1993,M
+Sergio García,The Masters,2017,1980,M
+Francesco Molinari,The Open Championship,2018,1982,M
+Brooks Koepka,U.S. Open,2018,1990,M
+Brooks Koepka,PGA Championship,2018,1990,M
+Patrick Reed,The Masters,2018,1990,M
+Shane Lowry,The Open Championship,2019,1987,M
+Gary Woodland,U.S. Open,2019,1984,M
+Brooks Koepka,PGA Championship,2019,1990,M
+Tiger Woods,The Masters,2019,1975,M
+Bryson DeChambeau,U.S. Open,2020,1993,M
+Collin Morikawa,PGA Championship,2020,1997,M
+Dustin Johnson,The Masters,2020,1984,M
+Collin Morikawa,The Open Championship,2021,1997,M
+Jon Rahm,U.S. Open,2021,1994,M
+Phil Mickelson,PGA Championship,2021,1970,M
+Hideki Matsuyama,The Masters,2021,1992,M
+Cameron Smith,The Open Championship,2022,1993,M
+Matt Fitzpatrick,U.S. Open,2022,1994,M
+Justin Thomas,PGA Championship,2022,1993,M
+Scottie Scheffler,The Masters,2022,1996,M
+Brian Harman,The Open Championship,2023,1987,M
+Wyndham Clark,U.S. Open,2023,1993,M
+Brooks Koepka,PGA Championship,2023,1990,M
+Jon Rahm,The Masters,2023,1994,M
+Xander Schauffele,The Open Championship,2024,1993,M
+Bryson DeChambeau,U.S. Open,2024,1993,M
+Xander Schauffele,PGA Championship,2024,1993,M
+Scottie Scheffler,The Masters,2024,1996,M
+Alice Miller,Kraft Nabisco Championship,1985,1956,F
+Nancy Lopez,LPGA Championship,1985,1957,F
+Kathy Baker,U.S. Women's Open,1985,1961,F
+Pat Bradley,du Maurier Classic,1985,1951,F
+Pat Bradley,Kraft Nabisco Championship,1986,1951,F
+Pat Bradley,LPGA Championship,1986,1951,F
+Jane Geddes,U.S. Women's Open,1986,1960,F
+Pat Bradley,du Maurier Classic,1986,1951,F
+Jane Geddes,Women's British Open,1986,1960,F
+Betsy King,Kraft Nabisco Championship,1987,1955,F
+Jane Geddes,LPGA Championship,1987,1960,F
+Laura Davies,U.S. Women's Open,1987,1963,F
+Pat Bradley,du Maurier Classic,1987,1951,F
+Laura Davies,Women's British Open,1987,1963,F
+Amy Alcott,Kraft Nabisco Championship,1988,1956,F
+Sherri Turner,LPGA Championship,1988,1956,F
+Liselotte Neumann,U.S. Women's Open,1988,1966,F
+Sally Little,du Maurier Classic,1988,1951,F
+Betsy King,Kraft Nabisco Championship,1989,1955,F
+Nancy Lopez,LPGA Championship,1989,1957,F
+Betsy King,U.S. Women's Open,1989,1955,F
+Tammie Green,du Maurier Classic,1989,1959,F
+Juli Inkster,Women's British Open,1989,1960,F
+Betsy King,Kraft Nabisco Championship,1990,1955,F
+Beth Daniel,LPGA Championship,1990,1956,F
+Betsy King,U.S. Women's Open,1990,1955,F
+Cathy Johnston,du Maurier Classic,1990,1963,F
+Amy Alcott,Kraft Nabisco Championship,1991,1956,F
+Meg Mallon,LPGA Championship,1991,1963,F
+Meg Mallon,U.S. Women's Open,1991,1963,F
+Nancy Scranton,du Maurier Classic,1991,1961,F
+Dottie Mochrie,Kraft Nabisco Championship,1992,1965,F
+Betsy King,LPGA Championship,1992,1955,F
+Patty Sheehan,U.S. Women's Open,1992,1956,F
+Sherri Steinhauer,du Maurier Classic,1992,1962,F
+Helen Alfredsson,Kraft Nabisco Championship,1993,1965,F
+Patty Sheehan,LPGA Championship,1993,1956,F
+Lauri Merten,U.S. Women's Open,1993,1960,F
+Brandie Burton,du Maurier Classic,1993,1972,F
+Donna Andrews,Kraft Nabisco Championship,1994,1967,F
+Laura Davies,LPGA Championship,1994,1963,F
+Patty Sheehan,U.S. Women's Open,1994,1956,F
+Martha Nause,du Maurier Classic,1994,1954,F
+Nanci Bowen,Kraft Nabisco Championship,1995,1967,F
+Kelly Robbins,LPGA Championship,1995,1969,F
+Annika Sörenstam,U.S. Women's Open,1995,1970,F
+Jenny Lidback,du Maurier Classic,1995,1963,F
+Patty Sheehan,Kraft Nabisco Championship,1996,1956,F
+Laura Davies,LPGA Championship,1996,1963,F
+Annika Sörenstam,U.S. Women's Open,1996,1970,F
+Laura Davies,du Maurier Classic,1996,1963,F
+Betsy King,Kraft Nabisco Championship,1997,1955,F
+Christa Johnson,LPGA Championship,1997,1958,F
+Alison Nicholas,U.S. Women's Open,1997,1962,F
+Colleen Walker,du Maurier Classic,1997,1956,F
+Pat Hurst,Kraft Nabisco Championship,1998,1969,F
+Se Ri Pak,LPGA Championship,1998,1977,F
+Se Ri Pak,U.S. Women's Open,1998,1977,F
+Brandie Burton,du Maurier Classic,1998,1972,F
+Dottie Pepper,Kraft Nabisco Championship,1999,1965,F
+Juli Inkster,LPGA Championship,1999,1960,F
+Juli Inkster,U.S. Women's Open,1999,1960,F
+Karrie Webb,du Maurier Classic,1999,1974,F
+Karrie Webb,Kraft Nabisco Championship,2000,1974,F
+Juli Inkster,LPGA Championship,2000,1960,F
+Karrie Webb,U.S. Women's Open,2000,1974,F
+Meg Mallon,du Maurier Classic,2000,1963,F
+Annika Sörenstam,Kraft Nabisco Championship,2001,1970,F
+Karrie Webb,LPGA Championship,2001,1974,F
+Karrie Webb,U.S. Women's Open,2001,1974,F
+Se Ri Pak,Women's British Open,2001,1977,F
+Annika Sörenstam,Kraft Nabisco Championship,2002,1970,F
+Se Ri Pak,LPGA Championship,2002,1977,F
+Juli Inkster,U.S. Women's Open,2002,1960,F
+Karrie Webb,Women's British Open,2002,1974,F
+Patricia Meunier-Lebouc,Kraft Nabisco Championship,2003,1972,F
+Annika Sörenstam,LPGA Championship,2003,1970,F
+Hilary Lunke,U.S. Women's Open,2003,1979,F
+Annika Sörenstam,Women's British Open,2003,1970,F
+Grace Park,Kraft Nabisco Championship,2004,1979,F
+Annika Sörenstam,LPGA Championship,2004,1970,F
+Meg Mallon,U.S. Women's Open,2004,1963,F
+Karen Stupples,Women's British Open,2004,1973,F
+Annika Sörenstam,Kraft Nabisco Championship,2005,1970,F
+Annika Sörenstam,LPGA Championship,2005,1970,F
+Birdie Kim,U.S. Women's Open,2005,1981,F
+Jeong Jang,Women's British Open,2005,1980,F
+Karrie Webb,Kraft Nabisco Championship,2006,1974,F
+Se Ri Pak,LPGA Championship,2006,1977,F
+Annika Sörenstam,U.S. Women's Open,2006,1970,F
+Sherri Steinhauer,Women's British Open,2006,1962,F
+Morgan Pressel,Kraft Nabisco Championship,2007,1988,F
+Suzann Pettersen,LPGA Championship,2007,1981,F
+Cristie Kerr,U.S. Women's Open,2007,1977,F
+Lorena Ochoa,Women's British Open,2007,1981,F
+Lorena Ochoa,Kraft Nabisco Championship,2008,1981,F
+Yani Tseng,LPGA Championship,2008,1989,F
+Inbee Park,U.S. Women's Open,2008,1988,F
+Jiyai Shin,Women's British Open,2008,1988,F
+Brittany Lincicome,Kraft Nabisco Championship,2009,1985,F
+Anna Nordqvist,LPGA Championship,2009,1987,F
+Ji Eun-hee,U.S. Women's Open,2009,1986,F
+Catriona Matthew,Women's British Open,2009,1969,F
+Yani Tseng,Kraft Nabisco Championship,2010,1989,F
+Cristie Kerr,LPGA Championship,2010,1977,F
+Paula Creamer,U.S. Women's Open,2010,1986,F
+Yani Tseng,Women's British Open,2010,1989,F
+Stacy Lewis,Kraft Nabisco Championship,2011,1985,F
+Yani Tseng,LPGA Championship,2011,1989,F
+Ryu So-yeon,U.S. Women's Open,2011,1990,F
+Yani Tseng,Women's British Open,2011,1989,F
+Sun-Young Yoo,Kraft Nabisco Championship,2012,1986,F
+Shanshan Feng,LPGA Championship,2012,1989,F
+Na Yeon Choi,U.S. Women's Open,2012,1987,F
+Jiyai Shin,Women's British Open,2012,1988,F
+Inbee Park,Chevron Championship,2013,1988,F
+Inbee Park,U.S. Women's Open,2013,1988,F
+Inbee Park,Women's PGA Championship,2013,1988,F
+Stacy Lewis,Women's British Open,2013,1985,F
+Lexi Thompson,Chevron Championship,2014,1995,F
+Michelle Wie,U.S. Women's Open,2014,1989,F
+Inbee Park,Women's PGA Championship,2014,1988,F
+Mo Martin,Women's British Open,2014,1982,F
+Brittany Lincicome,Chevron Championship,2015,1985,F
+Inbee Park,U.S. Women's Open,2015,1988,F
+Inbee Park,Women's PGA Championship,2015,1988,F
+Lydia Ko,Women's British Open,2015,1997,F
+Ryu So-yeon,Chevron Championship,2017,1990,F
+Nelly Korda,Women's PGA Championship,2021,1998,F
+Ayaka Furue,The Evian Championship,2024,2000,F

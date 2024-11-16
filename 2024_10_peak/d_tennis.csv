@@ -1,0 +1,988 @@
+player,detail,peak_date,birth_year,gender
+Spencer Gore,Wimbledon,1877,1850,M
+Frank Hadow,Wimbledon,1878,1855,M
+John Hartley,Wimbledon,1879,1849,M
+John Hartley,Wimbledon,1880,1849,M
+William Renshaw,Wimbledon,1881,1861,M
+Richard Sears,US Open,1881,1861,M
+William Renshaw,Wimbledon,1882,1861,M
+Richard Sears,US Open,1882,1861,M
+William Renshaw,Wimbledon,1883,1861,M
+Richard Sears,US Open,1883,1861,M
+William Renshaw,Wimbledon,1884,1861,M
+Richard Sears,US Open,1884,1861,M
+William Renshaw,Wimbledon,1885,1861,M
+Richard Sears,US Open,1885,1861,M
+William Renshaw,Wimbledon,1886,1861,M
+Richard Sears,US Open,1886,1861,M
+Herbert Lawford,Wimbledon,1887,1851,M
+Henry Slocum,US Open,1888,1862,M
+William Renshaw,Wimbledon,1889,1861,M
+Henry Slocum,US Open,1889,1862,M
+Willoughby Hamilton,Wimbledon,1890,1864,M
+Oliver Campbell,US Open,1890,1871,M
+Wilfred Baddeley,Wimbledon,1891,1872,M
+Oliver Campbell,US Open,1891,1871,M
+Jean Schopfer,French Open,1892,1868,M
+Wilfred Baddeley,Wimbledon,1892,1872,M
+Oliver Campbell,US Open,1892,1871,M
+Joshua Pim,Wimbledon,1893,1869,M
+Robert Wrenn,US Open,1893,1873,M
+André Vacherot,French Open,1894,1877,M
+Joshua Pim,Wimbledon,1894,1869,M
+Robert Wrenn,US Open,1894,1873,M
+André Vacherot,French Open,1895,1877,M
+Wilfred Baddeley,Wimbledon,1895,1872,M
+Fred Hovey,US Open,1895,1868,M
+André Vacherot,French Open,1896,1877,M
+Harold Mahony,Wimbledon,1896,1867,M
+Robert Wrenn,US Open,1896,1873,M
+Paul Aymé,French Open,1897,1869,M
+Reginald Doherty,Wimbledon,1897,1872,M
+Robert Wrenn,US Open,1897,1873,M
+Paul Aymé,French Open,1898,1869,M
+Reginald Doherty,Wimbledon,1898,1872,M
+Malcolm Whitman,US Open,1898,1877,M
+Paul Aymé,French Open,1899,1869,M
+Reginald Doherty,Wimbledon,1899,1872,M
+Malcolm Whitman,US Open,1899,1877,M
+Paul Aymé,French Open,1900,1869,M
+Reginald Doherty,Wimbledon,1900,1872,M
+Malcolm Whitman,US Open,1900,1877,M
+André Vacherot,French Open,1901,1877,M
+Arthur Gore,Wimbledon,1901,1868,M
+William Larned,US Open,1901,1872,M
+Michel Vacherot,French Open,1902,1881,M
+Laurence Doherty,Wimbledon,1902,1875,M
+William Larned,US Open,1902,1872,M
+Max Decugis,French Open,1903,1882,M
+Laurence Doherty,Wimbledon,1903,1875,M
+Laurence Doherty,US Open,1903,1875,M
+Maurice Germot,French Open,1905,1882,M
+Laurence Doherty,Wimbledon,1905,1875,M
+Beals Wright,US Open,1905,1879,M
+Maurice Germot,French Open,1906,1882,M
+Laurence Doherty,Wimbledon,1906,1875,M
+William Clothier,US Open,1906,1881,M
+Max Decugis,French Open,1907,1882,M
+Norman Brookes,Wimbledon,1907,1877,M
+William Larned,US Open,1907,1872,M
+Fred Alexander,Australian Open,1908,1880,M
+Max Decugis,French Open,1908,1882,M
+Arthur Gore,Wimbledon,1908,1868,M
+William Larned,US Open,1908,1872,M
+Anthony Wilding,Australian Open,1909,1883,M
+Max Decugis,French Open,1909,1882,M
+Arthur Gore,Wimbledon,1909,1868,M
+William Larned,US Open,1909,1872,M
+Rodney Heath,Australian Open,1910,1884,M
+Maurice Germot,French Open,1910,1882,M
+Anthony Wilding,Wimbledon,1910,1883,M
+William Larned,US Open,1910,1872,M
+Norman Brookes,Australian Open,1911,1877,M
+André Gobert,French Open,1911,1890,M
+Anthony Wilding,Wimbledon,1911,1883,M
+William Larned,US Open,1911,1872,M
+James Cecil Parke,Australian Open,1912,1881,M
+Max Decugis,French Open,1912,1882,M
+Anthony Wilding,Wimbledon,1912,1883,M
+Maurice McLoughlin,US Open,1912,1890,M
+Ernie Parker,Australian Open,1913,1883,M
+Max Decugis,French Open,1913,1882,M
+Anthony Wilding,Wimbledon,1913,1883,M
+Maurice McLoughlin,US Open,1913,1890,M
+Arthur O'Hara Wood,Australian Open,1914,1890,M
+Max Decugis,French Open,1914,1882,M
+Norman Brookes,Wimbledon,1914,1877,M
+R. Norris Williams,US Open,1914,1891,M
+Gordon Lowe,Australian Open,1915,1884,M
+Bill Johnston,US Open,1915,1894,M
+Robert Lindley Murray,US Open,1917,1892,M
+Robert Lindley Murray,US Open,1918,1892,M
+Algernon Kingscote,Australian Open,1919,1888,M
+Gerald Patterson,Wimbledon,1919,1895,M
+Bill Johnston,US Open,1919,1894,M
+Pat O'Hara Wood,Australian Open,1920,1891,M
+André Gobert,French Open,1920,1890,M
+Bill Tilden,Wimbledon,1920,1893,M
+Bill Tilden,US Open,1920,1893,M
+Rhys Gemmell,Australian Open,1921,1896,M
+Jean Samazeuilh,French Open,1921,1891,M
+Bill Tilden,Wimbledon,1921,1893,M
+Bill Tilden,US Open,1921,1893,M
+James Anderson,Australian Open,1922,1894,M
+Henri Cochet,French Open,1922,1901,M
+Gerald Patterson,Wimbledon,1922,1895,M
+Bill Tilden,US Open,1922,1893,M
+Pat O'Hara Wood,Australian Open,1923,1891,M
+François Blanchy,French Open,1923,1886,M
+Bill Johnston,Wimbledon,1923,1894,M
+Bill Tilden,US Open,1923,1893,M
+James Anderson,Australian Open,1924,1894,M
+Jean Borotra,French Open,1924,1898,M
+Jean Borotra,Wimbledon,1924,1898,M
+Bill Tilden,US Open,1924,1893,M
+James Anderson,Australian Open,1925,1894,M
+René Lacoste,French Open,1925,1904,M
+René Lacoste,Wimbledon,1925,1904,M
+Bill Tilden,US Open,1925,1893,M
+John Hawkes,Australian Open,1926,1899,M
+Henri Cochet,French Open,1926,1901,M
+Jean Borotra,Wimbledon,1926,1898,M
+René Lacoste,US Open,1926,1904,M
+Gerald Patterson,Australian Open,1927,1895,M
+René Lacoste,French Open,1927,1904,M
+Henri Cochet,Wimbledon,1927,1901,M
+René Lacoste,US Open,1927,1904,M
+Jean Borotra,French Open,1928,1898,M
+Henri Cochet,Wimbledon,1928,1901,M
+René Lacoste,US Open,1928,1904,M
+John Colin Gregory,Australian Open,1929,1903,M
+René Lacoste,French Open,1929,1904,M
+Henri Cochet,Wimbledon,1929,1901,M
+Bill Tilden,US Open,1929,1893,M
+Edgar Moon,Australian Open,1930,1904,M
+Henri Cochet,French Open,1930,1901,M
+Bill Tilden,Wimbledon,1930,1893,M
+John Doeg,US Open,1930,1908,M
+Jack Crawford,Australian Open,1931,1908,M
+Jean Borotra,French Open,1931,1898,M
+Sidney Wood,Wimbledon,1931,1911,M
+Ellsworth Vines,US Open,1931,1911,M
+Jack Crawford,Australian Open,1932,1908,M
+Henri Cochet,French Open,1932,1901,M
+Ellsworth Vines,Wimbledon,1932,1911,M
+Ellsworth Vines,US Open,1932,1911,M
+Jack Crawford,Australian Open,1933,1908,M
+Jack Crawford,French Open,1933,1908,M
+Jack Crawford,Wimbledon,1933,1908,M
+Fred Perry,US Open,1933,1909,M
+Fred Perry,Australian Open,1934,1909,M
+Gottfried von Cramm,French Open,1934,1909,M
+Fred Perry,Wimbledon,1934,1909,M
+Fred Perry,US Open,1934,1909,M
+Jack Crawford,Australian Open,1935,1908,M
+Fred Perry,French Open,1935,1909,M
+Fred Perry,Wimbledon,1935,1909,M
+Wilmer Allison,US Open,1935,1904,M
+Adrian Quist,Australian Open,1936,1913,M
+Gottfried von Cramm,French Open,1936,1909,M
+Fred Perry,Wimbledon,1936,1909,M
+Fred Perry,US Open,1936,1909,M
+Vivian McGrath,Australian Open,1937,1916,M
+Henner Henkel,French Open,1937,1915,M
+Don Budge,Wimbledon,1937,1915,M
+Don Budge,US Open,1937,1915,M
+Don Budge,Australian Open,1938,1915,M
+Don Budge,French Open,1938,1915,M
+Don Budge,Wimbledon,1938,1915,M
+Don Budge,US Open,1938,1915,M
+John Bromwich,Australian Open,1939,1918,M
+Don McNeill,French Open,1939,1918,M
+Bobby Riggs,Wimbledon,1939,1918,M
+Bobby Riggs,US Open,1939,1918,M
+Adrian Quist,Australian Open,1940,1913,M
+Don McNeill,US Open,1940,1918,M
+Bernard Destremau,French Open,1941,1917,M
+Bobby Riggs,US Open,1941,1918,M
+Ted Schroeder,US Open,1942,1921,M
+Joseph Hunt,US Open,1943,1919,M
+Frank Parker,US Open,1944,1916,M
+Frank Parker,US Open,1945,1916,M
+John Bromwich,Australian Open,1946,1918,M
+Marcel Bernard,French Open,1946,1914,M
+Yvon Petra,Wimbledon,1946,1916,M
+Jack Kramer,US Open,1946,1921,M
+Dinny Pails,Australian Open,1947,1921,M
+József Asbóth,French Open,1947,1917,M
+Jack Kramer,Wimbledon,1947,1921,M
+Jack Kramer,US Open,1947,1921,M
+Adrian Quist,Australian Open,1948,1913,M
+Frank Parker,French Open,1948,1916,M
+Bob Falkenburg,Wimbledon,1948,1926,M
+Pancho Gonzales,US Open,1948,1928,M
+Frank Sedgman,Australian Open,1949,1927,M
+Frank Parker,French Open,1949,1916,M
+Ted Schroeder,Wimbledon,1949,1921,M
+Pancho Gonzales,US Open,1949,1928,M
+Frank Sedgman,Australian Open,1950,1927,M
+Budge Patty,French Open,1950,1924,M
+Budge Patty,Wimbledon,1950,1924,M
+Arthur Larsen,US Open,1950,1925,M
+Dick Savitt,Australian Open,1951,1927,M
+Jaroslav Drobný,French Open,1951,1921,M
+Dick Savitt,Wimbledon,1951,1927,M
+Frank Sedgman,US Open,1951,1927,M
+Ken McGregor,Australian Open,1952,1929,M
+Jaroslav Drobný,French Open,1952,1921,M
+Frank Sedgman,Wimbledon,1952,1927,M
+Frank Sedgman,US Open,1952,1927,M
+Ken Rosewall,Australian Open,1953,1934,M
+Ken Rosewall,French Open,1953,1934,M
+Vic Seixas,Wimbledon,1953,1923,M
+Tony Trabert,US Open,1953,1930,M
+Mervyn Rose,Australian Open,1954,1930,M
+Tony Trabert,French Open,1954,1930,M
+Jaroslav Drobný,Wimbledon,1954,1921,M
+Vic Seixas,US Open,1954,1923,M
+Ken Rosewall,Australian Open,1955,1934,M
+Tony Trabert,French Open,1955,1930,M
+Tony Trabert,Wimbledon,1955,1930,M
+Tony Trabert,US Open,1955,1930,M
+Lew Hoad,Australian Open,1956,1934,M
+Lew Hoad,French Open,1956,1934,M
+Lew Hoad,Wimbledon,1956,1934,M
+Ken Rosewall,US Open,1956,1934,M
+Ashley Cooper,Australian Open,1957,1936,M
+Sven Davidson,French Open,1957,1928,M
+Lew Hoad,Wimbledon,1957,1934,M
+Mal Anderson,US Open,1957,1935,M
+Ashley Cooper,Australian Open,1958,1936,M
+Mervyn Rose,French Open,1958,1930,M
+Ashley Cooper,Wimbledon,1958,1936,M
+Ashley Cooper,US Open,1958,1936,M
+Alex Olmedo,Australian Open,1959,1936,M
+Nicola Pietrangeli,French Open,1959,1933,M
+Alex Olmedo,Wimbledon,1959,1936,M
+Neale Fraser,US Open,1959,1933,M
+Rod Laver,Australian Open,1960,1938,M
+Nicola Pietrangeli,French Open,1960,1933,M
+Neale Fraser,Wimbledon,1960,1933,M
+Neale Fraser,US Open,1960,1933,M
+Roy Emerson,Australian Open,1961,1936,M
+Manuel Santana,French Open,1961,1938,M
+Rod Laver,Wimbledon,1961,1938,M
+Roy Emerson,US Open,1961,1936,M
+Rod Laver,Australian Open,1962,1938,M
+Rod Laver,French Open,1962,1938,M
+Rod Laver,Wimbledon,1962,1938,M
+Rod Laver,US Open,1962,1938,M
+Roy Emerson,Australian Open,1963,1936,M
+Roy Emerson,French Open,1963,1936,M
+Chuck McKinley,Wimbledon,1963,1941,M
+Rafael Osuna,US Open,1963,1938,M
+Roy Emerson,Australian Open,1964,1936,M
+Manuel Santana,French Open,1964,1938,M
+Roy Emerson,Wimbledon,1964,1936,M
+Roy Emerson,US Open,1964,1936,M
+Roy Emerson,Australian Open,1965,1936,M
+Fred Stolle,French Open,1965,1938,M
+Roy Emerson,Wimbledon,1965,1936,M
+Manuel Santana,US Open,1965,1938,M
+Roy Emerson,Australian Open,1966,1936,M
+Tony Roche,French Open,1966,1945,M
+Manuel Santana,Wimbledon,1966,1938,M
+Fred Stolle,US Open,1966,1938,M
+Roy Emerson,Australian Open,1967,1936,M
+Roy Emerson,French Open,1967,1936,M
+John Newcombe,Wimbledon,1967,1944,M
+John Newcombe,US Open,1967,1944,M
+Bill Bowrey,Australian Open,1968,1943,M
+Ken Rosewall,French Open,1968,1934,M
+Rod Laver,Wimbledon,1968,1938,M
+Arthur Ashe,US Open,1968,1943,M
+Rod Laver,Australian Open,1969,1938,M
+Rod Laver,French Open,1969,1938,M
+Rod Laver,Wimbledon,1969,1938,M
+Rod Laver,US Open,1969,1938,M
+Arthur Ashe,Australian Open,1970,1943,M
+Jan Kodeš,French Open,1970,1946,M
+John Newcombe,Wimbledon,1970,1944,M
+Ken Rosewall,US Open,1970,1934,M
+Ken Rosewall,Australian Open,1971,1934,M
+Jan Kodeš,French Open,1971,1946,M
+John Newcombe,Wimbledon,1971,1944,M
+Stan Smith,US Open,1971,1946,M
+Ken Rosewall,Australian Open,1972,1934,M
+Andrés Gimeno,French Open,1972,1937,M
+Stan Smith,Wimbledon,1972,1946,M
+Ilie Năstase,US Open,1972,1946,M
+John Newcombe,Australian Open,1973,1944,M
+Ilie Năstase,French Open,1973,1946,M
+Jan Kodeš,Wimbledon,1973,1946,M
+John Newcombe,US Open,1973,1944,M
+Jimmy Connors,Australian Open,1974,1952,M
+Björn Borg,French Open,1974,1956,M
+Jimmy Connors,Wimbledon,1974,1952,M
+Jimmy Connors,US Open,1974,1952,M
+John Newcombe,Australian Open,1975,1944,M
+Björn Borg,French Open,1975,1956,M
+Arthur Ashe,Wimbledon,1975,1943,M
+Manuel Orantes,US Open,1975,1949,M
+Mark Edmondson,Australian Open,1976,1954,M
+Adriano Panatta,French Open,1976,1950,M
+Björn Borg,Wimbledon,1976,1956,M
+Jimmy Connors,US Open,1976,1952,M
+Roscoe Tanner,Australian Open (Jan),1977,1951,M
+Guillermo Vilas,French Open,1977,1952,M
+Björn Borg,Wimbledon,1977,1956,M
+Guillermo Vilas,US Open,1977,1952,M
+Vitas Gerulaitis,Australian Open (Dec),1977,1954,M
+Guillermo Vilas,Australian Open (Dec),1978,1952,M
+Björn Borg,French Open,1978,1956,M
+Björn Borg,Wimbledon,1978,1956,M
+Jimmy Connors,US Open,1978,1952,M
+Guillermo Vilas,Australian Open (Dec),1979,1952,M
+Björn Borg,French Open,1979,1956,M
+Björn Borg,Wimbledon,1979,1956,M
+John McEnroe,US Open,1979,1959,M
+Brian Teacher,Australian Open (Dec),1980,1954,M
+Björn Borg,French Open,1980,1956,M
+Björn Borg,Wimbledon,1980,1956,M
+John McEnroe,US Open,1980,1959,M
+Johan Kriek,Australian Open (Dec),1981,1958,M
+Björn Borg,French Open,1981,1956,M
+John McEnroe,Wimbledon,1981,1959,M
+John McEnroe,US Open,1981,1959,M
+Johan Kriek,Australian Open (Dec),1982,1958,M
+Mats Wilander,French Open,1982,1964,M
+Jimmy Connors,Wimbledon,1982,1952,M
+Jimmy Connors,US Open,1982,1952,M
+Mats Wilander,Australian Open (Dec),1983,1964,M
+Yannick Noah,French Open,1983,1960,M
+John McEnroe,Wimbledon,1983,1959,M
+Jimmy Connors,US Open,1983,1952,M
+Mats Wilander,Australian Open (Dec),1984,1964,M
+Ivan Lendl,French Open,1984,1960,M
+John McEnroe,Wimbledon,1984,1959,M
+John McEnroe,US Open,1984,1959,M
+Stefan Edberg,Australian Open (Dec),1985,1966,M
+Mats Wilander,French Open,1985,1964,M
+Boris Becker,Wimbledon,1985,1967,M
+Ivan Lendl,US Open,1985,1960,M
+Ivan Lendl,French Open,1986,1960,M
+Boris Becker,Wimbledon,1986,1967,M
+Ivan Lendl,US Open,1986,1960,M
+Stefan Edberg,Australian Open,1987,1966,M
+Ivan Lendl,French Open,1987,1960,M
+Pat Cash,Wimbledon,1987,1965,M
+Ivan Lendl,US Open,1987,1960,M
+Mats Wilander,Australian Open,1988,1964,M
+Mats Wilander,French Open,1988,1964,M
+Stefan Edberg,Wimbledon,1988,1966,M
+Mats Wilander,US Open,1988,1964,M
+Ivan Lendl,Australian Open,1989,1960,M
+Michael Chang,French Open,1989,1972,M
+Boris Becker,Wimbledon,1989,1967,M
+Boris Becker,US Open,1989,1967,M
+Ivan Lendl,Australian Open,1990,1960,M
+Andrés Gómez,French Open,1990,1960,M
+Stefan Edberg,Wimbledon,1990,1966,M
+Pete Sampras,US Open,1990,1971,M
+Boris Becker,Australian Open,1991,1967,M
+Jim Courier,French Open,1991,1970,M
+Michael Stich,Wimbledon,1991,1968,M
+Stefan Edberg,US Open,1991,1966,M
+Jim Courier,Australian Open,1992,1970,M
+Jim Courier,French Open,1992,1970,M
+Andre Agassi,Wimbledon,1992,1970,M
+Stefan Edberg,US Open,1992,1966,M
+Jim Courier,Australian Open,1993,1970,M
+Sergi Bruguera,French Open,1993,1971,M
+Pete Sampras,Wimbledon,1993,1971,M
+Pete Sampras,US Open,1993,1971,M
+Pete Sampras,Australian Open,1994,1971,M
+Sergi Bruguera,French Open,1994,1971,M
+Pete Sampras,Wimbledon,1994,1971,M
+Andre Agassi,US Open,1994,1970,M
+Andre Agassi,Australian Open,1995,1970,M
+Thomas Muster,French Open,1995,1967,M
+Pete Sampras,Wimbledon,1995,1971,M
+Pete Sampras,US Open,1995,1971,M
+Boris Becker,Australian Open,1996,1967,M
+Yevgeny Kafelnikov,French Open,1996,1974,M
+Richard Krajicek,Wimbledon,1996,1971,M
+Pete Sampras,US Open,1996,1971,M
+Pete Sampras,Australian Open,1997,1971,M
+Gustavo Kuerten,French Open,1997,1976,M
+Pete Sampras,Wimbledon,1997,1971,M
+Patrick Rafter,US Open,1997,1972,M
+Petr Korda,Australian Open,1998,1968,M
+Carlos Moyá,French Open,1998,1976,M
+Pete Sampras,Wimbledon,1998,1971,M
+Patrick Rafter,US Open,1998,1972,M
+Yevgeny Kafelnikov,Australian Open,1999,1974,M
+Andre Agassi,French Open,1999,1970,M
+Pete Sampras,Wimbledon,1999,1971,M
+Andre Agassi,US Open,1999,1970,M
+Andre Agassi,Australian Open,2000,1970,M
+Gustavo Kuerten,French Open,2000,1976,M
+Pete Sampras,Wimbledon,2000,1971,M
+Marat Safin,US Open,2000,1980,M
+Andre Agassi,Australian Open,2001,1970,M
+Gustavo Kuerten,French Open,2001,1976,M
+Goran Ivanišević,Wimbledon,2001,1971,M
+Lleyton Hewitt,US Open,2001,1981,M
+Thomas Johansson,Australian Open,2002,1975,M
+Albert Costa,French Open,2002,1975,M
+Lleyton Hewitt,Wimbledon,2002,1981,M
+Pete Sampras,US Open,2002,1971,M
+Andre Agassi,Australian Open,2003,1970,M
+Juan Carlos Ferrero,French Open,2003,1980,M
+Roger Federer,Wimbledon,2003,1981,M
+Andy Roddick,US Open,2003,1982,M
+Roger Federer,Australian Open,2004,1981,M
+Gastón Gaudio,French Open,2004,1978,M
+Roger Federer,Wimbledon,2004,1981,M
+Roger Federer,US Open,2004,1981,M
+Marat Safin,Australian Open,2005,1980,M
+Rafael Nadal,French Open,2005,1986,M
+Roger Federer,Wimbledon,2005,1981,M
+Roger Federer,US Open,2005,1981,M
+Roger Federer,Australian Open,2006,1981,M
+Rafael Nadal,French Open,2006,1986,M
+Roger Federer,Wimbledon,2006,1981,M
+Roger Federer,US Open,2006,1981,M
+Roger Federer,Australian Open,2007,1981,M
+Rafael Nadal,French Open,2007,1986,M
+Roger Federer,Wimbledon,2007,1981,M
+Roger Federer,US Open,2007,1981,M
+Novak Djokovic,Australian Open,2008,1987,M
+Rafael Nadal,French Open,2008,1986,M
+Rafael Nadal,Wimbledon,2008,1986,M
+Roger Federer,US Open,2008,1981,M
+Rafael Nadal,Australian Open,2009,1986,M
+Roger Federer,French Open,2009,1981,M
+Roger Federer,Wimbledon,2009,1981,M
+Juan Martín del Potro,US Open,2009,1988,M
+Roger Federer,Australian Open,2010,1981,M
+Rafael Nadal,French Open,2010,1986,M
+Rafael Nadal,Wimbledon,2010,1986,M
+Rafael Nadal,US Open,2010,1986,M
+Novak Djokovic,Australian Open,2011,1987,M
+Rafael Nadal,French Open,2011,1986,M
+Novak Djokovic,Wimbledon,2011,1987,M
+Novak Djokovic,US Open,2011,1987,M
+Novak Djokovic,Australian Open,2012,1987,M
+Rafael Nadal,French Open,2012,1986,M
+Roger Federer,Wimbledon,2012,1981,M
+Andy Murray,US Open,2012,1987,M
+Novak Djokovic,Australian Open,2013,1987,M
+Rafael Nadal,French Open,2013,1986,M
+Andy Murray,Wimbledon,2013,1987,M
+Rafael Nadal,US Open,2013,1986,M
+Stan Wawrinka,Australian Open,2014,1985,M
+Rafael Nadal,French Open,2014,1986,M
+Novak Djokovic,Wimbledon,2014,1987,M
+Marin Čilić,US Open,2014,1988,M
+Novak Djokovic,Australian Open,2015,1987,M
+Stan Wawrinka,French Open,2015,1985,M
+Novak Djokovic,Wimbledon,2015,1987,M
+Novak Djokovic,US Open,2015,1987,M
+Novak Djokovic,Australian Open,2016,1987,M
+Novak Djokovic,French Open,2016,1987,M
+Andy Murray,Wimbledon,2016,1987,M
+Stan Wawrinka,US Open,2016,1985,M
+Roger Federer,Australian Open,2017,1981,M
+Rafael Nadal,French Open,2017,1986,M
+Roger Federer,Wimbledon,2017,1981,M
+Rafael Nadal,US Open,2017,1986,M
+Roger Federer,Australian Open,2018,1981,M
+Rafael Nadal,French Open,2018,1986,M
+Novak Djokovic,Wimbledon,2018,1987,M
+Novak Djokovic,US Open,2018,1987,M
+Novak Djokovic,Australian Open,2019,1987,M
+Rafael Nadal,French Open,2019,1986,M
+Novak Djokovic,Wimbledon,2019,1987,M
+Rafael Nadal,US Open,2019,1986,M
+Novak Djokovic,Australian Open,2020,1987,M
+Rafael Nadal,French Open,2020,1986,M
+Dominic Thiem,US Open,2020,1993,M
+Novak Djokovic,Australian Open,2021,1987,M
+Novak Djokovic,French Open,2021,1987,M
+Novak Djokovic,Wimbledon,2021,1987,M
+Daniil Medvedev,US Open,2021,1996,M
+Rafael Nadal,Australian Open,2022,1986,M
+Rafael Nadal,French Open,2022,1986,M
+Novak Djokovic,Wimbledon,2022,1987,M
+Carlos Alcaraz,US Open,2022,2003,M
+Novak Djokovic,Australian Open,2023,1987,M
+Novak Djokovic,French Open,2023,1987,M
+Carlos Alcaraz,Wimbledon,2023,2003,M
+Novak Djokovic,US Open,2023,1987,M
+Jannik Sinner,Australian Open,2024,2001,M
+Carlos Alcaraz,French Open,2024,2003,M
+Carlos Alcaraz,Wimbledon,2024,2003,M
+Jannik Sinner,US Open,2024,2001,M
+Maud Watson,Wimbledon,1884,1864,F
+Maud Watson,Wimbledon,1885,1864,F
+Blanche Bingley Hillyard,Wimbledon,1886,1863,F
+Lottie Dod,Wimbledon,1887,1871,F
+Ellen Hansell,US Open,1887,1869,F
+Lottie Dod,Wimbledon,1888,1871,F
+Bertha Townsend,US Open,1888,1869,F
+Blanche Bingley Hillyard,Wimbledon,1889,1863,F
+Bertha Townsend,US Open,1889,1869,F
+Helen Rice,Wimbledon,1890,1866,F
+Ellen Roosevelt,US Open,1890,1868,F
+Lottie Dod,Wimbledon,1891,1871,F
+Mabel Cahill,US Open,1891,1863,F
+Lottie Dod,Wimbledon,1892,1871,F
+Mabel Cahill,US Open,1892,1863,F
+Lottie Dod,Wimbledon,1893,1871,F
+Blanche Bingley Hillyard,Wimbledon,1894,1863,F
+Helen Hellwig,US Open,1894,1874,F
+Charlotte Cooper Sterry,Wimbledon,1895,1870,F
+Juliette Atkinson,US Open,1895,1873,F
+Charlotte Cooper Sterry,Wimbledon,1896,1870,F
+Elisabeth Moore,US Open,1896,1876,F
+Blanche Bingley Hillyard,Wimbledon,1897,1863,F
+Juliette Atkinson,US Open,1897,1873,F
+Charlotte Cooper Sterry,Wimbledon,1898,1870,F
+Juliette Atkinson,US Open,1898,1873,F
+Blanche Bingley Hillyard,Wimbledon,1899,1863,F
+Marion Jones,US Open,1899,1879,F
+Yvonne Prévost,French Open,1900,1878,F
+Blanche Bingley Hillyard,Wimbledon,1900,1863,F
+Myrtle McAteer,US Open,1900,1878,F
+Yvonne Prévost,French Open,1900,1878,F
+Blanche Bingley Hillyard,Wimbledon,1900,1863,F
+Myrtle McAteer,US Open,1900,1878,F
+Suzanne Girod,French Open,1901,1871,F
+Charlotte Cooper Sterry,Wimbledon,1901,1870,F
+Elisabeth Moore,US Open,1901,1876,F
+Muriel Robb,Wimbledon,1902,1878,F
+Marion Jones,US Open,1902,1879,F
+Dorothea Douglass Lambert Chambers,Wimbledon,1903,1878,F
+Elisabeth Moore,US Open,1903,1876,F
+Kate Gillou,French Open,1904,1887,F
+Dorothea Douglass Lambert Chambers,Wimbledon,1904,1878,F
+May Sutton Bundy,US Open,1904,1886,F
+Kate Gillou,French Open,1905,1887,F
+May Sutton Bundy,Wimbledon,1905,1886,F
+Elisabeth Moore,US Open,1905,1876,F
+Kate Gillou-Fenwick,French Open,1906,1887,F
+Dorothea Douglass Lambert Chambers,Wimbledon,1906,1878,F
+Helen Homans,US Open,1906,1877,F
+Comtesse de Kermel,French Open,1907,1874,F
+May Sutton Bundy,Wimbledon,1907,1886,F
+Evelyn Sears,US Open,1907,1875,F
+Kate Gillou-Fenwick,French Open,1908,1887,F
+Charlotte Cooper Sterry,Wimbledon,1908,1870,F
+Maud Barger-Wallach,US Open,1908,1870,F
+Jeanne Matthey,French Open,1909,1886,F
+Dora Boothby,Wimbledon,1909,1881,F
+Hazel Hotchkiss Wightman,US Open,1909,1886,F
+Jeanne Matthey,French Open,1910,1886,F
+Dorothea Douglass Lambert Chambers,Wimbledon,1910,1878,F
+Hazel Hotchkiss Wightman,US Open,1910,1886,F
+Jeanne Matthey,French Open,1911,1886,F
+Dorothea Douglass Lambert Chambers,Wimbledon,1911,1878,F
+Hazel Hotchkiss Wightman,US Open,1911,1886,F
+Jeanne Matthey,French Open,1912,1886,F
+Ethel Thomson Larcombe,Wimbledon,1912,1879,F
+Mary Browne,US Open,1912,1891,F
+Marguerite Broquedis,French Open,1913,1893,F
+Dorothea Douglass Lambert Chambers,Wimbledon,1913,1878,F
+Mary Browne,US Open,1913,1891,F
+Marguerite Broquedis,French Open,1914,1893,F
+Dorothea Douglass Lambert Chambers,Wimbledon,1914,1878,F
+Mary Browne,US Open,1914,1891,F
+Molla Bjurstedt Mallory,US Open,1915,1884,F
+Molla Bjurstedt Mallory,US Open,1916,1884,F
+Molla Bjurstedt Mallory,US Open,1917,1884,F
+Molla Bjurstedt Mallory,US Open,1918,1884,F
+Suzanne Lenglen,French Open,1919,1899,F
+Hazel Hotchkiss Wightman,US Open,1919,1886,F
+Suzanne Lenglen,French Open,1920,1899,F
+Suzanne Lenglen,Wimbledon,1920,1899,F
+Molla Bjurstedt Mallory,US Open,1920,1884,F
+Suzanne Lenglen,French Open,1921,1899,F
+Suzanne Lenglen,Wimbledon,1921,1899,F
+Molla Bjurstedt Mallory,US Open,1921,1884,F
+Margaret Molesworth,Australian Open,1922,1894,F
+Suzanne Lenglen,French Open,1922,1899,F
+Suzanne Lenglen,Wimbledon,1922,1899,F
+Molla Bjurstedt Mallory,US Open,1922,1884,F
+Margaret Molesworth,Australian Open,1923,1894,F
+Suzanne Lenglen,French Open,1923,1899,F
+Suzanne Lenglen,Wimbledon,1923,1899,F
+Helen Wills Moody,US Open,1923,1905,F
+Sylvia Lance Harper,Australian Open,1924,1895,F
+Julie Vlasto,French Open,1924,1903,F
+Kathleen McKane Godfree,Wimbledon,1924,1896,F
+Helen Wills Moody,US Open,1924,1905,F
+Daphne Akhurst,Australian Open,1925,1903,F
+Suzanne Lenglen,French Open,1925,1899,F
+Suzanne Lenglen,Wimbledon,1925,1899,F
+Helen Wills Moody,US Open,1925,1905,F
+Daphne Akhurst,Australian Open,1926,1903,F
+Suzanne Lenglen,French Open,1926,1899,F
+Kathleen McKane Godfree,Wimbledon,1926,1896,F
+Molla Bjurstedt Mallory,US Open,1926,1884,F
+Esna Boyd Robertson,Australian Open,1927,1899,F
+Kornelia Bouman,French Open,1927,1903,F
+Helen Wills Moody,Wimbledon,1927,1905,F
+Helen Wills Moody,US Open,1927,1905,F
+Daphne Akhurst,Australian Open,1928,1903,F
+Helen Wills Moody,French Open,1928,1905,F
+Helen Wills Moody,Wimbledon,1928,1905,F
+Helen Wills Moody,US Open,1928,1905,F
+Daphne Akhurst,Australian Open,1929,1903,F
+Helen Wills Moody,French Open,1929,1905,F
+Helen Wills Moody,Wimbledon,1929,1905,F
+Helen Wills Moody,US Open,1929,1905,F
+Daphne Akhurst,Australian Open,1930,1903,F
+Helen Wills Moody,French Open,1930,1905,F
+Helen Wills Moody,Wimbledon,1930,1905,F
+Betty Nuthall,US Open,1930,1911,F
+Coral McInnes Buttsworth,Australian Open,1931,1900,F
+Cilly Aussem,French Open,1931,1909,F
+Cilly Aussem,Wimbledon,1931,1909,F
+Helen Wills Moody,US Open,1931,1905,F
+Coral McInnes Buttsworth,Australian Open,1932,1900,F
+Helen Wills Moody,French Open,1932,1905,F
+Helen Wills Moody,Wimbledon,1932,1905,F
+Helen Jacobs,US Open,1932,1908,F
+Joan Hartigan,Australian Open,1933,1912,F
+Peggy Scriven Vivian,French Open,1933,1912,F
+Helen Wills Moody,Wimbledon,1933,1905,F
+Helen Jacobs,US Open,1933,1908,F
+Joan Hartigan,Australian Open,1934,1912,F
+Peggy Scriven Vivian,French Open,1934,1912,F
+Dorothy Round,Wimbledon,1934,1909,F
+Helen Jacobs,US Open,1934,1908,F
+Dorothy Round,Australian Open,1935,1909,F
+Hilde Krahwinkel Sperling,French Open,1935,1908,F
+Helen Wills Moody,Wimbledon,1935,1905,F
+Helen Jacobs,US Open,1935,1908,F
+Joan Hartigan,Australian Open,1936,1912,F
+Hilde Krahwinkel Sperling,French Open,1936,1908,F
+Helen Jacobs,Wimbledon,1936,1908,F
+Alice Marble,US Open,1936,1913,F
+Nancye Wynne Bolton,Australian Open,1937,1916,F
+Hilde Krahwinkel Sperling,French Open,1937,1908,F
+Dorothy Round,Wimbledon,1937,1909,F
+Anita Lizana,US Open,1937,1915,F
+Dorothy Bundy Cheney,Australian Open,1938,1916,F
+Simonne Passemard Mathieu,French Open,1938,1908,F
+Helen Wills Moody,Wimbledon,1938,1905,F
+Alice Marble,US Open,1938,1913,F
+Emily Hood Westacott,Australian Open,1939,1910,F
+Simonne Passemard Mathieu,French Open,1939,1908,F
+Alice Marble,Wimbledon,1939,1913,F
+Alice Marble,US Open,1939,1913,F
+Nancye Wynne Bolton,Australian Open,1940,1916,F
+Alice Marble,US Open,1940,1913,F
+Sarah Palfrey Cooke,US Open,1941,1912,F
+Pauline Betz,US Open,1942,1919,F
+Simone Iribarne Lafargue,French Open,1943,1914,F
+Pauline Betz,US Open,1943,1919,F
+Raymonde Veber Jones,French Open,1944,1917,F
+Pauline Betz,US Open,1944,1919,F
+Lolette Payot,French Open,1945,1910,F
+Sarah Palfrey Cooke,US Open,1945,1912,F
+Nancye Wynne Bolton,Australian Open,1946,1916,F
+Margaret Osborne duPont,French Open,1946,1918,F
+Pauline Betz,Wimbledon,1946,1919,F
+Pauline Betz,US Open,1946,1919,F
+Nancye Wynne Bolton,Australian Open,1947,1916,F
+Patricia Canning Todd,French Open,1947,1922,F
+Margaret Osborne duPont,Wimbledon,1947,1918,F
+Louise Brough,US Open,1947,1923,F
+Nancye Wynne Bolton,Australian Open,1948,1916,F
+Nelly Landry,French Open,1948,1916,F
+Louise Brough,Wimbledon,1948,1923,F
+Margaret Osborne duPont,US Open,1948,1918,F
+Doris Hart,Australian Open,1949,1925,F
+Margaret Osborne duPont,French Open,1949,1918,F
+Louise Brough,Wimbledon,1949,1923,F
+Margaret Osborne duPont,US Open,1949,1918,F
+Louise Brough,Australian Open,1950,1923,F
+Doris Hart,French Open,1950,1925,F
+Louise Brough,Wimbledon,1950,1923,F
+Margaret Osborne duPont,US Open,1950,1918,F
+Nancye Wynne Bolton,Australian Open,1951,1916,F
+Shirley Fry,French Open,1951,1927,F
+Doris Hart,Wimbledon,1951,1925,F
+Maureen Connolly,US Open,1951,1934,F
+Thelma Coyne Long,Australian Open,1952,1918,F
+Doris Hart,French Open,1952,1925,F
+Maureen Connolly,Wimbledon,1952,1934,F
+Maureen Connolly,US Open,1952,1934,F
+Maureen Connolly,Australian Open,1953,1934,F
+Maureen Connolly,French Open,1953,1934,F
+Maureen Connolly,Wimbledon,1953,1934,F
+Maureen Connolly,US Open,1953,1934,F
+Thelma Coyne Long,Australian Open,1954,1918,F
+Maureen Connolly,French Open,1954,1934,F
+Maureen Connolly,Wimbledon,1954,1934,F
+Doris Hart,US Open,1954,1925,F
+Beryl Penrose,Australian Open,1955,1930,F
+Angela Mortimer,French Open,1955,1932,F
+Louise Brough,Wimbledon,1955,1923,F
+Doris Hart,US Open,1955,1925,F
+Mary Carter Reitano,Australian Open,1956,1934,F
+Althea Gibson,French Open,1956,1927,F
+Shirley Fry,Wimbledon,1956,1927,F
+Shirley Fry,US Open,1956,1927,F
+Shirley Fry,Australian Open,1957,1927,F
+Shirley Bloomer Brasher,French Open,1957,1934,F
+Althea Gibson,Wimbledon,1957,1927,F
+Althea Gibson,US Open,1957,1927,F
+Angela Mortimer,Australian Open,1958,1932,F
+Zsuzsa Körmöczy,French Open,1958,1924,F
+Althea Gibson,Wimbledon,1958,1927,F
+Althea Gibson,US Open,1958,1927,F
+Mary Carter Reitano,Australian Open,1959,1934,F
+Christine Truman,French Open,1959,1941,F
+Maria Bueno,Wimbledon,1959,1939,F
+Maria Bueno,US Open,1959,1939,F
+Margaret Smith Court,Australian Open,1960,1942,F
+Darlene Hard,French Open,1960,1936,F
+Maria Bueno,Wimbledon,1960,1939,F
+Darlene Hard,US Open,1960,1936,F
+Margaret Smith Court,Australian Open,1961,1942,F
+Ann Haydon Jones,French Open,1961,1938,F
+Angela Mortimer,Wimbledon,1961,1932,F
+Darlene Hard,US Open,1961,1936,F
+Margaret Smith Court,Australian Open,1962,1942,F
+Margaret Smith Court,French Open,1962,1942,F
+Karen Hantze Susman,Wimbledon,1962,1942,F
+Margaret Smith Court,US Open,1962,1942,F
+Margaret Smith Court,Australian Open,1963,1942,F
+Lesley Turner Bowrey,French Open,1963,1942,F
+Margaret Smith Court,Wimbledon,1963,1942,F
+Maria Bueno,US Open,1963,1939,F
+Margaret Smith Court,Australian Open,1964,1942,F
+Margaret Smith Court,French Open,1964,1942,F
+Maria Bueno,Wimbledon,1964,1939,F
+Maria Bueno,US Open,1964,1939,F
+Margaret Smith Court,Australian Open,1965,1942,F
+Lesley Turner Bowrey,French Open,1965,1942,F
+Margaret Smith Court,Wimbledon,1965,1942,F
+Margaret Smith Court,US Open,1965,1942,F
+Margaret Smith Court,Australian Open,1966,1942,F
+Ann Haydon Jones,French Open,1966,1938,F
+Billie Jean Moffitt King,Wimbledon,1966,1943,F
+Maria Bueno,US Open,1966,1939,F
+Nancy Richey,Australian Open,1967,1942,F
+Françoise Dürr,French Open,1967,1942,F
+Billie Jean Moffitt King,Wimbledon,1967,1943,F
+Billie Jean Moffitt King,US Open,1967,1943,F
+Billie Jean Moffitt King,Australian Open,1968,1943,F
+Nancy Richey,French Open,1968,1942,F
+Billie Jean Moffitt King,Wimbledon,1968,1943,F
+Virginia Wade,US Open,1968,1945,F
+Margaret Smith Court,Australian Open,1969,1942,F
+Margaret Smith Court,French Open,1969,1942,F
+Ann Haydon Jones,Wimbledon,1969,1938,F
+Margaret Smith Court,US Open,1969,1942,F
+Margaret Smith Court,Australian Open,1970,1942,F
+Margaret Smith Court,French Open,1970,1942,F
+Margaret Smith Court,Wimbledon,1970,1942,F
+Margaret Smith Court,US Open,1970,1942,F
+Margaret Smith Court,Australian Open,1971,1942,F
+Evonne Goolagong Cawley,French Open,1971,1951,F
+Evonne Goolagong Cawley,Wimbledon,1971,1951,F
+Billie Jean Moffitt King,US Open,1971,1943,F
+Virginia Wade,Australian Open,1972,1945,F
+Billie Jean Moffitt King,French Open,1972,1943,F
+Billie Jean Moffitt King,Wimbledon,1972,1943,F
+Billie Jean Moffitt King,US Open,1972,1943,F
+Margaret Smith Court,Australian Open,1973,1942,F
+Margaret Smith Court,French Open,1973,1942,F
+Billie Jean Moffitt King,Wimbledon,1973,1943,F
+Margaret Smith Court,US Open,1973,1942,F
+Evonne Goolagong Cawley,Australian Open,1974,1951,F
+Chris Evert,French Open,1974,1954,F
+Chris Evert,Wimbledon,1974,1954,F
+Billie Jean Moffitt King,US Open,1974,1943,F
+Evonne Goolagong Cawley,Australian Open,1975,1951,F
+Chris Evert,French Open,1975,1954,F
+Billie Jean Moffitt King,Wimbledon,1975,1943,F
+Chris Evert,US Open,1975,1954,F
+Evonne Goolagong Cawley,Australian Open,1976,1951,F
+Sue Barker,French Open,1976,1956,F
+Chris Evert,Wimbledon,1976,1954,F
+Chris Evert,US Open,1976,1954,F
+Kerry Melville Reid,Australian Open,1977,1947,F
+Mima Jaušovec,French Open,1977,1956,F
+Virginia Wade,Wimbledon,1977,1945,F
+Chris Evert,US Open,1977,1954,F
+Evonne Goolagong Cawley,Australian Open,1977,1951,F
+Virginia Ruzici,French Open,1978,1955,F
+Martina Navratilova,Wimbledon,1978,1956,F
+Chris Evert,US Open,1978,1954,F
+Barbara Jordan,Australian Open,1979,1957,F
+Chris Evert,French Open,1979,1954,F
+Martina Navratilova,Wimbledon,1979,1956,F
+Tracy Austin,US Open,1979,1962,F
+Hana Mandlíková,Australian Open,1980,1962,F
+Chris Evert,French Open,1980,1954,F
+Evonne Goolagong Cawley,Wimbledon,1980,1951,F
+Chris Evert,US Open,1980,1954,F
+Martina Navratilova,Australian Open,1981,1956,F
+Hana Mandlíková,French Open,1981,1962,F
+Chris Evert,Wimbledon,1981,1954,F
+Tracy Austin,US Open,1981,1962,F
+Chris Evert,Australian Open,1982,1954,F
+Martina Navratilova,French Open,1982,1956,F
+Martina Navratilova,Wimbledon,1982,1956,F
+Chris Evert,US Open,1982,1954,F
+Martina Navratilova,Australian Open,1983,1956,F
+Chris Evert,French Open,1983,1954,F
+Martina Navratilova,Wimbledon,1983,1956,F
+Martina Navratilova,US Open,1983,1956,F
+Chris Evert,Australian Open,1984,1954,F
+Martina Navratilova,French Open,1984,1956,F
+Martina Navratilova,Wimbledon,1984,1956,F
+Martina Navratilova,US Open,1984,1956,F
+Martina Navratilova,Australian Open,1985,1956,F
+Chris Evert,French Open,1985,1954,F
+Martina Navratilova,Wimbledon,1985,1956,F
+Hana Mandlíková,US Open,1985,1962,F
+Chris Evert,French Open,1986,1954,F
+Martina Navratilova,Wimbledon,1986,1956,F
+Martina Navratilova,US Open,1986,1956,F
+Hana Mandlíková,Australian Open,1987,1962,F
+Steffi Graf,French Open,1987,1969,F
+Martina Navratilova,Wimbledon,1987,1956,F
+Martina Navratilova,US Open,1987,1956,F
+Steffi Graf,Australian Open,1988,1969,F
+Steffi Graf,French Open,1988,1969,F
+Steffi Graf,Wimbledon,1988,1969,F
+Steffi Graf,US Open,1988,1969,F
+Steffi Graf,Australian Open,1989,1969,F
+Arantxa Sánchez Vicario,French Open,1989,1971,F
+Steffi Graf,Wimbledon,1989,1969,F
+Steffi Graf,US Open,1989,1969,F
+Steffi Graf,Australian Open,1990,1969,F
+Monica Seles,French Open,1990,1973,F
+Martina Navratilova,Wimbledon,1990,1956,F
+Gabriela Sabatini,US Open,1990,1970,F
+Monica Seles,Australian Open,1991,1973,F
+Monica Seles,French Open,1991,1973,F
+Steffi Graf,Wimbledon,1991,1969,F
+Monica Seles,US Open,1991,1973,F
+Monica Seles,Australian Open,1992,1973,F
+Monica Seles,French Open,1992,1973,F
+Steffi Graf,Wimbledon,1992,1969,F
+Monica Seles,US Open,1992,1973,F
+Monica Seles,Australian Open,1993,1973,F
+Steffi Graf,French Open,1993,1969,F
+Steffi Graf,Wimbledon,1993,1969,F
+Steffi Graf,US Open,1993,1969,F
+Steffi Graf,Australian Open,1994,1969,F
+Arantxa Sánchez Vicario,French Open,1994,1971,F
+Conchita Martínez,Wimbledon,1994,1972,F
+Arantxa Sánchez Vicario,US Open,1994,1971,F
+Mary Pierce,Australian Open,1995,1975,F
+Steffi Graf,French Open,1995,1969,F
+Steffi Graf,Wimbledon,1995,1969,F
+Steffi Graf,US Open,1995,1969,F
+Monica Seles,Australian Open,1996,1973,F
+Steffi Graf,French Open,1996,1969,F
+Steffi Graf,Wimbledon,1996,1969,F
+Steffi Graf,US Open,1996,1969,F
+Martina Hingis,Australian Open,1997,1980,F
+Iva Majoli,French Open,1997,1977,F
+Martina Hingis,Wimbledon,1997,1980,F
+Martina Hingis,US Open,1997,1980,F
+Martina Hingis,Australian Open,1998,1980,F
+Arantxa Sánchez Vicario,French Open,1998,1971,F
+Jana Novotná,Wimbledon,1998,1968,F
+Lindsay Davenport,US Open,1998,1976,F
+Martina Hingis,Australian Open,1999,1980,F
+Steffi Graf,French Open,1999,1969,F
+Lindsay Davenport,Wimbledon,1999,1976,F
+Serena Williams,US Open,1999,1981,F
+Lindsay Davenport,Australian Open,2000,1976,F
+Mary Pierce,French Open,2000,1975,F
+Venus Williams,Wimbledon,2000,1980,F
+Venus Williams,US Open,2000,1980,F
+Jennifer Capriati,Australian Open,2001,1976,F
+Jennifer Capriati,French Open,2001,1976,F
+Venus Williams,Wimbledon,2001,1980,F
+Venus Williams,US Open,2001,1980,F
+Jennifer Capriati,Australian Open,2002,1976,F
+Serena Williams,French Open,2002,1981,F
+Serena Williams,Wimbledon,2002,1981,F
+Serena Williams,US Open,2002,1981,F
+Serena Williams,Australian Open,2003,1981,F
+Justine Henin,French Open,2003,1982,F
+Serena Williams,Wimbledon,2003,1981,F
+Justine Henin,US Open,2003,1982,F
+Justine Henin,Australian Open,2004,1982,F
+Anastasia Myskina,French Open,2004,1981,F
+Maria Sharapova,Wimbledon,2004,1987,F
+Svetlana Kuznetsova,US Open,2004,1985,F
+Serena Williams,Australian Open,2005,1981,F
+Justine Henin,French Open,2005,1982,F
+Venus Williams,Wimbledon,2005,1980,F
+Kim Clijsters,US Open,2005,1983,F
+Amélie Mauresmo,Australian Open,2006,1979,F
+Justine Henin,French Open,2006,1982,F
+Amélie Mauresmo,Wimbledon,2006,1979,F
+Maria Sharapova,US Open,2006,1987,F
+Serena Williams,Australian Open,2007,1981,F
+Justine Henin,French Open,2007,1982,F
+Venus Williams,Wimbledon,2007,1980,F
+Justine Henin,US Open,2007,1982,F
+Maria Sharapova,Australian Open,2008,1987,F
+Ana Ivanovic,French Open,2008,1987,F
+Venus Williams,Wimbledon,2008,1980,F
+Serena Williams,US Open,2008,1981,F
+Serena Williams,Australian Open,2009,1981,F
+Svetlana Kuznetsova,French Open,2009,1985,F
+Serena Williams,Wimbledon,2009,1981,F
+Kim Clijsters,US Open,2009,1983,F
+Serena Williams,Australian Open,2010,1981,F
+Francesca Schiavone,French Open,2010,1980,F
+Serena Williams,Wimbledon,2010,1981,F
+Kim Clijsters,US Open,2010,1983,F
+Kim Clijsters,Australian Open,2011,1983,F
+Li Na,French Open,2011,1982,F
+Petra Kvitová,Wimbledon,2011,1990,F
+Samantha Stosur,US Open,2011,1984,F
+Victoria Azarenka,Australian Open,2012,1989,F
+Maria Sharapova,French Open,2012,1987,F
+Serena Williams,Wimbledon,2012,1981,F
+Serena Williams,US Open,2012,1981,F
+Victoria Azarenka,Australian Open,2013,1989,F
+Serena Williams,French Open,2013,1981,F
+Marion Bartoli,Wimbledon,2013,1984,F
+Serena Williams,US Open,2013,1981,F
+Li Na,Australian Open,2014,1982,F
+Maria Sharapova,French Open,2014,1987,F
+Petra Kvitová,Wimbledon,2014,1990,F
+Serena Williams,US Open,2014,1981,F
+Serena Williams,Australian Open,2015,1981,F
+Serena Williams,French Open,2015,1981,F
+Serena Williams,Wimbledon,2015,1981,F
+Flavia Pennetta,US Open,2015,1982,F
+Angelique Kerber,Australian Open,2016,1988,F
+Garbiñe Muguruza,French Open,2016,1993,F
+Serena Williams,Wimbledon,2016,1981,F
+Angelique Kerber,US Open,2016,1988,F
+Serena Williams,Australian Open,2017,1981,F
+Jeļena Ostapenko,French Open,2017,1997,F
+Garbiñe Muguruza,Wimbledon,2017,1993,F
+Sloane Stephens,US Open,2017,1993,F
+Caroline Wozniacki,Australian Open,2018,1990,F
+Simona Halep,French Open,2018,1991,F
+Angelique Kerber,Wimbledon,2018,1988,F
+Naomi Osaka,US Open,2018,1997,F
+Naomi Osaka,Australian Open,2019,1997,F
+Ashleigh Barty,French Open,2019,1996,F
+Simona Halep,Wimbledon,2019,1991,F
+Bianca Andreescu,US Open,2019,2000,F
+Sofia Kenin,Australian Open,2020,1998,F
+Iga Świątek,French Open,2020,2001,F
+Naomi Osaka,US Open,2020,1997,F
+Naomi Osaka,Australian Open,2021,1997,F
+Barbora Krejčíková,French Open,2021,1995,F
+Ashleigh Barty,Wimbledon,2021,1996,F
+Emma Raducanu,US Open,2021,2002,F
+Ashleigh Barty,Australian Open,2022,1996,F
+Iga Świątek,French Open,2022,2001,F
+Elena Rybakina,Wimbledon,2022,1999,F
+Iga Świątek,US Open,2022,2001,F
+Aryna Sabalenka,Australian Open,2023,1998,F
+Iga Świątek,French Open,2023,2001,F
+Markéta Vondroušová,Wimbledon,2023,1999,F
+Coco Gauff,US Open,2023,2004,F
+Aryna Sabalenka,Australian Open,2024,1998,F
+Iga Świątek,French Open,2024,2001,F
+Barbora Krejčíková,Wimbledon,2024,1995,F
+Aryna Sabalenka,US Open,2024,1998,F
