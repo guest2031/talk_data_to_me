@@ -1,0 +1,194 @@
+Country,gdp_per_capita,Continent,is_west,Flag,Population
+Luxembourg,135321.0,Europe,True,🇱🇺,645397
+Switzerland,106098.0,Europe,True,🇨🇭,8758971
+Ireland,103500.0,Europe,True,🇮🇪,5093520
+Norway,90434.0,Europe,True,🇳🇴,5432701
+Singapore,89370.0,Asia,False,🇸🇬,5847649
+United States,86601.0,North America,True,🇺🇸,332403650
+Iceland,85787.0,Europe,True,🇮🇸,375318
+Macau,77186.0,Asia,False,🇲🇴,682100
+Qatar,71568.0,Asia,False,🇶🇦,2889287
+Denmark,69273.0,Europe,True,🇩🇰,5860707
+Netherlands,67984.0,Europe,True,🇳🇱,17665602
+Australia,65966.0,Oceania,True,🇦🇺,26160180
+San Marino,59841.0,Europe,True,🇸🇲,34471
+Austria,58669.0,Europe,True,🇦🇹,9093950
+Sweden,57213.0,Europe,True,🇸🇪,10468138
+Belgium,56129.0,Europe,True,🇧🇪,11592625
+Germany,55521.0,Europe,True,🇩🇪,83149300
+Finland,54774.0,Europe,True,🇫🇮,5536190
+Canada,53834.0,North America,True,🇨🇦,38418619
+Hong Kong,53165.0,Asia,False,🇭🇰,7431021
+Israel,53111.0,Asia,True,🇮🇱,9845500
+United Kingdom,52423.0,Europe,True,🇬🇧,67322169
+United Arab Emirates,49550.0,Asia,False,🇦🇪,9948395
+France,48012.0,Europe,True,🇫🇷,65468855
+New Zealand,47072.0,Oceania,True,🇳🇿,5254610
+Andorra,45279.0,Europe,True,🇦🇩,79245
+Malta,44140.0,Europe,True,🇲🇹,535800
+European Union,43350.0,Europe,True,🇪🇺,447730000
+Italy,40287.0,Europe,True,🇮🇹,58871980
+Aruba,39697.0,North America,True,🇦🇼,107609
+Puerto Rico,37926.0,North America,True,🇵🇷,3193694
+Cyprus,37767.0,Asia,True,🇨🇾,1208045
+Bahamas,36322.0,North America,True,🇧🇸,409984
+South Korea,36132.0,Asia,False,🇰🇷,51835351
+Spain,35789.0,Europe,True,🇪🇸,47423841
+Brunei,34872.0,Asia,False,🇧🇳,445439
+Slovenia,34544.0,Europe,True,🇸🇮,2117726
+Taiwan,33234.0,Asia,False,🇹🇼,23894238
+Saudi Arabia,32881.0,Asia,False,🇸🇦,35837747
+Japan,32859.0,Asia,False,🇯🇵,124214719
+Kuwait,32290.0,Asia,False,🇰🇼,4573532
+Estonia,31531.0,Europe,True,🇪🇪,1327579
+Czech Republic,31366.0,Europe,True,🇨🇿,10693939
+Bahrain,29573.0,Asia,False,🇧🇭,1518412
+Portugal,29341.0,Europe,True,🇵🇹,10287999
+Guyana,28921.0,South America,False,🇬🇾,800584
+Lithuania,28713.0,Europe,True,🇱🇹,2607287
+Slovakia,26290.0,Europe,True,🇸🇰,5442288
+Barbados,24759.0,North America,True,🇧🇧,281197
+Greece,24342.0,Europe,True,🇬🇷,10228183
+Latvia,24223.0,Europe,True,🇱🇻,1830145
+Saint Kitts and Nevis,24203.0,North America,True,🇰🇳,47800
+Hungary,23881.0,Europe,True,🇭🇺,9750440
+Poland,23563.0,Europe,True,🇵🇱,37779798
+Croatia,23380.0,Europe,True,🇭🇷,3711754
+Uruguay,23053.0,South America,False,🇺🇾,3438010
+Antigua and Barbuda,22118.0,North America,True,🇦🇬,93900
+Seychelles,21290.0,Africa,False,🇸🇨,107118
+Oman,20631.0,Asia,False,🇴🇲,4765815
+Romania,20089.0,Europe,True,🇷🇴,19186270
+Trinidad and Tobago,19703.0,North America,True,🇹🇹,1443800
+Panama,19369.0,North America,False,🇵🇦,4538489
+Palau,17978.0,Oceania,False,🇵🇼,18300
+Costa Rica,17860.0,North America,False,🇨🇷,5247597
+Maldives,17287.0,Asia,False,🇲🇻,521021
+Bulgaria,17069.0,Europe,True,🇧🇬,6831547
+Chile,16365.0,South America,False,🇨🇱,19493653
+Turkey,15666.0,Asia,False,🇹🇷,86381148
+Russia,14953.0,Europe,False,🇷🇺,143377713
+Kazakhstan,14570.0,Asia,False,🇰🇿,19414835
+Saint Lucia,14034.0,North America,True,🇱🇨,184400
+Mexico,13972.0,North America,False,🇲🇽,129259637
+World,13900.0,World,False,🌍,8052070000
+Malaysia,13142.0,Asia,False,🇲🇾,33068491
+China,12969.0,Asia,False,🇨🇳,1404261667
+Argentina,12814.0,South America,False,🇦🇷,46674672
+Montenegro,12802.0,Europe,True,🇲🇪,617540
+Turkmenistan,12713.0,Asia,False,🇹🇲,6489600
+Mauritius,12601.0,Africa,False,🇲🇺,1265984
+Serbia,12514.0,Europe,True,🇷🇸,6921270
+Nauru,12285.0,Oceania,False,🇳🇷,10800
+Grenada,12050.0,North America,True,🇬🇩,126920
+Dominican Republic,11692.0,North America,False,🇩🇴,11006562
+Saint Vincent and the Grenadines,10558.0,North America,True,🇻🇨,101296
+Brazil,10296.0,South America,False,🇧🇷,214349717
+Albania,9598.0,Europe,True,🇦🇱,2815800
+Dominica,9392.0,North America,True,🇩🇲,71991
+Gabon,9257.0,Africa,False,🇬🇦,2346690
+Georgia,8883.0,Europe,False,🇬🇪,3645254
+North Macedonia,8659.0,Europe,True,🇲🇰,2069200
+Armenia,8518.0,Asia,False,🇦🇲,2880500
+Peru,8316.0,South America,False,🇵🇪,33902325
+Bosnia and Herzegovina,8221.0,Europe,True,🇧🇦,3289156
+Belize,8133.0,North America,False,🇧🇿,438336
+Equatorial Guinea,8102.0,Africa,False,🇬🇶,1523344
+Belarus,8008.0,Europe,False,🇧🇾,9389680
+Colombia,7917.0,South America,False,🇨🇴,53122953
+Suriname,7600.0,South America,False,🇸🇷,618040
+Thailand,7527.0,Asia,False,🇹🇭,71509344
+Jamaica,7487.0,North America,False,🇯🇲,2826710
+Azerbaijan,7381.0,Asia,False,🇦🇿,10217315
+Moldova,7368.0,Europe,True,🇲🇩,2618378
+Botswana,7341.0,Africa,False,🇧🇼,2614187
+Tuvalu,7190.0,Oceania,False,🇹🇻,11192
+Marshall Islands,6850.0,Oceania,False,🇲🇭,59543
+Ecuador,6758.0,South America,False,🇪🇨,18533865
+Mongolia,6666.0,Asia,False,🇲🇳,3383266
+Libya,6482.0,Africa,False,🇱🇾,6998130
+South Africa,6377.0,Africa,False,🇿🇦,60142978
+Kosovo,6334.0,Europe,True,🇽🇰,1831000
+Guatemala,6295.0,North America,False,🇬🇹,19544020
+Fiji,6257.0,Oceania,False,🇫🇯,929460
+Iraq,5947.0,Asia,False,🇮🇶,44096020
+Paraguay,5869.0,South America,False,🇵🇾,7290024
+El Salvador,5607.0,North America,False,🇸🇻,6499630
+Algeria,5579.0,Africa,False,🇩🇿,45783440
+Ukraine,5505.0,Europe,True,🇺🇦,36740000
+Iran,5300.0,Asia,False,🇮🇷,88683850
+Micronesia,5120.0,Oceania,False,🇫🇲,116486
+Samoa,5048.0,Oceania,False,🇼🇸,215052
+Indonesia,4981.0,Asia,False,🇮🇩,276361783
+Tonga,4858.0,Oceania,False,🇹🇴,108225
+Cape Verde,4790.0,Africa,False,🇨🇻,593599
+Jordan,4682.0,Asia,False,🇯🇴,11048024
+Vietnam,4649.0,Asia,False,🇻🇳,99600310
+Lebanon,4487.0,Asia,False,🇱🇧,5486745
+Namibia,4410.0,Africa,False,🇳🇦,2538917
+Eswatini,4375.0,Africa,False,🇸🇿,1216618
+Tunisia,4267.0,Africa,False,🇹🇳,12629477
+Morocco,4204.0,Africa,False,🇲🇦,38071287
+Djibouti,4155.0,Africa,False,🇩🇯,1067651
+Philippines,4154.0,Asia,False,🇵🇭,118147347
+Bhutan,4068.0,Asia,False,🇧🇹,782455
+Venezuela,4019.0,South America,False,🇻🇪,30770584
+Bolivia,3920.0,South America,False,🇧🇴,12713735
+Egypt,3542.0,Africa,False,🇪🇬,110228123
+Honduras,3446.0,North America,False,🇭🇳,10363772
+São Tomé and Príncipe,3425.0,Africa,False,🇸🇹,238812
+Vanuatu,3387.0,Oceania,False,🇻🇺,333508
+Uzbekistan,3051.0,Asia,False,🇺🇿,36624303
+Angola,2961.0,Africa,False,🇦🇴,36871284
+Nicaragua,2878.0,North America,False,🇳🇮,6937015
+Cambodia,2744.0,Asia,False,🇰🇭,16938736
+Ivory Coast,2720.0,Africa,False,🇨🇮,28648558
+India,2698.0,Asia,False,🇮🇳,1428627663
+Bangladesh,2625.0,Asia,False,🇧🇩,173707768
+Papua New Guinea,2544.0,Oceania,False,🇵🇬,10131828
+Kiribati,2455.0,Oceania,False,🇰🇮,125648
+Congo,2384.0,Africa,False,🇨🇬,6279431
+Mauritania,2376.0,Africa,False,🇲🇷,4769446
+Ghana,2232.0,Africa,False,🇬🇭,34737269
+Kyrgyzstan,2229.0,Asia,False,🇰🇬,6731837
+Kenya,2218.0,Africa,False,🇰🇪,55554998
+Solomon Islands,2209.0,Oceania,False,🇸🇧,740854
+Haiti,2120.0,North America,False,🇭🇹,12237657
+Zimbabwe,2114.0,Africa,False,🇿🇼,16150362
+Laos,1945.0,Asia,False,🇱🇦,7691210
+Cameroon,1821.0,Africa,False,🇨🇲,28583827
+Senegal,1805.0,Africa,False,🇸🇳,18067670
+Guinea,1652.0,Africa,False,🇬🇳,13963169
+Comoros,1630.0,Africa,False,🇰🇲,865329
+Pakistan,1588.0,Asia,False,🇵🇰,248261481
+Benin,1510.0,Africa,False,🇧🇯,13607484
+East Timor,1454.0,Asia,False,🇹🇱,1391293
+Nepal,1381.0,Asia,False,🇳🇵,30575612
+Ethiopia,1350.0,Africa,False,🇪🇹,127719825
+Tajikistan,1276.0,Asia,False,🇹🇯,10626354
+Zambia,1226.0,Africa,False,🇿🇲,20373819
+Tanzania,1224.0,Africa,False,🇹🇿,67454879
+Uganda,1187.0,Africa,False,🇺🇬,47703835
+Myanmar,1179.0,Asia,False,🇲🇲,54507280
+Guinea-Bissau,1106.0,Africa,False,🇬🇼,2187988
+Lesotho,1062.0,Africa,False,🇱🇸,2292683
+Togo,1051.0,Africa,False,🇹🇬,8701744
+Chad,1013.0,Africa,False,🇹🇩,18823540
+Gambia,989.0,Africa,False,🇬🇲,2722177
+Rwanda,986.0,Africa,False,🇷🇼,14467997
+Burkina Faso,908.0,Africa,False,🇧🇫,22875991
+Mali,898.0,Africa,False,🇲🇱,24578325
+Nigeria,877.0,Africa,False,🇳🇬,223804632
+Sierra Leone,856.0,Africa,False,🇸🇱,9189792
+Liberia,855.0,Africa,False,🇱🇷,5503604
+Somalia,771.0,Africa,False,🇸🇴,18041815
+DR Congo,702.0,Africa,False,🇨🇩,108407721
+Niger,698.0,Africa,False,🇳🇪,28478351
+Mozambique,645.0,Africa,False,🇲🇿,35277379
+Sudan,606.0,Africa,False,🇸🇩,49446220
+Madagascar,563.0,Africa,False,🇲🇬,29865747
+Central African Republic,529.0,Africa,False,🇨🇫,5481790
+Yemen,465.0,Asia,False,🇾🇪,33812252
+Malawi,464.0,Africa,False,🇲🇼,21164628
+South Sudan,341.0,Africa,False,🇸🇸,12924732
+Burundi,321.0,Africa,False,🇧🇮,13306768
