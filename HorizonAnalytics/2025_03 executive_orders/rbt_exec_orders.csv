@@ -1,0 +1,1174 @@
+term,president,day,num_exec_orders,cum_exec_orders
+25,William McKinley,0,0,0
+26,Theodore Roosevelt,0,0,0
+27,William Howard Taft,0,0,0
+28,Woodrow Wilson,0,0,0
+29,Warren G. Harding,0,0,0
+30,Calvin Coolidge,0,0,0
+31,Herbert Hoover,0,0,0
+32,Franklin D. Roosevelt,0,0,0
+33,Harry S. Truman,0,0,0
+34,Dwight D. Eisenhower,0,0,0
+35,John F. Kennedy,0,0,0
+36,Lyndon B. Johnson,0,0,0
+37,Richard Nixon,0,0,0
+38,Gerald Ford,0,0,0
+39,Jimmy Carter,0,0,0
+40,Ronald Reagan,0,0,0
+41,George H. W. Bush,0,0,0
+42,Bill Clinton,0,0,0
+43,George W. Bush,0,0,0
+44,Barack Obama,0,0,0
+45,Donald Trump – I,0,0,0
+46,Joe Biden,0,0,0
+47,Donald Trump – II,0,0,0
+25,William McKinley,1,0,0
+25,William McKinley,2,0,0
+25,William McKinley,3,0,0
+25,William McKinley,4,0,0
+25,William McKinley,5,0,0
+25,William McKinley,6,0,0
+25,William McKinley,7,0,0
+25,William McKinley,8,0,0
+25,William McKinley,9,0,0
+25,William McKinley,10,0,0
+25,William McKinley,11,0,0
+25,William McKinley,12,0,0
+25,William McKinley,13,0,0
+25,William McKinley,14,0,0
+25,William McKinley,15,0,0
+25,William McKinley,16,0,0
+25,William McKinley,17,0,0
+25,William McKinley,18,0,0
+25,William McKinley,19,0,0
+25,William McKinley,20,0,0
+25,William McKinley,21,0,0
+25,William McKinley,22,0,0
+25,William McKinley,23,0,0
+25,William McKinley,24,0,0
+25,William McKinley,25,0,0
+25,William McKinley,26,0,0
+25,William McKinley,27,0,0
+25,William McKinley,28,0,0
+25,William McKinley,29,0,0
+25,William McKinley,30,0,0
+25,William McKinley,31,0,0
+25,William McKinley,32,0,0
+25,William McKinley,33,0,0
+25,William McKinley,34,0,0
+25,William McKinley,35,0,0
+25,William McKinley,36,0,0
+25,William McKinley,37,0,0
+25,William McKinley,38,0,0
+25,William McKinley,39,0,0
+25,William McKinley,40,0,0
+25,William McKinley,41,0,0
+25,William McKinley,42,0,0
+25,William McKinley,43,0,0
+25,William McKinley,44,0,0
+25,William McKinley,45,0,0
+25,William McKinley,46,0,0
+25,William McKinley,47,0,0
+25,William McKinley,48,0,0
+25,William McKinley,49,0,0
+25,William McKinley,50,0,0
+26,Theodore Roosevelt,1,0,0
+26,Theodore Roosevelt,2,0,0
+26,Theodore Roosevelt,3,0,0
+26,Theodore Roosevelt,4,0,0
+26,Theodore Roosevelt,5,0,0
+26,Theodore Roosevelt,6,0,0
+26,Theodore Roosevelt,7,0,0
+26,Theodore Roosevelt,8,0,0
+26,Theodore Roosevelt,9,0,0
+26,Theodore Roosevelt,10,0,0
+26,Theodore Roosevelt,11,0,0
+26,Theodore Roosevelt,12,0,0
+26,Theodore Roosevelt,13,0,0
+26,Theodore Roosevelt,14,0,0
+26,Theodore Roosevelt,15,0,0
+26,Theodore Roosevelt,16,0,0
+26,Theodore Roosevelt,17,0,0
+26,Theodore Roosevelt,18,0,0
+26,Theodore Roosevelt,19,0,0
+26,Theodore Roosevelt,20,0,0
+26,Theodore Roosevelt,21,0,0
+26,Theodore Roosevelt,22,0,0
+26,Theodore Roosevelt,23,0,0
+26,Theodore Roosevelt,24,0,0
+26,Theodore Roosevelt,25,0,0
+26,Theodore Roosevelt,26,0,0
+26,Theodore Roosevelt,27,0,0
+26,Theodore Roosevelt,28,0,0
+26,Theodore Roosevelt,29,0,0
+26,Theodore Roosevelt,30,0,0
+26,Theodore Roosevelt,31,0,0
+26,Theodore Roosevelt,32,0,0
+26,Theodore Roosevelt,33,0,0
+26,Theodore Roosevelt,34,0,0
+26,Theodore Roosevelt,35,0,0
+26,Theodore Roosevelt,36,0,0
+26,Theodore Roosevelt,37,0,0
+26,Theodore Roosevelt,38,0,0
+26,Theodore Roosevelt,39,0,0
+26,Theodore Roosevelt,40,0,0
+26,Theodore Roosevelt,41,0,0
+26,Theodore Roosevelt,42,0,0
+26,Theodore Roosevelt,43,0,0
+26,Theodore Roosevelt,44,0,0
+26,Theodore Roosevelt,45,0,0
+26,Theodore Roosevelt,46,0,0
+26,Theodore Roosevelt,47,0,0
+26,Theodore Roosevelt,48,1,1
+26,Theodore Roosevelt,49,1,2
+26,Theodore Roosevelt,50,0,2
+27,William Howard Taft,1,0,0
+27,William Howard Taft,2,0,0
+27,William Howard Taft,3,0,0
+27,William Howard Taft,4,0,0
+27,William Howard Taft,5,0,0
+27,William Howard Taft,6,0,0
+27,William Howard Taft,7,0,0
+27,William Howard Taft,8,0,0
+27,William Howard Taft,9,0,0
+27,William Howard Taft,10,0,0
+27,William Howard Taft,11,0,0
+27,William Howard Taft,12,0,0
+27,William Howard Taft,13,1,1
+27,William Howard Taft,14,0,1
+27,William Howard Taft,15,0,1
+27,William Howard Taft,16,0,1
+27,William Howard Taft,17,0,1
+27,William Howard Taft,18,0,1
+27,William Howard Taft,19,0,1
+27,William Howard Taft,20,1,2
+27,William Howard Taft,21,1,3
+27,William Howard Taft,22,0,3
+27,William Howard Taft,23,0,3
+27,William Howard Taft,24,0,3
+27,William Howard Taft,25,0,3
+27,William Howard Taft,26,0,3
+27,William Howard Taft,27,3,6
+27,William Howard Taft,28,0,6
+27,William Howard Taft,29,0,6
+27,William Howard Taft,30,1,7
+27,William Howard Taft,31,0,7
+27,William Howard Taft,32,0,7
+27,William Howard Taft,33,0,7
+27,William Howard Taft,34,1,8
+27,William Howard Taft,35,2,10
+27,William Howard Taft,36,1,11
+27,William Howard Taft,37,0,11
+27,William Howard Taft,38,0,11
+27,William Howard Taft,39,0,11
+27,William Howard Taft,40,0,11
+27,William Howard Taft,41,0,11
+27,William Howard Taft,42,1,12
+27,William Howard Taft,43,0,12
+27,William Howard Taft,44,2,14
+27,William Howard Taft,45,0,14
+27,William Howard Taft,46,0,14
+27,William Howard Taft,47,0,14
+27,William Howard Taft,48,0,14
+27,William Howard Taft,49,1,15
+27,William Howard Taft,50,0,15
+28,Woodrow Wilson,1,0,0
+28,Woodrow Wilson,2,0,0
+28,Woodrow Wilson,3,0,0
+28,Woodrow Wilson,4,0,0
+28,Woodrow Wilson,5,0,0
+28,Woodrow Wilson,6,0,0
+28,Woodrow Wilson,7,1,1
+28,Woodrow Wilson,8,1,2
+28,Woodrow Wilson,9,0,2
+28,Woodrow Wilson,10,0,2
+28,Woodrow Wilson,11,1,3
+28,Woodrow Wilson,12,0,3
+28,Woodrow Wilson,13,0,3
+28,Woodrow Wilson,14,1,4
+28,Woodrow Wilson,15,1,5
+28,Woodrow Wilson,16,2,7
+28,Woodrow Wilson,17,2,9
+28,Woodrow Wilson,18,1,10
+28,Woodrow Wilson,19,2,12
+28,Woodrow Wilson,20,0,12
+28,Woodrow Wilson,21,2,14
+28,Woodrow Wilson,22,0,14
+28,Woodrow Wilson,23,1,15
+28,Woodrow Wilson,24,0,15
+28,Woodrow Wilson,25,0,15
+28,Woodrow Wilson,26,0,15
+28,Woodrow Wilson,27,0,15
+28,Woodrow Wilson,28,1,16
+28,Woodrow Wilson,29,0,16
+28,Woodrow Wilson,30,0,16
+28,Woodrow Wilson,31,0,16
+28,Woodrow Wilson,32,0,16
+28,Woodrow Wilson,33,0,16
+28,Woodrow Wilson,34,0,16
+28,Woodrow Wilson,35,0,16
+28,Woodrow Wilson,36,0,16
+28,Woodrow Wilson,37,0,16
+28,Woodrow Wilson,38,0,16
+28,Woodrow Wilson,39,0,16
+28,Woodrow Wilson,40,0,16
+28,Woodrow Wilson,41,0,16
+28,Woodrow Wilson,42,0,16
+28,Woodrow Wilson,43,3,19
+28,Woodrow Wilson,44,0,19
+28,Woodrow Wilson,45,0,19
+28,Woodrow Wilson,46,1,20
+28,Woodrow Wilson,47,0,20
+28,Woodrow Wilson,48,0,20
+28,Woodrow Wilson,49,4,24
+28,Woodrow Wilson,50,0,24
+29,Warren G. Harding,1,1,1
+29,Warren G. Harding,2,0,1
+29,Warren G. Harding,3,0,1
+29,Warren G. Harding,4,0,1
+29,Warren G. Harding,5,0,1
+29,Warren G. Harding,6,0,1
+29,Warren G. Harding,7,0,1
+29,Warren G. Harding,8,0,1
+29,Warren G. Harding,9,0,1
+29,Warren G. Harding,10,0,1
+29,Warren G. Harding,11,0,1
+29,Warren G. Harding,12,0,1
+29,Warren G. Harding,13,0,1
+29,Warren G. Harding,14,0,1
+29,Warren G. Harding,15,0,1
+29,Warren G. Harding,16,0,1
+29,Warren G. Harding,17,0,1
+29,Warren G. Harding,18,0,1
+29,Warren G. Harding,19,0,1
+29,Warren G. Harding,20,0,1
+29,Warren G. Harding,21,0,1
+29,Warren G. Harding,22,0,1
+29,Warren G. Harding,23,0,1
+29,Warren G. Harding,24,0,1
+29,Warren G. Harding,25,0,1
+29,Warren G. Harding,26,0,1
+29,Warren G. Harding,27,0,1
+29,Warren G. Harding,28,0,1
+29,Warren G. Harding,29,0,1
+29,Warren G. Harding,30,0,1
+29,Warren G. Harding,31,0,1
+29,Warren G. Harding,32,0,1
+29,Warren G. Harding,33,0,1
+29,Warren G. Harding,34,0,1
+29,Warren G. Harding,35,0,1
+29,Warren G. Harding,36,1,2
+29,Warren G. Harding,37,0,2
+29,Warren G. Harding,38,0,2
+29,Warren G. Harding,39,0,2
+29,Warren G. Harding,40,0,2
+29,Warren G. Harding,41,0,2
+29,Warren G. Harding,42,1,3
+29,Warren G. Harding,43,1,4
+29,Warren G. Harding,44,0,4
+29,Warren G. Harding,45,0,4
+29,Warren G. Harding,46,0,4
+29,Warren G. Harding,47,0,4
+29,Warren G. Harding,48,0,4
+29,Warren G. Harding,49,0,4
+29,Warren G. Harding,50,0,4
+30,Calvin Coolidge,1,0,0
+30,Calvin Coolidge,2,0,0
+30,Calvin Coolidge,3,3,3
+30,Calvin Coolidge,4,0,3
+30,Calvin Coolidge,5,1,4
+30,Calvin Coolidge,6,0,4
+30,Calvin Coolidge,7,0,4
+30,Calvin Coolidge,8,0,4
+30,Calvin Coolidge,9,0,4
+30,Calvin Coolidge,10,0,4
+30,Calvin Coolidge,11,0,4
+30,Calvin Coolidge,12,1,5
+30,Calvin Coolidge,13,0,5
+30,Calvin Coolidge,14,0,5
+30,Calvin Coolidge,15,0,5
+30,Calvin Coolidge,16,1,6
+30,Calvin Coolidge,17,0,6
+30,Calvin Coolidge,18,0,6
+30,Calvin Coolidge,19,0,6
+30,Calvin Coolidge,20,0,6
+30,Calvin Coolidge,21,0,6
+30,Calvin Coolidge,22,0,6
+30,Calvin Coolidge,23,0,6
+30,Calvin Coolidge,24,0,6
+30,Calvin Coolidge,25,0,6
+30,Calvin Coolidge,26,0,6
+30,Calvin Coolidge,27,0,6
+30,Calvin Coolidge,28,0,6
+30,Calvin Coolidge,29,0,6
+30,Calvin Coolidge,30,0,6
+30,Calvin Coolidge,31,0,6
+30,Calvin Coolidge,32,0,6
+30,Calvin Coolidge,33,0,6
+30,Calvin Coolidge,34,0,6
+30,Calvin Coolidge,35,1,7
+30,Calvin Coolidge,36,0,7
+30,Calvin Coolidge,37,0,7
+30,Calvin Coolidge,38,0,7
+30,Calvin Coolidge,39,0,7
+30,Calvin Coolidge,40,0,7
+30,Calvin Coolidge,41,0,7
+30,Calvin Coolidge,42,0,7
+30,Calvin Coolidge,43,0,7
+30,Calvin Coolidge,44,0,7
+30,Calvin Coolidge,45,0,7
+30,Calvin Coolidge,46,0,7
+30,Calvin Coolidge,47,0,7
+30,Calvin Coolidge,48,0,7
+30,Calvin Coolidge,49,0,7
+30,Calvin Coolidge,50,0,7
+31,Herbert Hoover,1,0,0
+31,Herbert Hoover,2,0,0
+31,Herbert Hoover,3,0,0
+31,Herbert Hoover,4,2,2
+31,Herbert Hoover,5,0,2
+31,Herbert Hoover,6,0,2
+31,Herbert Hoover,7,0,2
+31,Herbert Hoover,8,0,2
+31,Herbert Hoover,9,1,3
+31,Herbert Hoover,10,0,3
+31,Herbert Hoover,11,1,4
+31,Herbert Hoover,12,0,4
+31,Herbert Hoover,13,0,4
+31,Herbert Hoover,14,0,4
+31,Herbert Hoover,15,0,4
+31,Herbert Hoover,16,1,5
+31,Herbert Hoover,17,0,5
+31,Herbert Hoover,18,0,5
+31,Herbert Hoover,19,3,8
+31,Herbert Hoover,20,1,9
+31,Herbert Hoover,21,0,9
+31,Herbert Hoover,22,0,9
+31,Herbert Hoover,23,0,9
+31,Herbert Hoover,24,0,9
+31,Herbert Hoover,25,1,10
+31,Herbert Hoover,26,0,10
+31,Herbert Hoover,27,1,11
+31,Herbert Hoover,28,0,11
+31,Herbert Hoover,29,1,12
+31,Herbert Hoover,30,0,12
+31,Herbert Hoover,31,0,12
+31,Herbert Hoover,32,0,12
+31,Herbert Hoover,33,0,12
+31,Herbert Hoover,34,0,12
+31,Herbert Hoover,35,0,12
+31,Herbert Hoover,36,1,13
+31,Herbert Hoover,37,5,18
+31,Herbert Hoover,38,0,18
+31,Herbert Hoover,39,0,18
+31,Herbert Hoover,40,1,19
+31,Herbert Hoover,41,0,19
+31,Herbert Hoover,42,0,19
+31,Herbert Hoover,43,1,20
+31,Herbert Hoover,44,0,20
+31,Herbert Hoover,45,0,20
+31,Herbert Hoover,46,0,20
+31,Herbert Hoover,47,1,21
+31,Herbert Hoover,48,1,22
+31,Herbert Hoover,49,0,22
+31,Herbert Hoover,50,0,22
+32,Franklin D. Roosevelt,1,0,0
+32,Franklin D. Roosevelt,2,0,0
+32,Franklin D. Roosevelt,3,0,0
+32,Franklin D. Roosevelt,4,0,0
+32,Franklin D. Roosevelt,5,2,2
+32,Franklin D. Roosevelt,6,0,2
+32,Franklin D. Roosevelt,7,1,3
+32,Franklin D. Roosevelt,8,0,3
+32,Franklin D. Roosevelt,9,0,3
+32,Franklin D. Roosevelt,10,1,4
+32,Franklin D. Roosevelt,11,0,4
+32,Franklin D. Roosevelt,12,3,7
+32,Franklin D. Roosevelt,13,0,7
+32,Franklin D. Roosevelt,14,0,7
+32,Franklin D. Roosevelt,15,3,10
+32,Franklin D. Roosevelt,16,0,10
+32,Franklin D. Roosevelt,17,0,10
+32,Franklin D. Roosevelt,18,0,10
+32,Franklin D. Roosevelt,19,0,10
+32,Franklin D. Roosevelt,20,0,10
+32,Franklin D. Roosevelt,21,1,11
+32,Franklin D. Roosevelt,22,2,13
+32,Franklin D. Roosevelt,23,0,13
+32,Franklin D. Roosevelt,24,1,14
+32,Franklin D. Roosevelt,25,3,17
+32,Franklin D. Roosevelt,26,1,18
+32,Franklin D. Roosevelt,27,0,18
+32,Franklin D. Roosevelt,28,12,30
+32,Franklin D. Roosevelt,29,0,30
+32,Franklin D. Roosevelt,30,0,30
+32,Franklin D. Roosevelt,31,0,30
+32,Franklin D. Roosevelt,32,0,30
+32,Franklin D. Roosevelt,33,3,33
+32,Franklin D. Roosevelt,34,2,35
+32,Franklin D. Roosevelt,35,0,35
+32,Franklin D. Roosevelt,36,0,35
+32,Franklin D. Roosevelt,37,0,35
+32,Franklin D. Roosevelt,38,2,37
+32,Franklin D. Roosevelt,39,1,38
+32,Franklin D. Roosevelt,40,2,40
+32,Franklin D. Roosevelt,41,0,40
+32,Franklin D. Roosevelt,42,0,40
+32,Franklin D. Roosevelt,43,1,41
+32,Franklin D. Roosevelt,44,0,41
+32,Franklin D. Roosevelt,45,0,41
+32,Franklin D. Roosevelt,46,0,41
+32,Franklin D. Roosevelt,47,0,41
+32,Franklin D. Roosevelt,48,1,42
+32,Franklin D. Roosevelt,49,0,42
+32,Franklin D. Roosevelt,50,3,45
+33,Harry S. Truman,1,0,0
+33,Harry S. Truman,2,2,2
+33,Harry S. Truman,3,0,2
+33,Harry S. Truman,4,0,2
+33,Harry S. Truman,5,0,2
+33,Harry S. Truman,6,1,3
+33,Harry S. Truman,7,0,3
+33,Harry S. Truman,8,1,4
+33,Harry S. Truman,9,0,4
+33,Harry S. Truman,10,0,4
+33,Harry S. Truman,11,0,4
+33,Harry S. Truman,12,2,6
+33,Harry S. Truman,13,0,6
+33,Harry S. Truman,14,1,7
+33,Harry S. Truman,15,0,7
+33,Harry S. Truman,16,1,8
+33,Harry S. Truman,17,0,8
+33,Harry S. Truman,18,0,8
+33,Harry S. Truman,19,0,8
+33,Harry S. Truman,20,1,9
+33,Harry S. Truman,21,1,10
+33,Harry S. Truman,22,1,11
+33,Harry S. Truman,23,0,11
+33,Harry S. Truman,24,0,11
+33,Harry S. Truman,25,0,11
+33,Harry S. Truman,26,0,11
+33,Harry S. Truman,27,1,12
+33,Harry S. Truman,28,0,12
+33,Harry S. Truman,29,1,13
+33,Harry S. Truman,30,0,13
+33,Harry S. Truman,31,0,13
+33,Harry S. Truman,32,0,13
+33,Harry S. Truman,33,0,13
+33,Harry S. Truman,34,0,13
+33,Harry S. Truman,35,1,14
+33,Harry S. Truman,36,0,14
+33,Harry S. Truman,37,0,14
+33,Harry S. Truman,38,1,15
+33,Harry S. Truman,39,0,15
+33,Harry S. Truman,40,0,15
+33,Harry S. Truman,41,1,16
+33,Harry S. Truman,42,1,17
+33,Harry S. Truman,43,1,18
+33,Harry S. Truman,44,0,18
+33,Harry S. Truman,45,3,21
+33,Harry S. Truman,46,0,21
+33,Harry S. Truman,47,1,22
+33,Harry S. Truman,48,0,22
+33,Harry S. Truman,49,0,22
+33,Harry S. Truman,50,0,22
+34,Dwight D. Eisenhower,1,0,0
+34,Dwight D. Eisenhower,2,0,0
+34,Dwight D. Eisenhower,3,0,0
+34,Dwight D. Eisenhower,4,0,0
+34,Dwight D. Eisenhower,5,1,1
+34,Dwight D. Eisenhower,6,0,1
+34,Dwight D. Eisenhower,7,0,1
+34,Dwight D. Eisenhower,8,0,1
+34,Dwight D. Eisenhower,9,0,1
+34,Dwight D. Eisenhower,10,0,1
+34,Dwight D. Eisenhower,11,0,1
+34,Dwight D. Eisenhower,12,0,1
+34,Dwight D. Eisenhower,13,0,1
+34,Dwight D. Eisenhower,14,0,1
+34,Dwight D. Eisenhower,15,0,1
+34,Dwight D. Eisenhower,16,1,2
+34,Dwight D. Eisenhower,17,0,2
+34,Dwight D. Eisenhower,18,2,4
+34,Dwight D. Eisenhower,19,0,4
+34,Dwight D. Eisenhower,20,0,4
+34,Dwight D. Eisenhower,21,0,4
+34,Dwight D. Eisenhower,22,0,4
+34,Dwight D. Eisenhower,23,0,4
+34,Dwight D. Eisenhower,24,0,4
+34,Dwight D. Eisenhower,25,0,4
+34,Dwight D. Eisenhower,26,0,4
+34,Dwight D. Eisenhower,27,0,4
+34,Dwight D. Eisenhower,28,0,4
+34,Dwight D. Eisenhower,29,0,4
+34,Dwight D. Eisenhower,30,0,4
+34,Dwight D. Eisenhower,31,0,4
+34,Dwight D. Eisenhower,32,2,6
+34,Dwight D. Eisenhower,33,0,6
+34,Dwight D. Eisenhower,34,0,6
+34,Dwight D. Eisenhower,35,0,6
+34,Dwight D. Eisenhower,36,0,6
+34,Dwight D. Eisenhower,37,0,6
+34,Dwight D. Eisenhower,38,0,6
+34,Dwight D. Eisenhower,39,0,6
+34,Dwight D. Eisenhower,40,0,6
+34,Dwight D. Eisenhower,41,0,6
+34,Dwight D. Eisenhower,42,0,6
+34,Dwight D. Eisenhower,43,0,6
+34,Dwight D. Eisenhower,44,0,6
+34,Dwight D. Eisenhower,45,0,6
+34,Dwight D. Eisenhower,46,0,6
+34,Dwight D. Eisenhower,47,0,6
+34,Dwight D. Eisenhower,48,0,6
+34,Dwight D. Eisenhower,49,0,6
+34,Dwight D. Eisenhower,50,0,6
+35,John F. Kennedy,1,0,0
+35,John F. Kennedy,2,1,1
+35,John F. Kennedy,3,0,1
+35,John F. Kennedy,4,0,1
+35,John F. Kennedy,5,2,3
+35,John F. Kennedy,6,0,3
+35,John F. Kennedy,7,0,3
+35,John F. Kennedy,8,0,3
+35,John F. Kennedy,9,0,3
+35,John F. Kennedy,10,0,3
+35,John F. Kennedy,11,0,3
+35,John F. Kennedy,12,0,3
+35,John F. Kennedy,13,0,3
+35,John F. Kennedy,14,0,3
+35,John F. Kennedy,15,0,3
+35,John F. Kennedy,16,0,3
+35,John F. Kennedy,17,0,3
+35,John F. Kennedy,18,0,3
+35,John F. Kennedy,19,0,3
+35,John F. Kennedy,20,0,3
+35,John F. Kennedy,21,0,3
+35,John F. Kennedy,22,1,4
+35,John F. Kennedy,23,0,4
+35,John F. Kennedy,24,0,4
+35,John F. Kennedy,25,0,4
+35,John F. Kennedy,26,0,4
+35,John F. Kennedy,27,0,4
+35,John F. Kennedy,28,1,5
+35,John F. Kennedy,29,1,6
+35,John F. Kennedy,30,1,7
+35,John F. Kennedy,31,0,7
+35,John F. Kennedy,32,0,7
+35,John F. Kennedy,33,1,8
+35,John F. Kennedy,34,0,8
+35,John F. Kennedy,35,1,9
+35,John F. Kennedy,36,1,10
+35,John F. Kennedy,37,0,10
+35,John F. Kennedy,38,0,10
+35,John F. Kennedy,39,0,10
+35,John F. Kennedy,40,0,10
+35,John F. Kennedy,41,1,11
+35,John F. Kennedy,42,0,11
+35,John F. Kennedy,43,0,11
+35,John F. Kennedy,44,0,11
+35,John F. Kennedy,45,0,11
+35,John F. Kennedy,46,1,12
+35,John F. Kennedy,47,0,12
+35,John F. Kennedy,48,0,12
+35,John F. Kennedy,49,0,12
+35,John F. Kennedy,50,0,12
+36,Lyndon B. Johnson,1,0,0
+36,Lyndon B. Johnson,2,1,1
+36,Lyndon B. Johnson,3,0,1
+36,Lyndon B. Johnson,4,0,1
+36,Lyndon B. Johnson,5,0,1
+36,Lyndon B. Johnson,6,0,1
+36,Lyndon B. Johnson,7,0,1
+36,Lyndon B. Johnson,8,2,3
+36,Lyndon B. Johnson,9,0,3
+36,Lyndon B. Johnson,10,0,3
+36,Lyndon B. Johnson,11,0,3
+36,Lyndon B. Johnson,12,0,3
+36,Lyndon B. Johnson,13,0,3
+36,Lyndon B. Johnson,14,0,3
+36,Lyndon B. Johnson,15,0,3
+36,Lyndon B. Johnson,16,0,3
+36,Lyndon B. Johnson,17,0,3
+36,Lyndon B. Johnson,18,0,3
+36,Lyndon B. Johnson,19,0,3
+36,Lyndon B. Johnson,20,1,4
+36,Lyndon B. Johnson,21,1,5
+36,Lyndon B. Johnson,22,0,5
+36,Lyndon B. Johnson,23,0,5
+36,Lyndon B. Johnson,24,0,5
+36,Lyndon B. Johnson,25,0,5
+36,Lyndon B. Johnson,26,1,6
+36,Lyndon B. Johnson,27,0,6
+36,Lyndon B. Johnson,28,0,6
+36,Lyndon B. Johnson,29,1,7
+36,Lyndon B. Johnson,30,0,7
+36,Lyndon B. Johnson,31,0,7
+36,Lyndon B. Johnson,32,0,7
+36,Lyndon B. Johnson,33,0,7
+36,Lyndon B. Johnson,34,0,7
+36,Lyndon B. Johnson,35,0,7
+36,Lyndon B. Johnson,36,0,7
+36,Lyndon B. Johnson,37,0,7
+36,Lyndon B. Johnson,38,0,7
+36,Lyndon B. Johnson,39,0,7
+36,Lyndon B. Johnson,40,0,7
+36,Lyndon B. Johnson,41,0,7
+36,Lyndon B. Johnson,42,0,7
+36,Lyndon B. Johnson,43,2,9
+36,Lyndon B. Johnson,44,0,9
+36,Lyndon B. Johnson,45,0,9
+36,Lyndon B. Johnson,46,0,9
+36,Lyndon B. Johnson,47,3,12
+36,Lyndon B. Johnson,48,0,12
+36,Lyndon B. Johnson,49,0,12
+36,Lyndon B. Johnson,50,0,12
+37,Richard Nixon,1,0,0
+37,Richard Nixon,2,0,0
+37,Richard Nixon,3,0,0
+37,Richard Nixon,4,1,1
+37,Richard Nixon,5,1,2
+37,Richard Nixon,6,0,2
+37,Richard Nixon,7,0,2
+37,Richard Nixon,8,0,2
+37,Richard Nixon,9,0,2
+37,Richard Nixon,10,0,2
+37,Richard Nixon,11,0,2
+37,Richard Nixon,12,0,2
+37,Richard Nixon,13,0,2
+37,Richard Nixon,14,0,2
+37,Richard Nixon,15,0,2
+37,Richard Nixon,16,0,2
+37,Richard Nixon,17,0,2
+37,Richard Nixon,18,0,2
+37,Richard Nixon,19,1,3
+37,Richard Nixon,20,0,3
+37,Richard Nixon,21,0,3
+37,Richard Nixon,22,0,3
+37,Richard Nixon,23,0,3
+37,Richard Nixon,24,0,3
+37,Richard Nixon,25,0,3
+37,Richard Nixon,26,2,5
+37,Richard Nixon,27,0,5
+37,Richard Nixon,28,0,5
+37,Richard Nixon,29,0,5
+37,Richard Nixon,30,0,5
+37,Richard Nixon,31,0,5
+37,Richard Nixon,32,0,5
+37,Richard Nixon,33,0,5
+37,Richard Nixon,34,0,5
+37,Richard Nixon,35,0,5
+37,Richard Nixon,36,0,5
+37,Richard Nixon,37,0,5
+37,Richard Nixon,38,0,5
+37,Richard Nixon,39,0,5
+37,Richard Nixon,40,0,5
+37,Richard Nixon,41,0,5
+37,Richard Nixon,42,0,5
+37,Richard Nixon,43,0,5
+37,Richard Nixon,44,1,6
+37,Richard Nixon,45,1,7
+37,Richard Nixon,46,0,7
+37,Richard Nixon,47,1,8
+37,Richard Nixon,48,0,8
+37,Richard Nixon,49,0,8
+37,Richard Nixon,50,0,8
+38,Gerald Ford,1,0,0
+38,Gerald Ford,2,0,0
+38,Gerald Ford,3,0,0
+38,Gerald Ford,4,0,0
+38,Gerald Ford,5,0,0
+38,Gerald Ford,6,1,1
+38,Gerald Ford,7,0,1
+38,Gerald Ford,8,0,1
+38,Gerald Ford,9,2,3
+38,Gerald Ford,10,0,3
+38,Gerald Ford,11,0,3
+38,Gerald Ford,12,0,3
+38,Gerald Ford,13,1,4
+38,Gerald Ford,14,0,4
+38,Gerald Ford,15,0,4
+38,Gerald Ford,16,0,4
+38,Gerald Ford,17,0,4
+38,Gerald Ford,18,0,4
+38,Gerald Ford,19,0,4
+38,Gerald Ford,20,0,4
+38,Gerald Ford,21,0,4
+38,Gerald Ford,22,0,4
+38,Gerald Ford,23,0,4
+38,Gerald Ford,24,0,4
+38,Gerald Ford,25,0,4
+38,Gerald Ford,26,0,4
+38,Gerald Ford,27,1,5
+38,Gerald Ford,28,0,5
+38,Gerald Ford,29,0,5
+38,Gerald Ford,30,0,5
+38,Gerald Ford,31,0,5
+38,Gerald Ford,32,0,5
+38,Gerald Ford,33,0,5
+38,Gerald Ford,34,0,5
+38,Gerald Ford,35,0,5
+38,Gerald Ford,36,0,5
+38,Gerald Ford,37,0,5
+38,Gerald Ford,38,0,5
+38,Gerald Ford,39,2,7
+38,Gerald Ford,40,0,7
+38,Gerald Ford,41,0,7
+38,Gerald Ford,42,0,7
+38,Gerald Ford,43,1,8
+38,Gerald Ford,44,0,8
+38,Gerald Ford,45,0,8
+38,Gerald Ford,46,0,8
+38,Gerald Ford,47,0,8
+38,Gerald Ford,48,1,9
+38,Gerald Ford,49,0,9
+38,Gerald Ford,50,0,9
+39,Jimmy Carter,1,0,0
+39,Jimmy Carter,2,1,1
+39,Jimmy Carter,3,0,1
+39,Jimmy Carter,4,0,1
+39,Jimmy Carter,5,0,1
+39,Jimmy Carter,6,0,1
+39,Jimmy Carter,7,0,1
+39,Jimmy Carter,8,0,1
+39,Jimmy Carter,9,0,1
+39,Jimmy Carter,10,0,1
+39,Jimmy Carter,11,0,1
+39,Jimmy Carter,12,1,2
+39,Jimmy Carter,13,0,2
+39,Jimmy Carter,14,1,3
+39,Jimmy Carter,15,0,3
+39,Jimmy Carter,16,0,3
+39,Jimmy Carter,17,1,4
+39,Jimmy Carter,18,0,4
+39,Jimmy Carter,19,0,4
+39,Jimmy Carter,20,0,4
+39,Jimmy Carter,21,0,4
+39,Jimmy Carter,22,0,4
+39,Jimmy Carter,23,1,5
+39,Jimmy Carter,24,0,5
+39,Jimmy Carter,25,0,5
+39,Jimmy Carter,26,1,6
+39,Jimmy Carter,27,0,6
+39,Jimmy Carter,28,0,6
+39,Jimmy Carter,29,1,7
+39,Jimmy Carter,30,0,7
+39,Jimmy Carter,31,0,7
+39,Jimmy Carter,32,0,7
+39,Jimmy Carter,33,0,7
+39,Jimmy Carter,34,0,7
+39,Jimmy Carter,35,0,7
+39,Jimmy Carter,36,0,7
+39,Jimmy Carter,37,1,8
+39,Jimmy Carter,38,0,8
+39,Jimmy Carter,39,0,8
+39,Jimmy Carter,40,0,8
+39,Jimmy Carter,41,0,8
+39,Jimmy Carter,42,0,8
+39,Jimmy Carter,43,0,8
+39,Jimmy Carter,44,0,8
+39,Jimmy Carter,45,0,8
+39,Jimmy Carter,46,0,8
+39,Jimmy Carter,47,1,9
+39,Jimmy Carter,48,0,9
+39,Jimmy Carter,49,0,9
+39,Jimmy Carter,50,0,9
+40,Ronald Reagan,1,0,0
+40,Ronald Reagan,2,0,0
+40,Ronald Reagan,3,0,0
+40,Ronald Reagan,4,0,0
+40,Ronald Reagan,5,0,0
+40,Ronald Reagan,6,0,0
+40,Ronald Reagan,7,0,0
+40,Ronald Reagan,8,0,0
+40,Ronald Reagan,9,1,1
+40,Ronald Reagan,10,1,2
+40,Ronald Reagan,11,0,2
+40,Ronald Reagan,12,0,2
+40,Ronald Reagan,13,0,2
+40,Ronald Reagan,14,0,2
+40,Ronald Reagan,15,0,2
+40,Ronald Reagan,16,0,2
+40,Ronald Reagan,17,0,2
+40,Ronald Reagan,18,0,2
+40,Ronald Reagan,19,0,2
+40,Ronald Reagan,20,0,2
+40,Ronald Reagan,21,0,2
+40,Ronald Reagan,22,0,2
+40,Ronald Reagan,23,0,2
+40,Ronald Reagan,24,0,2
+40,Ronald Reagan,25,0,2
+40,Ronald Reagan,26,1,3
+40,Ronald Reagan,27,0,3
+40,Ronald Reagan,28,0,3
+40,Ronald Reagan,29,2,5
+40,Ronald Reagan,30,0,5
+40,Ronald Reagan,31,0,5
+40,Ronald Reagan,32,0,5
+40,Ronald Reagan,33,0,5
+40,Ronald Reagan,34,0,5
+40,Ronald Reagan,35,2,7
+40,Ronald Reagan,36,2,9
+40,Ronald Reagan,37,0,9
+40,Ronald Reagan,38,0,9
+40,Ronald Reagan,39,0,9
+40,Ronald Reagan,40,0,9
+40,Ronald Reagan,41,0,9
+40,Ronald Reagan,42,1,10
+40,Ronald Reagan,43,0,10
+40,Ronald Reagan,44,0,10
+40,Ronald Reagan,45,0,10
+40,Ronald Reagan,46,0,10
+40,Ronald Reagan,47,0,10
+40,Ronald Reagan,48,0,10
+40,Ronald Reagan,49,0,10
+40,Ronald Reagan,50,0,10
+41,George H. W. Bush,1,0,0
+41,George H. W. Bush,2,0,0
+41,George H. W. Bush,3,0,0
+41,George H. W. Bush,4,0,0
+41,George H. W. Bush,5,0,0
+41,George H. W. Bush,6,1,1
+41,George H. W. Bush,7,0,1
+41,George H. W. Bush,8,0,1
+41,George H. W. Bush,9,0,1
+41,George H. W. Bush,10,0,1
+41,George H. W. Bush,11,0,1
+41,George H. W. Bush,12,0,1
+41,George H. W. Bush,13,0,1
+41,George H. W. Bush,14,0,1
+41,George H. W. Bush,15,0,1
+41,George H. W. Bush,16,0,1
+41,George H. W. Bush,17,0,1
+41,George H. W. Bush,18,0,1
+41,George H. W. Bush,19,0,1
+41,George H. W. Bush,20,0,1
+41,George H. W. Bush,21,0,1
+41,George H. W. Bush,22,0,1
+41,George H. W. Bush,23,0,1
+41,George H. W. Bush,24,0,1
+41,George H. W. Bush,25,0,1
+41,George H. W. Bush,26,0,1
+41,George H. W. Bush,27,0,1
+41,George H. W. Bush,28,0,1
+41,George H. W. Bush,29,0,1
+41,George H. W. Bush,30,0,1
+41,George H. W. Bush,31,0,1
+41,George H. W. Bush,32,1,2
+41,George H. W. Bush,33,0,2
+41,George H. W. Bush,34,0,2
+41,George H. W. Bush,35,0,2
+41,George H. W. Bush,36,0,2
+41,George H. W. Bush,37,0,2
+41,George H. W. Bush,38,0,2
+41,George H. W. Bush,39,0,2
+41,George H. W. Bush,40,0,2
+41,George H. W. Bush,41,0,2
+41,George H. W. Bush,42,0,2
+41,George H. W. Bush,43,0,2
+41,George H. W. Bush,44,0,2
+41,George H. W. Bush,45,0,2
+41,George H. W. Bush,46,0,2
+41,George H. W. Bush,47,0,2
+41,George H. W. Bush,48,0,2
+41,George H. W. Bush,49,1,3
+41,George H. W. Bush,50,0,3
+42,Bill Clinton,1,1,1
+42,Bill Clinton,2,0,1
+42,Bill Clinton,3,0,1
+42,Bill Clinton,4,0,1
+42,Bill Clinton,5,0,1
+42,Bill Clinton,6,1,2
+42,Bill Clinton,7,0,2
+42,Bill Clinton,8,0,2
+42,Bill Clinton,9,0,2
+42,Bill Clinton,10,0,2
+42,Bill Clinton,11,0,2
+42,Bill Clinton,12,0,2
+42,Bill Clinton,13,1,3
+42,Bill Clinton,14,0,3
+42,Bill Clinton,15,0,3
+42,Bill Clinton,16,0,3
+42,Bill Clinton,17,0,3
+42,Bill Clinton,18,0,3
+42,Bill Clinton,19,0,3
+42,Bill Clinton,20,0,3
+42,Bill Clinton,21,0,3
+42,Bill Clinton,22,3,6
+42,Bill Clinton,23,0,6
+42,Bill Clinton,24,0,6
+42,Bill Clinton,25,0,6
+42,Bill Clinton,26,0,6
+42,Bill Clinton,27,0,6
+42,Bill Clinton,28,0,6
+42,Bill Clinton,29,0,6
+42,Bill Clinton,30,0,6
+42,Bill Clinton,31,0,6
+42,Bill Clinton,32,0,6
+42,Bill Clinton,33,0,6
+42,Bill Clinton,34,0,6
+42,Bill Clinton,35,0,6
+42,Bill Clinton,36,0,6
+42,Bill Clinton,37,0,6
+42,Bill Clinton,38,0,6
+42,Bill Clinton,39,0,6
+42,Bill Clinton,40,0,6
+42,Bill Clinton,41,0,6
+42,Bill Clinton,42,0,6
+42,Bill Clinton,43,0,6
+42,Bill Clinton,44,0,6
+42,Bill Clinton,45,0,6
+42,Bill Clinton,46,0,6
+42,Bill Clinton,47,0,6
+42,Bill Clinton,48,0,6
+42,Bill Clinton,49,2,8
+42,Bill Clinton,50,0,8
+43,George W. Bush,1,0,0
+43,George W. Bush,2,0,0
+43,George W. Bush,3,0,0
+43,George W. Bush,4,0,0
+43,George W. Bush,5,0,0
+43,George W. Bush,6,0,0
+43,George W. Bush,7,0,0
+43,George W. Bush,8,0,0
+43,George W. Bush,9,0,0
+43,George W. Bush,10,2,2
+43,George W. Bush,11,0,2
+43,George W. Bush,12,0,2
+43,George W. Bush,13,0,2
+43,George W. Bush,14,0,2
+43,George W. Bush,15,0,2
+43,George W. Bush,16,0,2
+43,George W. Bush,17,0,2
+43,George W. Bush,18,0,2
+43,George W. Bush,19,0,2
+43,George W. Bush,20,0,2
+43,George W. Bush,21,0,2
+43,George W. Bush,22,0,2
+43,George W. Bush,23,1,3
+43,George W. Bush,24,0,3
+43,George W. Bush,25,0,3
+43,George W. Bush,26,0,3
+43,George W. Bush,27,0,3
+43,George W. Bush,28,0,3
+43,George W. Bush,29,4,7
+43,George W. Bush,30,0,7
+43,George W. Bush,31,0,7
+43,George W. Bush,32,0,7
+43,George W. Bush,33,0,7
+43,George W. Bush,34,0,7
+43,George W. Bush,35,0,7
+43,George W. Bush,36,0,7
+43,George W. Bush,37,0,7
+43,George W. Bush,38,0,7
+43,George W. Bush,39,0,7
+43,George W. Bush,40,0,7
+43,George W. Bush,41,0,7
+43,George W. Bush,42,0,7
+43,George W. Bush,43,0,7
+43,George W. Bush,44,0,7
+43,George W. Bush,45,0,7
+43,George W. Bush,46,0,7
+43,George W. Bush,47,0,7
+43,George W. Bush,48,0,7
+43,George W. Bush,49,1,8
+43,George W. Bush,50,0,8
+44,Barack Obama,1,0,0
+44,Barack Obama,2,2,2
+44,Barack Obama,3,3,5
+44,Barack Obama,4,0,5
+44,Barack Obama,5,0,5
+44,Barack Obama,6,0,5
+44,Barack Obama,7,0,5
+44,Barack Obama,8,0,5
+44,Barack Obama,9,0,5
+44,Barack Obama,10,0,5
+44,Barack Obama,11,4,9
+44,Barack Obama,12,0,9
+44,Barack Obama,13,0,9
+44,Barack Obama,14,0,9
+44,Barack Obama,15,0,9
+44,Barack Obama,16,0,9
+44,Barack Obama,17,3,12
+44,Barack Obama,18,2,14
+44,Barack Obama,19,0,14
+44,Barack Obama,20,0,14
+44,Barack Obama,21,0,14
+44,Barack Obama,22,0,14
+44,Barack Obama,23,0,14
+44,Barack Obama,24,0,14
+44,Barack Obama,25,0,14
+44,Barack Obama,26,0,14
+44,Barack Obama,27,0,14
+44,Barack Obama,28,0,14
+44,Barack Obama,29,0,14
+44,Barack Obama,30,0,14
+44,Barack Obama,31,1,15
+44,Barack Obama,32,1,16
+44,Barack Obama,33,0,16
+44,Barack Obama,34,0,16
+44,Barack Obama,35,0,16
+44,Barack Obama,36,0,16
+44,Barack Obama,37,0,16
+44,Barack Obama,38,0,16
+44,Barack Obama,39,0,16
+44,Barack Obama,40,0,16
+44,Barack Obama,41,0,16
+44,Barack Obama,42,0,16
+44,Barack Obama,43,0,16
+44,Barack Obama,44,0,16
+44,Barack Obama,45,0,16
+44,Barack Obama,46,0,16
+44,Barack Obama,47,0,16
+44,Barack Obama,48,0,16
+44,Barack Obama,49,1,17
+44,Barack Obama,50,0,17
+45,Donald Trump – I,1,1,1
+45,Donald Trump – I,2,0,1
+45,Donald Trump – I,3,0,1
+45,Donald Trump – I,4,0,1
+45,Donald Trump – I,5,1,2
+45,Donald Trump – I,6,2,4
+45,Donald Trump – I,7,0,4
+45,Donald Trump – I,8,1,5
+45,Donald Trump – I,9,1,6
+45,Donald Trump – I,10,0,6
+45,Donald Trump – I,11,1,7
+45,Donald Trump – I,12,0,7
+45,Donald Trump – I,13,0,7
+45,Donald Trump – I,14,0,7
+45,Donald Trump – I,15,1,8
+45,Donald Trump – I,16,0,8
+45,Donald Trump – I,17,0,8
+45,Donald Trump – I,18,0,8
+45,Donald Trump – I,19,0,8
+45,Donald Trump – I,20,0,8
+45,Donald Trump – I,21,4,12
+45,Donald Trump – I,22,0,12
+45,Donald Trump – I,23,0,12
+45,Donald Trump – I,24,0,12
+45,Donald Trump – I,25,0,12
+45,Donald Trump – I,26,0,12
+45,Donald Trump – I,27,0,12
+45,Donald Trump – I,28,0,12
+45,Donald Trump – I,29,0,12
+45,Donald Trump – I,30,0,12
+45,Donald Trump – I,31,0,12
+45,Donald Trump – I,32,0,12
+45,Donald Trump – I,33,0,12
+45,Donald Trump – I,34,0,12
+45,Donald Trump – I,35,0,12
+45,Donald Trump – I,36,1,13
+45,Donald Trump – I,37,0,13
+45,Donald Trump – I,38,0,13
+45,Donald Trump – I,39,0,13
+45,Donald Trump – I,40,2,15
+45,Donald Trump – I,41,0,15
+45,Donald Trump – I,42,0,15
+45,Donald Trump – I,43,0,15
+45,Donald Trump – I,44,0,15
+45,Donald Trump – I,45,0,15
+45,Donald Trump – I,46,1,16
+45,Donald Trump – I,47,0,16
+45,Donald Trump – I,48,0,16
+45,Donald Trump – I,49,0,16
+45,Donald Trump – I,50,0,16
+46,Joe Biden,1,9,9
+46,Joe Biden,2,8,17
+46,Joe Biden,3,2,19
+46,Joe Biden,4,0,19
+46,Joe Biden,5,0,19
+46,Joe Biden,6,2,21
+46,Joe Biden,7,1,22
+46,Joe Biden,8,2,24
+46,Joe Biden,9,1,25
+46,Joe Biden,10,0,25
+46,Joe Biden,11,0,25
+46,Joe Biden,12,0,25
+46,Joe Biden,13,0,25
+46,Joe Biden,14,3,28
+46,Joe Biden,15,0,28
+46,Joe Biden,16,1,29
+46,Joe Biden,17,0,29
+46,Joe Biden,18,0,29
+46,Joe Biden,19,0,29
+46,Joe Biden,20,0,29
+46,Joe Biden,21,0,29
+46,Joe Biden,22,0,29
+46,Joe Biden,23,1,30
+46,Joe Biden,24,0,30
+46,Joe Biden,25,0,30
+46,Joe Biden,26,1,31
+46,Joe Biden,27,0,31
+46,Joe Biden,28,0,31
+46,Joe Biden,29,1,32
+46,Joe Biden,30,0,32
+46,Joe Biden,31,0,32
+46,Joe Biden,32,0,32
+46,Joe Biden,33,0,32
+46,Joe Biden,34,0,32
+46,Joe Biden,35,0,32
+46,Joe Biden,36,2,34
+46,Joe Biden,37,0,34
+46,Joe Biden,38,0,34
+46,Joe Biden,39,0,34
+46,Joe Biden,40,0,34
+46,Joe Biden,41,0,34
+46,Joe Biden,42,0,34
+46,Joe Biden,43,0,34
+46,Joe Biden,44,0,34
+46,Joe Biden,45,0,34
+46,Joe Biden,46,0,34
+46,Joe Biden,47,1,35
+46,Joe Biden,48,2,37
+46,Joe Biden,49,0,37
+46,Joe Biden,50,0,37
+47,Donald Trump – II,1,26,26
+47,Donald Trump – II,2,2,28
+47,Donald Trump – II,3,1,29
+47,Donald Trump – II,4,4,33
+47,Donald Trump – II,5,3,36
+47,Donald Trump – II,6,0,36
+47,Donald Trump – II,7,0,36
+47,Donald Trump – II,8,4,40
+47,Donald Trump – II,9,1,41
+47,Donald Trump – II,10,4,45
+47,Donald Trump – II,11,0,45
+47,Donald Trump – II,12,1,46
+47,Donald Trump – II,13,3,49
+47,Donald Trump – II,14,0,49
+47,Donald Trump – II,15,3,52
+47,Donald Trump – II,16,1,53
+47,Donald Trump – II,17,2,55
+47,Donald Trump – II,18,2,57
+47,Donald Trump – II,19,3,60
+47,Donald Trump – II,20,0,60
+47,Donald Trump – II,21,0,60
+47,Donald Trump – II,22,3,63
+47,Donald Trump – II,23,1,64
+47,Donald Trump – II,24,1,65
+47,Donald Trump – II,25,1,66
+47,Donald Trump – II,26,1,67
+47,Donald Trump – II,27,1,68
+47,Donald Trump – II,28,0,68
+47,Donald Trump – II,29,0,68
+47,Donald Trump – II,30,2,70
+47,Donald Trump – II,31,3,73
+47,Donald Trump – II,32,0,73
+47,Donald Trump – II,33,0,73
+47,Donald Trump – II,34,0,73
+47,Donald Trump – II,35,0,73
+47,Donald Trump – II,36,0,73
+47,Donald Trump – II,37,2,75
+47,Donald Trump – II,38,1,76
+47,Donald Trump – II,39,0,76
+47,Donald Trump – II,40,0,76
+47,Donald Trump – II,41,3,79
+47,Donald Trump – II,42,2,81
+47,Donald Trump – II,43,1,82
+47,Donald Trump – II,44,1,83
+47,Donald Trump – II,45,0,83
+47,Donald Trump – II,46,4,87
+47,Donald Trump – II,47,2,89
+47,Donald Trump – II,48,0,89
+47,Donald Trump – II,49,0,89
+47,Donald Trump – II,50,0,89
