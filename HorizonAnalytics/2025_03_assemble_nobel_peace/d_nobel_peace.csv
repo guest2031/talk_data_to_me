@@ -1,0 +1,106 @@
+id,laureate,country,country_code,year,link_pic,link_name
+1,Henry Dunant,Switzerland,CHE,1901,https://en.wikipedia.org/wiki/File:Jean_Henri_Dunant_(3x4_cropped).jpg,https://en.wikipedia.org/wiki/Henry_Dunant
+2,Élie Ducommun,Switzerland,CHE,1902,https://en.wikipedia.org/wiki/File:Ducommun.jpg,https://en.wikipedia.org/wiki/%C3%89lie_Ducommun
+3,William Randal Cremer,United Kingdom,GBR,1903,https://en.wikipedia.org/wiki/File:Cremer.jpg,https://en.wikipedia.org/wiki/Randal_Cremer
+4,Institute of International Law,Belgium,BEL,1904,https://en.wikipedia.org/wiki/File:Logo_of_Institut_de_Droit_International.svg,https://en.wikipedia.org/wiki/Institut_de_Droit_International
+5,Bertha von Suttner,Austria,AUT,1905,https://en.wikipedia.org/wiki/File:Bertha_von_Suttner_nobel.jpg,https://en.wikipedia.org/wiki/Bertha_von_Suttner
+6,Theodore Roosevelt,United States,USA,1906,https://en.wikipedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped).jpg,https://en.wikipedia.org/wiki/Theodore_Roosevelt
+7,Ernesto Teodoro Moneta,Italy,ITA,1907,https://en.wikipedia.org/wiki/File:Ernesto_Teodoro_Moneta.jpg,https://en.wikipedia.org/wiki/Ernesto_Teodoro_Moneta
+8,Klas Pontus Arnoldson,Sweden,SWE,1908,https://en.wikipedia.org/wiki/File:KParnoldson.jpg,https://en.wikipedia.org/wiki/Klas_Pontus_Arnoldson
+9,Auguste Beernaert,Belgium,BEL,1909,https://en.wikipedia.org/wiki/File:Beernaert.gif,https://en.wikipedia.org/wiki/Auguste_Beernaert
+10,Permanent International Peace Bureau,Switzerland,CHE,1910,https://en.wikipedia.org/wiki/File:IPB_logo.svg,https://en.wikipedia.org/wiki/International_Peace_Bureau
+11,Tobias Asser,Netherlands,NLD,1911,https://en.wikipedia.org/wiki/File:TMCasser.jpg,https://en.wikipedia.org/wiki/Tobias_Asser
+12,Elihu Root,United States,USA,1912,"https://en.wikipedia.org/wiki/File:Elihu_Root,_1845-1937,_bust_portrait,_facing_left.jpg",https://en.wikipedia.org/wiki/Elihu_Root
+13,Henri La Fontaine,Belgium,BEL,1913,https://en.wikipedia.org/wiki/File:HenriLaFontaine.jpg,https://en.wikipedia.org/wiki/Henri_La_Fontaine
+14,International Committee of the Red Cross,Switzerland,CHE,1917,https://en.wikipedia.org/wiki/File:Emblem_of_the_ICRC.svg,https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross
+15,Woodrow Wilson,United States,USA,1919,"https://en.wikipedia.org/wiki/File:Thomas_Woodrow_Wilson,_Harris_%26_Ewing_bw_photo_portrait,_1919_(cropped_3x4).jpg",https://en.wikipedia.org/wiki/Woodrow_Wilson
+16,Léon Bourgeois,France,FRA,1920,https://en.wikipedia.org/wiki/File:L%C3%A9on_Bourgeois_1917.jpg,https://en.wikipedia.org/wiki/L%C3%A9on_Bourgeois
+17,Hjalmar Branting,Sweden,SWE,1921,https://en.wikipedia.org/wiki/File:Hjalmar_branting_stor_bild.jpg,https://en.wikipedia.org/wiki/Hjalmar_Branting
+18,Fridtjof Nansen,Norway,NOR,1922,https://en.wikipedia.org/wiki/File:Fridtjof_Nansen_LOC_03377u-3.jpg,https://en.wikipedia.org/wiki/Fridtjof_Nansen
+19,Sir Austen Chamberlain,United Kingdom,GBR,1925,https://en.wikipedia.org/wiki/File:Austen_Chamberlain_nobel.jpg,https://en.wikipedia.org/wiki/Austen_Chamberlain
+20,Aristide Briand,France,FRA,1926,https://en.wikipedia.org/wiki/File:Aristide_Briand_2.jpg,https://en.wikipedia.org/wiki/Aristide_Briand
+21,Ferdinand Buisson,France,FRA,1927,https://en.wikipedia.org/wiki/File:Ferdinand_Buisson_1924.jpg,https://en.wikipedia.org/wiki/Ferdinand_Buisson
+22,Frank Billings Kellogg,United States,USA,1929,https://en.wikipedia.org/wiki/File:Portrait_of_Frank_B._Kellogg_(3x4_cropped).jpg,https://en.wikipedia.org/wiki/Frank_B._Kellogg
+23,Nathan Söderblom,Sweden,SWE,1930,https://en.wikipedia.org/wiki/File:Nathan_S%C3%B6derblom_nobel.jpg,https://en.wikipedia.org/wiki/Nathan_S%C3%B6derblom
+24,Jane Addams,United States,USA,1931,https://en.wikipedia.org/wiki/File:Jane_Addams_profile_(cropped).jpg,https://en.wikipedia.org/wiki/Jane_Addams
+25,Sir Norman Angell,United Kingdom,GBR,1933,https://en.wikipedia.org/wiki/File:Norman_Angell_01.jpg,https://en.wikipedia.org/wiki/Norman_Angell
+26,Arthur Henderson,United Kingdom,GBR,1934,https://en.wikipedia.org/wiki/File:1910_Arthur_Henderson.jpg,https://en.wikipedia.org/wiki/Arthur_Henderson
+27,Carl von Ossietzky,Germany,DEU,1935,https://en.wikipedia.org/wiki/File:Carl_von_Ossietzky.jpg,https://en.wikipedia.org/wiki/Carl_von_Ossietzky
+28,Carlos Saavedra Lamas,Argentina,ARG,1936,https://en.wikipedia.org/wiki/File:Carlos_Saavedra_Lamas.jpg,https://en.wikipedia.org/wiki/Carlos_Saavedra_Lamas
+29,The Viscount Cecil of Chelwood,United Kingdom,GBR,1937,https://en.wikipedia.org/wiki/File:Lord_Robert_Cecil.jpg,"https://en.wikipedia.org/wiki/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood"
+30,Nansen International Office for Refugees,United Nations,UN,1938,https://en.wikipedia.org/wiki/File:BLANK_ICON.png,https://en.wikipedia.org/wiki/Office_international_Nansen_pour_les_r%C3%A9fugi%C3%A9s
+31,International Committee of the Red Cross,Switzerland,CHE,1944,https://en.wikipedia.org/wiki/File:Emblem_of_the_ICRC.svg,https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross
+32,Cordell Hull,United States,USA,1945,https://en.wikipedia.org/wiki/File:Hull-Cordell-LOC.jpg,https://en.wikipedia.org/wiki/Cordell_Hull
+33,Emily Greene Balch,United States,USA,1946,https://en.wikipedia.org/wiki/File:EmilyGreeneBalch.jpg,https://en.wikipedia.org/wiki/Emily_Greene_Balch
+34,The Quakers,United States;United Kingdom,USA;UK,1947,https://en.wikipedia.org/wiki/File:Quaker_star-T.svg,https://en.wikipedia.org/wiki/Quakers
+35,Lord Boyd-Orr,United Kingdom,GBR,1949,https://en.wikipedia.org/wiki/File:John_Boyd_Orr_nobel.jpg,"https://en.wikipedia.org/wiki/John_Boyd_Orr,_1st_Baron_Boyd-Orr"
+36,Ralph Bunche,United States,USA,1950,https://en.wikipedia.org/wiki/File:Ralph_Bunche_-_1963_March_on_Washington.jpg,https://en.wikipedia.org/wiki/Ralph_Bunche
+37,Léon Jouhaux,France,FRA,1951,https://en.wikipedia.org/wiki/File:L%C3%A9on_Jouhaux_nobel.jpg,https://en.wikipedia.org/wiki/L%C3%A9on_Jouhaux
+38,Albert Schweitzer,France,FRA,1952,https://en.wikipedia.org/wiki/File:Albert_Schweitzer_1952.jpg,https://en.wikipedia.org/wiki/Albert_Schweitzer
+39,George Catlett Marshall Jr.,United States,USA,1953,"https://en.wikipedia.org/wiki/File:George_Catlett_Marshall,_general_of_the_US_army.jpg",https://en.wikipedia.org/wiki/George_Marshall
+40,Office of the United Nations High Commissioner for Refugees,United Nations,UN,1954,https://en.wikipedia.org/wiki/File:UNHCR.svg,https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees
+41,Lester Bowles Pearson,Canada,CAN,1957,https://en.wikipedia.org/wiki/File:Lester_B._Pearson_with_a_pencil_140x190.jpg,https://en.wikipedia.org/wiki/Lester_B._Pearson
+42,Dominique Pire,Belgium,BEL,1958,https://en.wikipedia.org/wiki/File:Georges_Pire_1958_(3x4_cropped).jpg,https://en.wikipedia.org/wiki/Dominique_Pire
+43,Philip Noel-Baker,United Kingdom,GBR,1959,https://en.wikipedia.org/wiki/File:Philip_Noel-Baker_Anefo.jpg,"https://en.wikipedia.org/wiki/Philip_Noel-Baker,_Baron_Noel-Baker"
+44,Albert Lutuli,South Africa,ZAF,1960,https://en.wikipedia.org/wiki/File:Albert_Lutuli_nobel.jpg,https://en.wikipedia.org/wiki/Albert_Lutuli
+45,Dag Hammarskjöld,Sweden,SWE,1961,https://en.wikipedia.org/wiki/File:Dag_Hammarskj%C3%B6ld_1961.jpg,https://en.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld
+46,Linus Pauling,United States,USA,1962,https://en.wikipedia.org/wiki/File:Linus_Pauling_1962.jpg,https://en.wikipedia.org/wiki/Linus_Pauling
+47,International Committee of the Red Cross,Switzerland,CHE,1963,https://en.wikipedia.org/wiki/File:Emblem_of_the_ICRC.svg,https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross
+48,Martin Luther King Jr.,United States,USA,1964,"https://en.wikipedia.org/wiki/File:Martin_Luther_King,_Jr..jpg",https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
+49,United Nations Children's Fund,United Nations,UN,1965,https://en.wikipedia.org/wiki/File:Logo_of_UNICEF.svg,https://en.wikipedia.org/wiki/UNICEF
+50,René Cassin,France,FRA,1968,https://en.wikipedia.org/wiki/File:Ren%C3%A9_Cassin_nobel.jpg,https://en.wikipedia.org/wiki/Ren%C3%A9_Cassin
+51,International Labour Organization,United Nations,UN,1969,https://en.wikipedia.org/wiki/File:Flag_of_ILO.svg,https://en.wikipedia.org/wiki/International_Labour_Organization
+52,Norman Ernest Borlaug,United States,USA,1970,"https://en.wikipedia.org/wiki/File:Norman_Borlaug,_2004_(cropped).jpg",https://en.wikipedia.org/wiki/Norman_Borlaug
+53,Willy Brandt,Germany,DEU,1971,"https://en.wikipedia.org/wiki/File:Bundesarchiv_B_145_Bild-F057884-0009,_Willy_Brandt.jpg",https://en.wikipedia.org/wiki/Willy_Brandt
+54,Henry Kissinger,United States,USA,1973,https://en.wikipedia.org/wiki/File:Henry_A_Kissinger_(cropped).jpg,https://en.wikipedia.org/wiki/Henry_Kissinger
+55,Seán MacBride,Ireland,IRL,1974,https://en.wikipedia.org/wiki/File:Se%C3%A1n_MacBride_1984_(cropped2).jpg,https://en.wikipedia.org/wiki/Se%C3%A1n_MacBride
+56,Andrei Sakharov,Russia,RUS,1975,https://en.wikipedia.org/wiki/File:Andrei_Sakharov_(cropped).jpg,https://en.wikipedia.org/wiki/Andrei_Sakharov
+57,Betty Williams,United Kingdom,GBR,1976,https://en.wikipedia.org/wiki/File:Betty_Williams_1996_(cropped).jpg,https://en.wikipedia.org/wiki/Betty_Williams_(Nobel_laureate)
+58,Amnesty International,United Kingdom,GBR,1977,https://en.wikipedia.org/wiki/File:Amnesty_international_Logo.svg,https://en.wikipedia.org/wiki/Amnesty_International
+59,Muhammad Anwar el-Sadat,Egypt,EGY,1978,https://en.wikipedia.org/wiki/File:Sadat_1_(cropped).jpg,https://en.wikipedia.org/wiki/Anwar_Sadat
+60,Mother Teresa,India,IND,1979,https://en.wikipedia.org/wiki/File:Mutter_Teresa_von_Kalkutta.jpg,https://en.wikipedia.org/wiki/Mother_Teresa
+61,Adolfo Pérez Esquivel,Argentina,ARG,1980,"https://en.wikipedia.org/wiki/File:Adolfo_P%C3%A9rez_Esquivel,_premio_Nobel_de_la_Paz_en_1980,_Visit%C3%B3_al_Presidente_de_la_Asamblea_Nacional,_Fernando_Cordero._(5076794488).jpg",https://en.wikipedia.org/wiki/Adolfo_P%C3%A9rez_Esquivel
+62,Office of the United Nations High Commissioner for Refugees,United Nations,UN,1981,https://en.wikipedia.org/wiki/File:UNHCR.svg,https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees
+63,Alva Myrdal,Sweden,SWE,1982,https://en.wikipedia.org/wiki/File:Alva_Myrdal_1966.jpg,https://en.wikipedia.org/wiki/Alva_Myrdal
+64,Lech Wałęsa,Poland,POL,1983,https://en.wikipedia.org/wiki/File:Lech_Wa%C5%82%C4%99sa_(8036260819).jpg,https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa
+65,Desmond Tutu,South Africa,ZAF,1984,https://en.wikipedia.org/wiki/File:Desmond_Tutu_(47327456801)_(cropped_and_adjusted).jpg,https://en.wikipedia.org/wiki/Desmond_Tutu
+66,International Physicians for the Prevention of Nuclear War,United States,USA,1985,https://en.wikipedia.org/wiki/File:IPPNW_logo.svg,https://en.wikipedia.org/wiki/International_Physicians_for_the_Prevention_of_Nuclear_War
+67,Elie Wiesel,United States,USA,1986,https://en.wikipedia.org/wiki/File:ELIE_WIESEL_(5112581267).jpg,https://en.wikipedia.org/wiki/Elie_Wiesel
+68,Óscar Arias,Costa Rica,CRI,1987,https://en.wikipedia.org/wiki/File:%C3%93scar_Arias_(cropped).jpg,https://en.wikipedia.org/wiki/%C3%93scar_Arias
+69,United Nations Peace-Keeping Forces,United Nations,UN,1988,https://en.wikipedia.org/wiki/File:United_Nations_Peacekeeping_Logo.svg,https://en.wikipedia.org/wiki/United_Nations_peacekeeping
+70,"Tenzin Gyatso,14th Dalai Lama",India,IND,1989,https://en.wikipedia.org/wiki/File:Tenzin_Gyatso_-_Trento_2013_01.JPG,https://en.wikipedia.org/wiki/14th_Dalai_Lama
+71,Mikhail Gorbachev,Russia,RUS,1990,https://en.wikipedia.org/wiki/File:Gorbachev_(cropped).png,https://en.wikipedia.org/wiki/Mikhail_Gorbachev
+72,Aung San Suu Kyi,Myanmar,MMR,1991,https://en.wikipedia.org/wiki/File:Aung_San_Suu_Kyi_(December_2011).jpg,https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi
+73,Rigoberta Menchú,Guatemala,GTM,1992,https://en.wikipedia.org/wiki/File:Rigoberta_Menchu.jpg,https://en.wikipedia.org/wiki/Rigoberta_Mench%C3%BA
+74,Nelson Mandela,South Africa,ZAF,1993,https://en.wikipedia.org/wiki/File:Nelson_Mandela_1994.jpg,https://en.wikipedia.org/wiki/Nelson_Mandela
+75,Yasser Arafat,Palestine,PSE,1994,"https://en.wikipedia.org/wiki/File:Leader_of_the_PLO,_Yasser_Arafat,_1996_Dan_Hadani_Archive.jpg",https://en.wikipedia.org/wiki/Yasser_Arafat
+76,Joseph Rotblat,Poland,POL,1995,https://en.wikipedia.org/wiki/File:Josef_Rotblat_ID_badge_(cropped).png,https://en.wikipedia.org/wiki/Joseph_Rotblat
+77,Carlos Filipe Ximenes Belo,East Timor,TLS,1996,https://en.wikipedia.org/wiki/File:Carlosbelo.jpg,https://en.wikipedia.org/wiki/Carlos_Filipe_Ximenes_Belo
+78,International Campaign to Ban Landmines,Switzerland,CHE,1997,https://en.wikipedia.org/wiki/File:International_Campaign_to_Ban_Landmines_Logo.svg,https://en.wikipedia.org/wiki/International_Campaign_to_Ban_Landmines
+79,John Hume,Ireland,IRL,1998,https://en.wikipedia.org/wiki/File:John_Hume_2008.jpg,https://en.wikipedia.org/wiki/John_Hume
+80,Médecins Sans Frontières,Switzerland,CHE,1999,https://en.wikipedia.org/wiki/File:MSF_International_logo_.tif,https://en.wikipedia.org/wiki/M%C3%A9decins_Sans_Fronti%C3%A8res
+81,Kim Dae-jung,South Korea,KOR,2000,https://en.wikipedia.org/wiki/File:Kim_Dae-jung_presidential_portrait.jpg,https://en.wikipedia.org/wiki/Kim_Dae-jung
+82,United Nations,United Nations,UN,2001,https://en.wikipedia.org/wiki/File:Flag_of_the_United_Nations.svg,https://en.wikipedia.org/wiki/United_Nations
+83,Jimmy Carter,United States,USA,2002,https://en.wikipedia.org/wiki/File:Carter_cropped.jpg,https://en.wikipedia.org/wiki/Jimmy_Carter
+84,Shirin Ebadi,Iran,IRN,2003,"https://en.wikipedia.org/wiki/File:Shirin_Ebadi_-_Fronteiras_do_Pensamento_S%C3%A3o_Paulo_2011_(5839607998,_cropped).jpg",https://en.wikipedia.org/wiki/Shirin_Ebadi
+85,Wangari Muta Maathai,Kenya,KEN,2004,https://en.wikipedia.org/wiki/File:Wangari_Matthai_2001_(cropped).jpg,https://en.wikipedia.org/wiki/Wangari_Maathai
+86,International Atomic Energy Agency,United Nations,UN,2005,https://en.wikipedia.org/wiki/File:Flag_of_IAEA.svg,https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency
+87,Muhammad Yunus,Bangladesh,BGD,2006,"https://en.wikipedia.org/wiki/File:Yunus,_Muhammad_(1940).jpg",https://en.wikipedia.org/wiki/Muhammad_Yunus
+88,Intergovernmental Panel on Climate Change,United Nations,UN,2007,https://en.wikipedia.org/wiki/File:Intergovernmental_Panel_on_Climate_Change_Logo.svg,https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change
+89,Martti Ahtisaari,Finland,FIN,2008,"https://en.wikipedia.org/wiki/File:Martti_Ahtisaari,_tidigare_president_Finland_och_mottagare_av_Nobels_fredrspris_(2).jpg",https://en.wikipedia.org/wiki/Martti_Ahtisaari
+90,Barack Obama,United States,USA,2009,https://en.wikipedia.org/wiki/File:Official_portrait_of_Barack_Obama_(1).jpg,https://en.wikipedia.org/wiki/Barack_Obama
+91,Liu Xiaobo,China,CHN,2010,https://en.wikipedia.org/wiki/File:Portrait_of_Liu_Xiaobo_by_Wang_Liming_(2017).jpg,https://en.wikipedia.org/wiki/Liu_Xiaobo
+92,Ellen Johnson Sirleaf,Liberia,LBR,2011,https://en.wikipedia.org/wiki/File:Ellen_Johnson_Sirleaf_February_2015.jpg,https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf
+93,European Union,European Union,EU,2012,https://en.wikipedia.org/wiki/File:Flag_of_Europe.svg,https://en.wikipedia.org/wiki/European_Union
+94,Organisation for the Prohibition of Chemical Weapons,Netherlands,NLD,2013,https://en.wikipedia.org/wiki/File:Organisation_for_the_Prohibition_of_Chemical_Weapons_HQ_in_The_Hague_2007.jpg,https://en.wikipedia.org/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons
+95,Kailash Satyarthi,India,IND,2014,https://en.wikipedia.org/wiki/File:Kailash_Satyarthi_March_2015.jpg,https://en.wikipedia.org/wiki/Kailash_Satyarthi
+96,Tunisian National Dialogue Quartet,Tunisia,TUN,2015,https://en.wikipedia.org/wiki/File:Tunisian_National_Dialogue_Quartet_Visit_to_Vienna_March_2016_(25285867191).jpg,https://en.wikipedia.org/wiki/Tunisian_National_Dialogue_Quartet
+97,Juan Manuel Santos,Colombia,COL,2016,https://en.wikipedia.org/wiki/File:Juan_Manuel_Santos_and_Lula_(cropped).jpg,https://en.wikipedia.org/wiki/Juan_Manuel_Santos
+98,International Campaign to Abolish Nuclear Weapons,Switzerland,CHE,2017,https://en.wikipedia.org/wiki/File:Logo_ICAN.svg,https://en.wikipedia.org/wiki/International_Campaign_to_Abolish_Nuclear_Weapons
+99,Denis Mukwege,Democratic Republic of the Congo,COD,2018,https://en.wikipedia.org/wiki/File:Denis_Mukwege_2018.jpg,https://en.wikipedia.org/wiki/Denis_Mukwege
+100,Abiy Ahmed,Ethiopia,ETH,2019,https://en.wikipedia.org/wiki/File:Abiy_Ahmed_2019.jpg,https://en.wikipedia.org/wiki/Abiy_Ahmed
+101,World Food Programme,United Nations,UN,2020,https://en.wikipedia.org/wiki/File:World_Food_Programme_Logo_Simple.svg,https://en.wikipedia.org/wiki/World_Food_Programme
+102,Maria Ressa,Philippines,PHL,2021,https://en.wikipedia.org/wiki/File:Maria_Ressa.jpg,https://en.wikipedia.org/wiki/Maria_Ressa
+103,Ales Bialiatski,Belarus,BLR,2022,https://en.wikipedia.org/wiki/File:Alaksandr_Bialacki_(3x4_cropped).jpg,https://en.wikipedia.org/wiki/Ales_Bialiatski
+104,Narges Mohammadi,Iran,IRN,2023,https://en.wikipedia.org/wiki/File:Narges_Mohammadi_(cropped1).jpg,https://en.wikipedia.org/wiki/Narges_Mohammadi
+105,Nihon Hidankyo,Japan,JPN,2024,https://en.wikipedia.org/wiki/File:Origami_-_Crane.svg,https://en.wikipedia.org/wiki/Nihon_Hidankyo
