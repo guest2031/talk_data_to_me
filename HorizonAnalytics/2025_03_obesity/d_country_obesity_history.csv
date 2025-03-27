@@ -1,0 +1,6568 @@
+country_code,country_name,year,obesity_rate
+VNM,Viet Nam,1990,0.21
+TLS,Timor-Leste,1990,0.28
+BGD,Bangladesh,1990,0.33
+ETH,Ethiopia,1990,0.36
+KHM,Cambodia,1990,0.53
+NPL,Nepal,1990,0.5
+RWA,Rwanda,1990,0.56
+BFA,Burkina Faso,1990,0.59
+MDG,Madagascar,1990,0.62
+ERI,Eritrea,1990,0.67
+IND,India,1990,0.79
+BDI,Burundi,1990,0.89
+NER,Niger,1990,0.9
+TCD,Chad,1990,0.95
+UGA,Uganda,1990,1.08
+LKA,Sri Lanka,1990,1.12
+MWI,Malawi,1990,1.12
+GIN,Guinea,1990,1.21
+COD,Democratic Republic of the Congo,1990,1.25
+CHN,China,1990,1.32
+LAO,Lao People's Democratic Republic,1990,1.38
+MLI,Mali,1990,1.46
+TGO,Togo,1990,1.46
+CAF,Central African Republic,1990,1.52
+IDN,Indonesia,1990,1.48
+GMB,Gambia,1990,1.53
+KOR,Republic of Korea,1990,1.53
+SSD,South Sudan,1990,1.66
+BTN,Bhutan,1990,1.66
+SLE,Sierra Leone,1990,1.71
+MOZ,Mozambique,1990,1.69
+PHL,Philippines,1990,1.73
+GNB,Guinea-Bissau,1990,1.91
+AFG,Afghanistan,1990,1.95
+MMR,Myanmar,1990,1.94
+JPN,Japan,1990,1.89
+SWZ,Eswatini,1990,9.98
+FRA,France,1990,10.41
+SUR,Suriname,1990,10.45
+JAM,Jamaica,1990,10.54
+LCA,Saint Lucia,1990,10.6
+IRN,Iran (Islamic Republic of),1990,10.67
+ALB,Albania,1990,10.9
+AND,Andorra,1990,11.12
+PAN,Panama,1990,11.08
+CRI,Costa Rica,1990,11.34
+SVN,Slovenia,1990,11.57
+GRD,Grenada,1990,11.57
+BGR,Bulgaria,1990,11.6
+PNG,Papua New Guinea,1990,11.72
+PRT,Portugal,1990,11.7
+ARM,Armenia,1990,11.85
+HRV,Croatia,1990,11.77
+GBR,United Kingdom of Great Britain and Northern Ireland,1990,11.93
+DMA,Dominica,1990,11.89
+KAZ,Kazakhstan,1990,11.88
+TUN,Tunisia,1990,11.96
+BIH,Bosnia and Herzegovina,1990,12.03
+BEL,Belgium,1990,12.1
+PRY,Paraguay,1990,12.08
+SLV,El Salvador,1990,12.11
+AZE,Azerbaijan,1990,12.07
+ITA,Italy,1990,12.31
+URY,Uruguay,1990,12.31
+BMU,Bermuda,1990,12.36
+ATG,Antigua and Barbuda,1990,12.53
+LUX,Luxembourg,1990,12.59
+ARG,Argentina,1990,12.72
+VCT,Saint Vincent and the Grenadines,1990,12.75
+SRB,Serbia,1990,12.79
+SVK,Slovakia,1990,12.83
+AUS,Australia,1990,12.76
+NIC,Nicaragua,1990,13.13
+VEN,Venezuela (Bolivarian Republic of),1990,13.16
+IRL,Ireland,1990,13.17
+SYC,Seychelles,1990,13.24
+SLB,Solomon Islands,1990,13.22
+HUN,Hungary,1990,13.32
+NZL,New Zealand,1990,13.26
+GRL,Greenland,1990,13.41
+CHL,Chile,1990,13.41
+FIN,Finland,1990,13.45
+GEO,Georgia,1990,13.65
+EST,Estonia,1990,13.66
+DEU,Germany,1990,13.78
+POL,Poland,1990,13.94
+VUT,Vanuatu,1990,13.98
+OMN,Oman,1990,14.0
+CAN,Canada,1990,13.96
+MKD,North Macedonia,1990,14.29
+LBN,Lebanon,1990,14.54
+MEX,Mexico,1990,14.51
+ESP,Spain,1990,14.62
+ISR,Israel,1990,14.73
+CYP,Cyprus,1990,14.83
+GRC,Greece,1990,14.9
+TTO,Trinidad and Tobago,1990,14.99
+LVA,Latvia,1990,15.18
+BRB,Barbados,1990,15.75
+ZAF,South Africa,1990,16.09
+UKR,Ukraine,1990,16.49
+BLR,Belarus,1990,16.64
+RUS,Russian Federation,1990,16.74
+SYR,Syrian Arab Republic,1990,17.09
+BHR,Bahrain,1990,17.24
+PRI,Puerto Rico,1990,17.67
+BLZ,Belize,1990,17.65
+LBY,Libya,1990,18.03
+MDA,Republic of Moldova,1990,18.2
+QAT,Qatar,1990,18.26
+TUR,Türkiye,1990,18.33
+USA,United States of America,1990,18.61
+ARE,United Arab Emirates,1990,18.88
+FJI,Fiji,1990,18.86
+BHS,Bahamas,1990,19.13
+EGY,Egypt,1990,19.44
+IRQ,Iraq,1990,19.47
+CZE,Czechia,1990,19.62
+KNA,Saint Kitts and Nevis,1990,19.87
+TZA,United Republic of Tanzania,1990,2.01
+PRK,Democratic People's Republic of Korea,1990,2.07
+BEN,Benin,1990,2.06
+LBR,Liberia,1990,2.21
+CIV,Cote d'Ivoire,1990,2.16
+ZMB,Zambia,1990,2.17
+SEN,Senegal,1990,2.18
+DJI,Djibouti,1990,2.26
+KEN,Kenya,1990,2.26
+NGA,Nigeria,1990,2.25
+COG,Congo,1990,2.85
+GHA,Ghana,1990,2.92
+SAU,Saudi Arabia,1990,19.99
+LTU,Lithuania,1990,20.18
+PSE,"occupied Palestinian territory, including east Jerusalem",1990,20.43
+MLT,Malta,1990,22.79
+JOR,Jordan,1990,23.39
+KWT,Kuwait,1990,27.61
+AGO,Angola,1990,3.03
+PAK,Pakistan,1990,3.0
+SOM,Somalia,1990,3.12
+COM,Comoros,1990,3.16
+STP,Sao Tome and Principe,1990,3.23
+CMR,Cameroon,1990,3.18
+HTI,Haiti,1990,3.26
+CPV,Cabo Verde,1990,3.41
+YEM,Yemen,1990,3.41
+THA,Thailand,1990,3.41
+MDV,Maldives,1990,3.57
+KIR,Kiribati,1990,30.88
+PLW,Palau,1990,32.98
+FSM,Micronesia (Federated States of),1990,33.61
+MHL,Marshall Islands,1990,33.72
+PYF,French Polynesia,1990,33.91
+WSM,Samoa,1990,37.83
+SDN,Sudan,1990,4.07
+SGP,Singapore,1990,4.22
+MRT,Mauritania,1990,4.71
+TUV,Tuvalu,1990,46.99
+COK,Cook Islands,1990,47.34
+TON,Tonga,1990,47.38
+NIU,Niue,1990,48.85
+MYS,Malaysia,1990,5.11
+GNQ,Equatorial Guinea,1990,5.62
+GAB,Gabon,1990,5.6
+ZWE,Zimbabwe,1990,5.68
+TKL,Tokelau,1990,53.49
+NAM,Namibia,1990,6.01
+BWA,Botswana,1990,6.07
+ASM,American Samoa,1990,63.02
+NRU,Nauru,1990,66.08
+CUB,Cuba,1990,7.14
+TJK,Tajikistan,1990,7.48
+MNG,Mongolia,1990,7.46
+GTM,Guatemala,1990,7.61
+LSO,Lesotho,1990,7.59
+COL,Colombia,1990,7.65
+DNK,Denmark,1990,7.88
+BRN,Brunei Darussalam,1990,8.01
+UZB,Uzbekistan,1990,8.0
+MAR,Morocco,1990,7.98
+NOR,Norway,1990,8.09
+NLD,Netherlands (Kingdom of the),1990,8.16
+ROU,Romania,1990,8.41
+TKM,Turkmenistan,1990,8.52
+DOM,Dominican Republic,1990,8.47
+MUS,Mauritius,1990,8.48
+BOL,Bolivia (Plurinational State of),1990,8.57
+BRA,Brazil,1990,8.64
+SWE,Sweden,1990,8.72
+PER,Peru,1990,8.75
+HND,Honduras,1990,8.89
+KGZ,Kyrgyzstan,1990,8.98
+CHE,Switzerland,1990,9.17
+GUY,Guyana,1990,9.3
+MNE,Montenegro,1990,9.4
+AUT,Austria,1990,9.39
+ECU,Ecuador,1990,9.61
+DZA,Algeria,1990,9.87
+ISL,Iceland,1990,9.92
+VNM,Viet Nam,1991,0.21
+TLS,Timor-Leste,1991,0.3
+BGD,Bangladesh,1991,0.36
+ETH,Ethiopia,1991,0.38
+NPL,Nepal,1991,0.54
+BFA,Burkina Faso,1991,0.64
+KHM,Cambodia,1991,0.56
+RWA,Rwanda,1991,0.59
+MDG,Madagascar,1991,0.65
+ERI,Eritrea,1991,0.71
+BDI,Burundi,1991,0.93
+IND,India,1991,0.86
+TCD,Chad,1991,1.03
+NER,Niger,1991,0.97
+UGA,Uganda,1991,1.14
+LKA,Sri Lanka,1991,1.2
+MWI,Malawi,1991,1.18
+COD,Democratic Republic of the Congo,1991,1.33
+GIN,Guinea,1991,1.31
+CHN,China,1991,1.39
+LAO,Lao People's Democratic Republic,1991,1.46
+TGO,Togo,1991,1.58
+MLI,Mali,1991,1.6
+CAF,Central African Republic,1991,1.63
+IDN,Indonesia,1991,1.55
+KOR,Republic of Korea,1991,1.59
+SSD,South Sudan,1991,1.74
+GMB,Gambia,1991,1.67
+BTN,Bhutan,1991,1.78
+SLE,Sierra Leone,1991,1.84
+MOZ,Mozambique,1991,1.78
+PHL,Philippines,1991,1.87
+JPN,Japan,1991,1.95
+DZA,Algeria,1991,10.17
+ISL,Iceland,1991,10.3
+SWZ,Eswatini,1991,10.4
+FRA,France,1991,10.49
+SUR,Suriname,1991,10.9
+ALB,Albania,1991,11.01
+JAM,Jamaica,1991,11.04
+IRN,Iran (Islamic Republic of),1991,11.02
+LCA,Saint Lucia,1991,11.14
+AND,Andorra,1991,11.28
+PAN,Panama,1991,11.6
+BGR,Bulgaria,1991,11.74
+SVN,Slovenia,1991,11.8
+CRI,Costa Rica,1991,11.87
+PRT,Portugal,1991,11.87
+HRV,Croatia,1991,12.0
+GRD,Grenada,1991,12.0
+PNG,Papua New Guinea,1991,11.95
+KAZ,Kazakhstan,1991,12.06
+BIH,Bosnia and Herzegovina,1991,12.14
+ARM,Armenia,1991,12.14
+TUN,Tunisia,1991,12.33
+BEL,Belgium,1991,12.29
+ITA,Italy,1991,12.28
+DMA,Dominica,1991,12.35
+AZE,Azerbaijan,1991,12.4
+PRY,Paraguay,1991,12.53
+GBR,United Kingdom of Great Britain and Northern Ireland,1991,12.57
+SLV,El Salvador,1991,12.66
+URY,Uruguay,1991,12.78
+LUX,Luxembourg,1991,12.88
+SRB,Serbia,1991,12.88
+BMU,Bermuda,1991,12.87
+SVK,Slovakia,1991,12.99
+ATG,Antigua and Barbuda,1991,13.02
+ARG,Argentina,1991,13.21
+VCT,Saint Vincent and the Grenadines,1991,13.26
+AUS,Australia,1991,13.4
+SLB,Solomon Islands,1991,13.46
+NIC,Nicaragua,1991,13.72
+VEN,Venezuela (Bolivarian Republic of),1991,13.74
+IRL,Ireland,1991,13.7
+SYC,Seychelles,1991,13.75
+HUN,Hungary,1991,13.7
+FIN,Finland,1991,13.66
+GRL,Greenland,1991,13.78
+EST,Estonia,1991,13.82
+NZL,New Zealand,1991,13.98
+GEO,Georgia,1991,14.06
+CHL,Chile,1991,14.06
+POL,Poland,1991,14.11
+DEU,Germany,1991,14.14
+VUT,Vanuatu,1991,14.2
+OMN,Oman,1991,14.22
+MKD,North Macedonia,1991,14.47
+CAN,Canada,1991,14.58
+ESP,Spain,1991,14.88
+CYP,Cyprus,1991,15.04
+LBN,Lebanon,1991,15.04
+ISR,Israel,1991,15.01
+GRC,Greece,1991,15.16
+MEX,Mexico,1991,15.2
+LVA,Latvia,1991,15.28
+TTO,Trinidad and Tobago,1991,15.43
+BRB,Barbados,1991,16.27
+UKR,Ukraine,1991,16.57
+BLR,Belarus,1991,16.71
+ZAF,South Africa,1991,16.66
+RUS,Russian Federation,1991,16.79
+SYR,Syrian Arab Republic,1991,17.6
+BHR,Bahrain,1991,17.9
+BLZ,Belize,1991,18.34
+MDA,Republic of Moldova,1991,18.31
+PRI,Puerto Rico,1991,18.37
+LBY,Libya,1991,18.59
+QAT,Qatar,1991,18.95
+TUR,Türkiye,1991,18.88
+FJI,Fiji,1991,19.18
+USA,United States of America,1991,19.39
+ARE,United Arab Emirates,1991,19.51
+CZE,Czechia,1991,19.5
+MMR,Myanmar,1991,2.04
+GNB,Guinea-Bissau,1991,2.06
+AFG,Afghanistan,1991,2.11
+TZA,United Republic of Tanzania,1991,2.12
+PRK,Democratic People's Republic of Korea,1991,2.18
+BEN,Benin,1991,2.23
+ZMB,Zambia,1991,2.28
+CIV,Cote d'Ivoire,1991,2.32
+DJI,Djibouti,1991,2.38
+LBR,Liberia,1991,2.39
+KEN,Kenya,1991,2.39
+SEN,Senegal,1991,2.36
+NGA,Nigeria,1991,2.42
+BHS,Bahamas,1991,19.96
+LTU,Lithuania,1991,20.02
+IRQ,Iraq,1991,20.07
+EGY,Egypt,1991,20.18
+SAU,Saudi Arabia,1991,20.51
+KNA,Saint Kitts and Nevis,1991,20.62
+PSE,"occupied Palestinian territory, including east Jerusalem",1991,21.07
+MLT,Malta,1991,22.99
+JOR,Jordan,1991,23.96
+KWT,Kuwait,1991,28.46
+COG,Congo,1991,3.04
+AGO,Angola,1991,3.21
+GHA,Ghana,1991,3.15
+PAK,Pakistan,1991,3.21
+SOM,Somalia,1991,3.28
+COM,Comoros,1991,3.34
+HTI,Haiti,1991,3.42
+CMR,Cameroon,1991,3.43
+STP,Sao Tome and Principe,1991,3.48
+YEM,Yemen,1991,3.55
+THA,Thailand,1991,3.6
+CPV,Cabo Verde,1991,3.65
+MDV,Maldives,1991,3.78
+KIR,Kiribati,1991,31.8
+PLW,Palau,1991,33.48
+FSM,Micronesia (Federated States of),1991,34.09
+MHL,Marshall Islands,1991,34.2
+PYF,French Polynesia,1991,34.45
+WSM,Samoa,1991,38.79
+SGP,Singapore,1991,4.22
+SDN,Sudan,1991,4.26
+TUV,Tuvalu,1991,47.69
+TON,Tonga,1991,48.1
+COK,Cook Islands,1991,48.17
+NIU,Niue,1991,49.55
+MRT,Mauritania,1991,5.04
+MYS,Malaysia,1991,5.43
+ZWE,Zimbabwe,1991,5.74
+GNQ,Equatorial Guinea,1991,5.93
+GAB,Gabon,1991,5.92
+TKL,Tokelau,1991,54.19
+NAM,Namibia,1991,6.33
+BWA,Botswana,1991,6.4
+ASM,American Samoa,1991,63.83
+NRU,Nauru,1991,66.25
+CUB,Cuba,1991,7.42
+TJK,Tajikistan,1991,7.71
+MNG,Mongolia,1991,7.71
+LSO,Lesotho,1991,7.84
+GTM,Guatemala,1991,8.02
+COL,Colombia,1991,8.02
+DNK,Denmark,1991,8.11
+MAR,Morocco,1991,8.24
+UZB,Uzbekistan,1991,8.28
+NOR,Norway,1991,8.37
+NLD,Netherlands (Kingdom of the),1991,8.41
+BRN,Brunei Darussalam,1991,8.45
+ROU,Romania,1991,8.57
+TKM,Turkmenistan,1991,8.78
+BOL,Bolivia (Plurinational State of),1991,8.93
+DOM,Dominican Republic,1991,8.93
+MUS,Mauritius,1991,8.88
+BRA,Brazil,1991,8.95
+PER,Peru,1991,9.04
+SWE,Sweden,1991,9.0
+KGZ,Kyrgyzstan,1991,9.25
+CHE,Switzerland,1991,9.28
+HND,Honduras,1991,9.37
+MNE,Montenegro,1991,9.56
+AUT,Austria,1991,9.61
+GUY,Guyana,1991,9.69
+ECU,Ecuador,1991,9.94
+VNM,Viet Nam,1992,0.22
+TLS,Timor-Leste,1992,0.32
+BGD,Bangladesh,1992,0.39
+ETH,Ethiopia,1992,0.4
+KHM,Cambodia,1992,0.59
+NPL,Nepal,1992,0.59
+RWA,Rwanda,1992,0.62
+MDG,Madagascar,1992,0.69
+BFA,Burkina Faso,1992,0.7
+ERI,Eritrea,1992,0.75
+IND,India,1992,0.93
+BDI,Burundi,1992,0.99
+TCD,Chad,1992,1.12
+NER,Niger,1992,1.05
+UGA,Uganda,1992,1.21
+MWI,Malawi,1992,1.26
+LKA,Sri Lanka,1992,1.3
+COD,Democratic Republic of the Congo,1992,1.41
+GIN,Guinea,1992,1.41
+LAO,Lao People's Democratic Republic,1992,1.54
+CHN,China,1992,1.47
+IDN,Indonesia,1992,1.64
+TGO,Togo,1992,1.71
+MLI,Mali,1992,1.74
+CAF,Central African Republic,1992,1.74
+KOR,Republic of Korea,1992,1.66
+SSD,South Sudan,1992,1.84
+GMB,Gambia,1992,1.82
+BTN,Bhutan,1992,1.92
+MOZ,Mozambique,1992,1.88
+GUY,Guyana,1992,10.11
+ECU,Ecuador,1992,10.28
+DZA,Algeria,1992,10.49
+FRA,France,1992,10.58
+ISL,Iceland,1992,10.7
+SWZ,Eswatini,1992,10.85
+ALB,Albania,1992,11.13
+SUR,Suriname,1992,11.36
+IRN,Iran (Islamic Republic of),1992,11.38
+AND,Andorra,1992,11.45
+JAM,Jamaica,1992,11.56
+LCA,Saint Lucia,1992,11.7
+BGR,Bulgaria,1992,11.9
+SVN,Slovenia,1992,12.02
+PRT,Portugal,1992,12.06
+PAN,Panama,1992,12.15
+PNG,Papua New Guinea,1992,12.18
+KAZ,Kazakhstan,1992,12.25
+HRV,Croatia,1992,12.24
+ITA,Italy,1992,12.29
+BIH,Bosnia and Herzegovina,1992,12.29
+CRI,Costa Rica,1992,12.41
+ARM,Armenia,1992,12.46
+BEL,Belgium,1992,12.49
+GRD,Grenada,1992,12.45
+AZE,Azerbaijan,1992,12.75
+TUN,Tunisia,1992,12.71
+DMA,Dominica,1992,12.81
+SRB,Serbia,1992,12.98
+PRY,Paraguay,1992,13.01
+LUX,Luxembourg,1992,13.19
+SLV,El Salvador,1992,13.22
+SVK,Slovakia,1992,13.16
+GBR,United Kingdom of Great Britain and Northern Ireland,1992,13.23
+URY,Uruguay,1992,13.25
+BMU,Bermuda,1992,13.4
+ATG,Antigua and Barbuda,1992,13.56
+SLB,Solomon Islands,1992,13.69
+ARG,Argentina,1992,13.71
+VCT,Saint Vincent and the Grenadines,1992,13.77
+FIN,Finland,1992,13.89
+EST,Estonia,1992,14.0
+HUN,Hungary,1992,14.08
+AUS,Australia,1992,14.06
+GRL,Greenland,1992,14.16
+NIC,Nicaragua,1992,14.34
+VEN,Venezuela (Bolivarian Republic of),1992,14.32
+IRL,Ireland,1992,14.26
+SYC,Seychelles,1992,14.27
+POL,Poland,1992,14.29
+VUT,Vanuatu,1992,14.41
+GEO,Georgia,1992,14.49
+OMN,Oman,1992,14.45
+DEU,Germany,1992,14.51
+MKD,North Macedonia,1992,14.66
+CHL,Chile,1992,14.73
+NZL,New Zealand,1992,14.73
+CAN,Canada,1992,15.2
+ESP,Spain,1992,15.16
+CYP,Cyprus,1992,15.27
+ISR,Israel,1992,15.3
+GRC,Greece,1992,15.44
+LVA,Latvia,1992,15.41
+LBN,Lebanon,1992,15.54
+TTO,Trinidad and Tobago,1992,15.88
+MEX,Mexico,1992,15.9
+UKR,Ukraine,1992,16.66
+BLR,Belarus,1992,16.79
+BRB,Barbados,1992,16.81
+RUS,Russian Federation,1992,16.86
+ZAF,South Africa,1992,17.3
+SYR,Syrian Arab Republic,1992,18.11
+MDA,Republic of Moldova,1992,18.44
+BHR,Bahrain,1992,18.56
+PRI,Puerto Rico,1992,19.09
+BLZ,Belize,1992,19.05
+LBY,Libya,1992,19.15
+CZE,Czechia,1992,19.38
+TUR,Türkiye,1992,19.43
+FJI,Fiji,1992,19.49
+QAT,Qatar,1992,19.65
+LTU,Lithuania,1992,19.88
+SLE,Sierra Leone,1992,1.99
+PHL,Philippines,1992,2.02
+JPN,Japan,1992,2.0
+GNB,Guinea-Bissau,1992,2.22
+MMR,Myanmar,1992,2.15
+TZA,United Republic of Tanzania,1992,2.24
+PRK,Democratic People's Republic of Korea,1992,2.3
+AFG,Afghanistan,1992,2.27
+BEN,Benin,1992,2.41
+ZMB,Zambia,1992,2.4
+DJI,Djibouti,1992,2.5
+CIV,Cote d'Ivoire,1992,2.5
+KEN,Kenya,1992,2.54
+SEN,Senegal,1992,2.55
+LBR,Liberia,1992,2.59
+NGA,Nigeria,1992,2.61
+ARE,United Arab Emirates,1992,20.15
+USA,United States of America,1992,20.2
+IRQ,Iraq,1992,20.67
+BHS,Bahamas,1992,20.81
+EGY,Egypt,1992,20.94
+SAU,Saudi Arabia,1992,21.05
+KNA,Saint Kitts and Nevis,1992,21.41
+PSE,"occupied Palestinian territory, including east Jerusalem",1992,21.71
+MLT,Malta,1992,23.21
+JOR,Jordan,1992,24.54
+KWT,Kuwait,1992,29.29
+COG,Congo,1992,3.24
+SOM,Somalia,1992,3.45
+AGO,Angola,1992,3.4
+GHA,Ghana,1992,3.39
+PAK,Pakistan,1992,3.42
+COM,Comoros,1992,3.53
+HTI,Haiti,1992,3.6
+STP,Sao Tome and Principe,1992,3.73
+YEM,Yemen,1992,3.7
+CMR,Cameroon,1992,3.7
+THA,Thailand,1992,3.79
+CPV,Cabo Verde,1992,3.91
+KIR,Kiribati,1992,32.67
+PLW,Palau,1992,33.94
+FSM,Micronesia (Federated States of),1992,34.5
+MHL,Marshall Islands,1992,34.67
+PYF,French Polynesia,1992,34.95
+WSM,Samoa,1992,39.72
+MDV,Maldives,1992,4.01
+SGP,Singapore,1992,4.22
+SDN,Sudan,1992,4.47
+TUV,Tuvalu,1992,48.36
+TON,Tonga,1992,48.79
+COK,Cook Islands,1992,48.95
+MRT,Mauritania,1992,5.38
+ZWE,Zimbabwe,1992,5.79
+MYS,Malaysia,1992,5.78
+NIU,Niue,1992,50.2
+TKL,Tokelau,1992,54.8
+GNQ,Equatorial Guinea,1992,6.25
+GAB,Gabon,1992,6.25
+BWA,Botswana,1992,6.75
+NAM,Namibia,1992,6.66
+ASM,American Samoa,1992,64.57
+NRU,Nauru,1992,66.42
+CUB,Cuba,1992,7.71
+TJK,Tajikistan,1992,7.96
+MNG,Mongolia,1992,7.97
+LSO,Lesotho,1992,8.1
+GTM,Guatemala,1992,8.44
+COL,Colombia,1992,8.39
+DNK,Denmark,1992,8.36
+MAR,Morocco,1992,8.52
+UZB,Uzbekistan,1992,8.58
+ROU,Romania,1992,8.75
+NLD,Netherlands (Kingdom of the),1992,8.67
+NOR,Norway,1992,8.67
+BRN,Brunei Darussalam,1992,8.92
+TKM,Turkmenistan,1992,9.05
+BOL,Bolivia (Plurinational State of),1992,9.31
+PER,Peru,1992,9.33
+BRA,Brazil,1992,9.26
+MUS,Mauritius,1992,9.29
+SWE,Sweden,1992,9.29
+CHE,Switzerland,1992,9.4
+DOM,Dominican Republic,1992,9.42
+KGZ,Kyrgyzstan,1992,9.54
+MNE,Montenegro,1992,9.71
+AUT,Austria,1992,9.84
+HND,Honduras,1992,9.86
+VNM,Viet Nam,1993,0.22
+TLS,Timor-Leste,1993,0.33
+BGD,Bangladesh,1993,0.43
+ETH,Ethiopia,1993,0.42
+KHM,Cambodia,1993,0.63
+NPL,Nepal,1993,0.65
+RWA,Rwanda,1993,0.65
+MDG,Madagascar,1993,0.73
+BFA,Burkina Faso,1993,0.76
+ERI,Eritrea,1993,0.79
+BDI,Burundi,1993,1.04
+IND,India,1993,1.02
+NER,Niger,1993,1.14
+TCD,Chad,1993,1.21
+UGA,Uganda,1993,1.27
+MWI,Malawi,1993,1.33
+LKA,Sri Lanka,1993,1.4
+COD,Democratic Republic of the Congo,1993,1.5
+GIN,Guinea,1993,1.53
+CHN,China,1993,1.55
+LAO,Lao People's Democratic Republic,1993,1.63
+IDN,Indonesia,1993,1.73
+KOR,Republic of Korea,1993,1.73
+SSD,South Sudan,1993,1.94
+TGO,Togo,1993,1.85
+CAF,Central African Republic,1993,1.86
+MLI,Mali,1993,1.9
+AUT,Austria,1993,10.08
+HND,Honduras,1993,10.38
+GUY,Guyana,1993,10.54
+ECU,Ecuador,1993,10.64
+FRA,France,1993,10.7
+DZA,Algeria,1993,10.81
+ISL,Iceland,1993,11.11
+SWZ,Eswatini,1993,11.32
+ALB,Albania,1993,11.26
+AND,Andorra,1993,11.65
+IRN,Iran (Islamic Republic of),1993,11.75
+SUR,Suriname,1993,11.85
+JAM,Jamaica,1993,12.12
+BGR,Bulgaria,1993,12.06
+LCA,Saint Lucia,1993,12.29
+PRT,Portugal,1993,12.28
+SVN,Slovenia,1993,12.26
+ITA,Italy,1993,12.33
+PNG,Papua New Guinea,1993,12.4
+KAZ,Kazakhstan,1993,12.44
+HRV,Croatia,1993,12.5
+BIH,Bosnia and Herzegovina,1993,12.45
+PAN,Panama,1993,12.71
+BEL,Belgium,1993,12.71
+ARM,Armenia,1993,12.79
+GRD,Grenada,1993,12.92
+CRI,Costa Rica,1993,12.96
+AZE,Azerbaijan,1993,13.1
+TUN,Tunisia,1993,13.11
+SRB,Serbia,1993,13.09
+DMA,Dominica,1993,13.29
+SVK,Slovakia,1993,13.34
+PRY,Paraguay,1993,13.49
+LUX,Luxembourg,1993,13.5
+URY,Uruguay,1993,13.74
+SLV,El Salvador,1993,13.79
+SLB,Solomon Islands,1993,13.92
+GBR,United Kingdom of Great Britain and Northern Ireland,1993,13.91
+BMU,Bermuda,1993,13.95
+FIN,Finland,1993,14.14
+ATG,Antigua and Barbuda,1993,14.12
+ARG,Argentina,1993,14.23
+EST,Estonia,1993,14.2
+VCT,Saint Vincent and the Grenadines,1993,14.3
+HUN,Hungary,1993,14.48
+POL,Poland,1993,14.49
+GRL,Greenland,1993,14.57
+VUT,Vanuatu,1993,14.62
+OMN,Oman,1993,14.72
+AUS,Australia,1993,14.73
+IRL,Ireland,1993,14.83
+SYC,Seychelles,1993,14.82
+MKD,North Macedonia,1993,14.87
+GEO,Georgia,1993,14.94
+VEN,Venezuela (Bolivarian Republic of),1993,14.91
+DEU,Germany,1993,14.9
+NIC,Nicaragua,1993,14.97
+CHL,Chile,1993,15.41
+CYP,Cyprus,1993,15.53
+NZL,New Zealand,1993,15.5
+ESP,Spain,1993,15.47
+LVA,Latvia,1993,15.56
+ISR,Israel,1993,15.63
+GRC,Greece,1993,15.76
+CAN,Canada,1993,15.84
+LBN,Lebanon,1993,16.06
+TTO,Trinidad and Tobago,1993,16.35
+MEX,Mexico,1993,16.61
+UKR,Ukraine,1993,16.78
+BLR,Belarus,1993,16.89
+RUS,Russian Federation,1993,16.96
+BRB,Barbados,1993,17.37
+ZAF,South Africa,1993,18.02
+MDA,Republic of Moldova,1993,18.58
+SYR,Syrian Arab Republic,1993,18.64
+BHR,Bahrain,1993,19.23
+CZE,Czechia,1993,19.27
+LBY,Libya,1993,19.72
+BLZ,Belize,1993,19.81
+PRI,Puerto Rico,1993,19.83
+FJI,Fiji,1993,19.8
+LTU,Lithuania,1993,19.77
+GMB,Gambia,1993,1.99
+MOZ,Mozambique,1993,1.98
+BTN,Bhutan,1993,2.06
+SLE,Sierra Leone,1993,2.14
+JPN,Japan,1993,2.06
+PHL,Philippines,1993,2.17
+MMR,Myanmar,1993,2.27
+PRK,Democratic People's Republic of Korea,1993,2.43
+GNB,Guinea-Bissau,1993,2.4
+TZA,United Republic of Tanzania,1993,2.38
+AFG,Afghanistan,1993,2.46
+ZMB,Zambia,1993,2.52
+DJI,Djibouti,1993,2.63
+BEN,Benin,1993,2.6
+CIV,Cote d'Ivoire,1993,2.7
+KEN,Kenya,1993,2.7
+SEN,Senegal,1993,2.75
+LBR,Liberia,1993,2.8
+NGA,Nigeria,1993,2.81
+TUR,Türkiye,1993,19.99
+QAT,Qatar,1993,20.38
+ARE,United Arab Emirates,1993,20.8
+USA,United States of America,1993,21.03
+IRQ,Iraq,1993,21.28
+SAU,Saudi Arabia,1993,21.64
+BHS,Bahamas,1993,21.7
+EGY,Egypt,1993,21.72
+KNA,Saint Kitts and Nevis,1993,22.23
+PSE,"occupied Palestinian territory, including east Jerusalem",1993,22.36
+MLT,Malta,1993,23.46
+JOR,Jordan,1993,25.13
+COG,Congo,1993,3.45
+SOM,Somalia,1993,3.63
+AGO,Angola,1993,3.6
+COM,Comoros,1993,3.74
+GHA,Ghana,1993,3.65
+PAK,Pakistan,1993,3.65
+HTI,Haiti,1993,3.79
+YEM,Yemen,1993,3.85
+KWT,Kuwait,1993,30.02
+KIR,Kiribati,1993,33.49
+PLW,Palau,1993,34.38
+FSM,Micronesia (Federated States of),1993,34.87
+MHL,Marshall Islands,1993,35.09
+PYF,French Polynesia,1993,35.43
+STP,Sao Tome and Principe,1993,4.01
+CMR,Cameroon,1993,4.0
+THA,Thailand,1993,4.0
+CPV,Cabo Verde,1993,4.18
+MDV,Maldives,1993,4.24
+SGP,Singapore,1993,4.24
+SDN,Sudan,1993,4.69
+WSM,Samoa,1993,40.62
+TUV,Tuvalu,1993,48.98
+TON,Tonga,1993,49.46
+COK,Cook Islands,1993,49.71
+MRT,Mauritania,1993,5.75
+ZWE,Zimbabwe,1993,5.85
+NIU,Niue,1993,50.87
+TKL,Tokelau,1993,55.48
+MYS,Malaysia,1993,6.14
+GNQ,Equatorial Guinea,1993,6.59
+GAB,Gabon,1993,6.6
+ASM,American Samoa,1993,65.23
+NRU,Nauru,1993,66.44
+NAM,Namibia,1993,7.01
+BWA,Botswana,1993,7.1
+CUB,Cuba,1993,8.02
+TJK,Tajikistan,1993,8.22
+MNG,Mongolia,1993,8.24
+LSO,Lesotho,1993,8.37
+DNK,Denmark,1993,8.61
+COL,Colombia,1993,8.78
+MAR,Morocco,1993,8.81
+UZB,Uzbekistan,1993,8.89
+GTM,Guatemala,1993,8.89
+ROU,Romania,1993,8.95
+NLD,Netherlands (Kingdom of the),1993,8.94
+NOR,Norway,1993,8.99
+TKM,Turkmenistan,1993,9.33
+BRN,Brunei Darussalam,1993,9.41
+CHE,Switzerland,1993,9.53
+PER,Peru,1993,9.64
+BRA,Brazil,1993,9.59
+SWE,Sweden,1993,9.6
+BOL,Bolivia (Plurinational State of),1993,9.7
+MUS,Mauritius,1993,9.7
+MNE,Montenegro,1993,9.88
+KGZ,Kyrgyzstan,1993,9.85
+DOM,Dominican Republic,1993,9.93
+VNM,Viet Nam,1994,0.23
+TLS,Timor-Leste,1994,0.36
+ETH,Ethiopia,1994,0.44
+BGD,Bangladesh,1994,0.47
+KHM,Cambodia,1994,0.67
+NPL,Nepal,1994,0.7
+RWA,Rwanda,1994,0.69
+MDG,Madagascar,1994,0.77
+BFA,Burkina Faso,1994,0.83
+ERI,Eritrea,1994,0.84
+BDI,Burundi,1994,1.1
+IND,India,1994,1.1
+NER,Niger,1994,1.23
+TCD,Chad,1994,1.32
+UGA,Uganda,1994,1.35
+MWI,Malawi,1994,1.42
+LKA,Sri Lanka,1994,1.52
+COD,Democratic Republic of the Congo,1994,1.59
+CHN,China,1994,1.63
+LAO,Lao People's Democratic Republic,1994,1.72
+GIN,Guinea,1994,1.65
+IDN,Indonesia,1994,1.82
+KOR,Republic of Korea,1994,1.8
+MNE,Montenegro,1994,10.05
+BOL,Bolivia (Plurinational State of),1994,10.1
+MUS,Mauritius,1994,10.12
+KGZ,Kyrgyzstan,1994,10.18
+AUT,Austria,1994,10.33
+DOM,Dominican Republic,1994,10.47
+FRA,France,1994,10.83
+HND,Honduras,1994,10.92
+GUY,Guyana,1994,10.99
+ECU,Ecuador,1994,11.01
+DZA,Algeria,1994,11.14
+ALB,Albania,1994,11.4
+ISL,Iceland,1994,11.54
+SWZ,Eswatini,1994,11.85
+AND,Andorra,1994,11.88
+IRN,Iran (Islamic Republic of),1994,12.14
+BGR,Bulgaria,1994,12.25
+ITA,Italy,1994,12.41
+SUR,Suriname,1994,12.36
+PRT,Portugal,1994,12.53
+SVN,Slovenia,1994,12.5
+PNG,Papua New Guinea,1994,12.62
+KAZ,Kazakhstan,1994,12.63
+BIH,Bosnia and Herzegovina,1994,12.62
+JAM,Jamaica,1994,12.71
+HRV,Croatia,1994,12.78
+LCA,Saint Lucia,1994,12.9
+BEL,Belgium,1994,12.94
+ARM,Armenia,1994,13.13
+SRB,Serbia,1994,13.22
+PAN,Panama,1994,13.29
+GRD,Grenada,1994,13.4
+AZE,Azerbaijan,1994,13.44
+CRI,Costa Rica,1994,13.54
+TUN,Tunisia,1994,13.51
+SVK,Slovakia,1994,13.54
+DMA,Dominica,1994,13.8
+LUX,Luxembourg,1994,13.83
+PRY,Paraguay,1994,14.0
+SLB,Solomon Islands,1994,14.15
+URY,Uruguay,1994,14.25
+SLV,El Salvador,1994,14.37
+EST,Estonia,1994,14.45
+FIN,Finland,1994,14.41
+BMU,Bermuda,1994,14.53
+GBR,United Kingdom of Great Britain and Northern Ireland,1994,14.62
+POL,Poland,1994,14.7
+ATG,Antigua and Barbuda,1994,14.72
+ARG,Argentina,1994,14.76
+VUT,Vanuatu,1994,14.82
+VCT,Saint Vincent and the Grenadines,1994,14.86
+HUN,Hungary,1994,14.9
+GRL,Greenland,1994,15.0
+MKD,North Macedonia,1994,15.1
+OMN,Oman,1994,15.09
+DEU,Germany,1994,15.31
+GEO,Georgia,1994,15.4
+IRL,Ireland,1994,15.42
+SYC,Seychelles,1994,15.4
+AUS,Australia,1994,15.4
+VEN,Venezuela (Bolivarian Republic of),1994,15.51
+NIC,Nicaragua,1994,15.61
+LVA,Latvia,1994,15.75
+CYP,Cyprus,1994,15.82
+ESP,Spain,1994,15.81
+ISR,Israel,1994,15.98
+GRC,Greece,1994,16.11
+CHL,Chile,1994,16.12
+NZL,New Zealand,1994,16.29
+CAN,Canada,1994,16.47
+LBN,Lebanon,1994,16.59
+TTO,Trinidad and Tobago,1994,16.83
+UKR,Ukraine,1994,16.93
+BLR,Belarus,1994,17.03
+RUS,Russian Federation,1994,17.11
+MEX,Mexico,1994,17.32
+BRB,Barbados,1994,17.96
+ZAF,South Africa,1994,18.75
+MDA,Republic of Moldova,1994,18.75
+SYR,Syrian Arab Republic,1994,19.17
+CZE,Czechia,1994,19.18
+LTU,Lithuania,1994,19.7
+BHR,Bahrain,1994,19.92
+SSD,South Sudan,1994,2.04
+CAF,Central African Republic,1994,1.99
+TGO,Togo,1994,2.01
+MLI,Mali,1994,2.07
+MOZ,Mozambique,1994,2.1
+JPN,Japan,1994,2.13
+BTN,Bhutan,1994,2.21
+GMB,Gambia,1994,2.18
+SLE,Sierra Leone,1994,2.31
+PHL,Philippines,1994,2.32
+MMR,Myanmar,1994,2.39
+TZA,United Republic of Tanzania,1994,2.53
+PRK,Democratic People's Republic of Korea,1994,2.56
+GNB,Guinea-Bissau,1994,2.58
+ZMB,Zambia,1994,2.64
+AFG,Afghanistan,1994,2.65
+DJI,Djibouti,1994,2.76
+BEN,Benin,1994,2.81
+KEN,Kenya,1994,2.87
+CIV,Cote d'Ivoire,1994,2.9
+FJI,Fiji,1994,20.11
+LBY,Libya,1994,20.32
+TUR,Türkiye,1994,20.55
+PRI,Puerto Rico,1994,20.6
+BLZ,Belize,1994,20.59
+QAT,Qatar,1994,21.13
+ARE,United Arab Emirates,1994,21.46
+IRQ,Iraq,1994,21.91
+USA,United States of America,1994,21.89
+SAU,Saudi Arabia,1994,22.28
+EGY,Egypt,1994,22.53
+BHS,Bahamas,1994,22.62
+PSE,"occupied Palestinian territory, including east Jerusalem",1994,23.02
+KNA,Saint Kitts and Nevis,1994,23.07
+MLT,Malta,1994,23.76
+JOR,Jordan,1994,25.74
+LBR,Liberia,1994,3.02
+SEN,Senegal,1994,2.96
+NGA,Nigeria,1994,3.03
+COG,Congo,1994,3.66
+SOM,Somalia,1994,3.81
+AGO,Angola,1994,3.81
+PAK,Pakistan,1994,3.89
+GHA,Ghana,1994,3.93
+KWT,Kuwait,1994,30.71
+KIR,Kiribati,1994,34.28
+PLW,Palau,1994,34.78
+FSM,Micronesia (Federated States of),1994,35.24
+MHL,Marshall Islands,1994,35.51
+PYF,French Polynesia,1994,35.88
+COM,Comoros,1994,3.95
+HTI,Haiti,1994,3.99
+YEM,Yemen,1994,4.02
+THA,Thailand,1994,4.21
+STP,Sao Tome and Principe,1994,4.31
+CMR,Cameroon,1994,4.31
+SGP,Singapore,1994,4.27
+CPV,Cabo Verde,1994,4.47
+MDV,Maldives,1994,4.49
+SDN,Sudan,1994,4.93
+WSM,Samoa,1994,41.51
+TUV,Tuvalu,1994,49.59
+ZWE,Zimbabwe,1994,5.94
+TON,Tonga,1994,50.1
+COK,Cook Islands,1994,50.44
+NIU,Niue,1994,51.51
+TKL,Tokelau,1994,56.15
+MRT,Mauritania,1994,6.14
+MYS,Malaysia,1994,6.52
+GNQ,Equatorial Guinea,1994,6.93
+ASM,American Samoa,1994,65.82
+NRU,Nauru,1994,66.44
+GAB,Gabon,1994,6.97
+NAM,Namibia,1994,7.37
+BWA,Botswana,1994,7.46
+CUB,Cuba,1994,8.34
+TJK,Tajikistan,1994,8.5
+MNG,Mongolia,1994,8.53
+LSO,Lesotho,1994,8.66
+DNK,Denmark,1994,8.87
+MAR,Morocco,1994,9.12
+UZB,Uzbekistan,1994,9.23
+COL,Colombia,1994,9.18
+ROU,Romania,1994,9.18
+NLD,Netherlands (Kingdom of the),1994,9.24
+NOR,Norway,1994,9.34
+GTM,Guatemala,1994,9.36
+TKM,Turkmenistan,1994,9.62
+CHE,Switzerland,1994,9.67
+BRN,Brunei Darussalam,1994,9.92
+PER,Peru,1994,9.95
+BRA,Brazil,1994,9.93
+SWE,Sweden,1994,9.93
+VNM,Viet Nam,1995,0.24
+TLS,Timor-Leste,1995,0.38
+ETH,Ethiopia,1995,0.47
+BGD,Bangladesh,1995,0.52
+KHM,Cambodia,1995,0.71
+RWA,Rwanda,1995,0.75
+NPL,Nepal,1995,0.77
+MDG,Madagascar,1995,0.81
+ERI,Eritrea,1995,0.89
+BFA,Burkina Faso,1995,0.9
+BDI,Burundi,1995,1.16
+IND,India,1995,1.2
+NER,Niger,1995,1.33
+TCD,Chad,1995,1.43
+UGA,Uganda,1995,1.43
+MWI,Malawi,1995,1.51
+LKA,Sri Lanka,1995,1.64
+COD,Democratic Republic of the Congo,1995,1.7
+CHN,China,1995,1.71
+LAO,Lao People's Democratic Republic,1995,1.82
+GIN,Guinea,1995,1.79
+KOR,Republic of Korea,1995,1.88
+IDN,Indonesia,1995,1.93
+MNE,Montenegro,1995,10.23
+PER,Peru,1995,10.28
+BRA,Brazil,1995,10.29
+SWE,Sweden,1995,10.28
+BRN,Brunei Darussalam,1995,10.46
+BOL,Bolivia (Plurinational State of),1995,10.53
+KGZ,Kyrgyzstan,1995,10.54
+MUS,Mauritius,1995,10.54
+AUT,Austria,1995,10.59
+DOM,Dominican Republic,1995,11.03
+FRA,France,1995,10.97
+ECU,Ecuador,1995,11.4
+HND,Honduras,1995,11.48
+GUY,Guyana,1995,11.47
+DZA,Algeria,1995,11.49
+ALB,Albania,1995,11.57
+ISL,Iceland,1995,11.99
+AND,Andorra,1995,12.14
+BGR,Bulgaria,1995,12.45
+SWZ,Eswatini,1995,12.42
+IRN,Iran (Islamic Republic of),1995,12.54
+ITA,Italy,1995,12.53
+SVN,Slovenia,1995,12.75
+BIH,Bosnia and Herzegovina,1995,12.78
+PNG,Papua New Guinea,1995,12.83
+KAZ,Kazakhstan,1995,12.83
+PRT,Portugal,1995,12.81
+SUR,Suriname,1995,12.87
+HRV,Croatia,1995,13.09
+BEL,Belgium,1995,13.2
+JAM,Jamaica,1995,13.33
+SRB,Serbia,1995,13.36
+LCA,Saint Lucia,1995,13.54
+ARM,Armenia,1995,13.48
+AZE,Azerbaijan,1995,13.77
+SVK,Slovakia,1995,13.75
+GRD,Grenada,1995,13.91
+PAN,Panama,1995,13.9
+TUN,Tunisia,1995,13.94
+CRI,Costa Rica,1995,14.13
+LUX,Luxembourg,1995,14.18
+DMA,Dominica,1995,14.33
+SLB,Solomon Islands,1995,14.38
+PRY,Paraguay,1995,14.52
+EST,Estonia,1995,14.73
+FIN,Finland,1995,14.69
+URY,Uruguay,1995,14.77
+POL,Poland,1995,14.95
+SLV,El Salvador,1995,14.97
+VUT,Vanuatu,1995,15.03
+BMU,Bermuda,1995,15.13
+MKD,North Macedonia,1995,15.34
+ARG,Argentina,1995,15.32
+HUN,Hungary,1995,15.34
+GBR,United Kingdom of Great Britain and Northern Ireland,1995,15.34
+ATG,Antigua and Barbuda,1995,15.34
+VCT,Saint Vincent and the Grenadines,1995,15.45
+GRL,Greenland,1995,15.45
+OMN,Oman,1995,15.55
+DEU,Germany,1995,15.72
+GEO,Georgia,1995,15.89
+LVA,Latvia,1995,15.97
+IRL,Ireland,1995,16.03
+SYC,Seychelles,1995,16.01
+CYP,Cyprus,1995,16.15
+VEN,Venezuela (Bolivarian Republic of),1995,16.11
+AUS,Australia,1995,16.09
+ESP,Spain,1995,16.18
+NIC,Nicaragua,1995,16.27
+ISR,Israel,1995,16.37
+GRC,Greece,1995,16.5
+CHL,Chile,1995,16.84
+UKR,Ukraine,1995,17.11
+LBN,Lebanon,1995,17.14
+NZL,New Zealand,1995,17.11
+CAN,Canada,1995,17.11
+BLR,Belarus,1995,17.19
+TTO,Trinidad and Tobago,1995,17.33
+RUS,Russian Federation,1995,17.29
+MEX,Mexico,1995,18.04
+BRB,Barbados,1995,18.58
+MDA,Republic of Moldova,1995,18.95
+CZE,Czechia,1995,19.11
+ZAF,South Africa,1995,19.49
+SYR,Syrian Arab Republic,1995,19.73
+LTU,Lithuania,1995,19.67
+CAF,Central African Republic,1995,2.13
+SSD,South Sudan,1995,2.15
+TGO,Togo,1995,2.18
+MOZ,Mozambique,1995,2.22
+JPN,Japan,1995,2.19
+MLI,Mali,1995,2.27
+BTN,Bhutan,1995,2.38
+GMB,Gambia,1995,2.39
+MMR,Myanmar,1995,2.51
+SLE,Sierra Leone,1995,2.49
+PHL,Philippines,1995,2.48
+PRK,Democratic People's Republic of Korea,1995,2.7
+TZA,United Republic of Tanzania,1995,2.68
+GNB,Guinea-Bissau,1995,2.79
+ZMB,Zambia,1995,2.78
+DJI,Djibouti,1995,2.91
+AFG,Afghanistan,1995,2.87
+FJI,Fiji,1995,20.43
+BHR,Bahrain,1995,20.63
+LBY,Libya,1995,20.92
+TUR,Türkiye,1995,21.12
+PRI,Puerto Rico,1995,21.4
+BLZ,Belize,1995,21.38
+QAT,Qatar,1995,21.9
+ARE,United Arab Emirates,1995,22.13
+IRQ,Iraq,1995,22.56
+USA,United States of America,1995,22.78
+SAU,Saudi Arabia,1995,22.94
+EGY,Egypt,1995,23.37
+BHS,Bahamas,1995,23.57
+PSE,"occupied Palestinian territory, including east Jerusalem",1995,23.71
+KNA,Saint Kitts and Nevis,1995,23.95
+MLT,Malta,1995,24.1
+JOR,Jordan,1995,26.39
+BEN,Benin,1995,3.05
+KEN,Kenya,1995,3.05
+CIV,Cote d'Ivoire,1995,3.13
+SEN,Senegal,1995,3.18
+LBR,Liberia,1995,3.27
+NGA,Nigeria,1995,3.26
+COG,Congo,1995,3.88
+KWT,Kuwait,1995,31.48
+KIR,Kiribati,1995,35.02
+PLW,Palau,1995,35.15
+FSM,Micronesia (Federated States of),1995,35.63
+MHL,Marshall Islands,1995,35.89
+PYF,French Polynesia,1995,36.3
+SOM,Somalia,1995,4.01
+AGO,Angola,1995,4.03
+COM,Comoros,1995,4.19
+HTI,Haiti,1995,4.21
+YEM,Yemen,1995,4.2
+PAK,Pakistan,1995,4.15
+GHA,Ghana,1995,4.24
+SGP,Singapore,1995,4.3
+THA,Thailand,1995,4.44
+STP,Sao Tome and Principe,1995,4.63
+CMR,Cameroon,1995,4.65
+MDV,Maldives,1995,4.74
+CPV,Cabo Verde,1995,4.78
+WSM,Samoa,1995,42.37
+SDN,Sudan,1995,5.18
+TUV,Tuvalu,1995,50.17
+TON,Tonga,1995,50.73
+COK,Cook Islands,1995,51.14
+NIU,Niue,1995,52.13
+TKL,Tokelau,1995,56.77
+ZWE,Zimbabwe,1995,6.05
+MRT,Mauritania,1995,6.56
+MYS,Malaysia,1995,6.92
+ASM,American Samoa,1995,66.35
+NRU,Nauru,1995,66.45
+GNQ,Equatorial Guinea,1995,7.28
+GAB,Gabon,1995,7.36
+NAM,Namibia,1995,7.75
+BWA,Botswana,1995,7.85
+CUB,Cuba,1995,8.68
+TJK,Tajikistan,1995,8.79
+MNG,Mongolia,1995,8.83
+LSO,Lesotho,1995,8.95
+DNK,Denmark,1995,9.14
+MAR,Morocco,1995,9.44
+ROU,Romania,1995,9.46
+UZB,Uzbekistan,1995,9.6
+COL,Colombia,1995,9.6
+NLD,Netherlands (Kingdom of the),1995,9.55
+NOR,Norway,1995,9.72
+CHE,Switzerland,1995,9.83
+TKM,Turkmenistan,1995,9.93
+GTM,Guatemala,1995,9.85
+VNM,Viet Nam,1996,0.25
+TLS,Timor-Leste,1996,0.4
+ETH,Ethiopia,1996,0.5
+BGD,Bangladesh,1996,0.57
+KHM,Cambodia,1996,0.75
+NPL,Nepal,1996,0.84
+RWA,Rwanda,1996,0.8
+MDG,Madagascar,1996,0.86
+ERI,Eritrea,1996,0.95
+BFA,Burkina Faso,1996,0.99
+BDI,Burundi,1996,1.23
+IND,India,1996,1.3
+NER,Niger,1996,1.43
+UGA,Uganda,1996,1.52
+TCD,Chad,1996,1.56
+MWI,Malawi,1996,1.61
+LKA,Sri Lanka,1996,1.77
+COD,Democratic Republic of the Congo,1996,1.81
+CHN,China,1996,1.8
+LAO,Lao People's Democratic Republic,1996,1.92
+GIN,Guinea,1996,1.94
+UZB,Uzbekistan,1996,10.0
+CHE,Switzerland,1996,9.99
+COL,Colombia,1996,10.02
+NOR,Norway,1996,10.12
+TKM,Turkmenistan,1996,10.25
+MNE,Montenegro,1996,10.43
+GTM,Guatemala,1996,10.37
+PER,Peru,1996,10.62
+SWE,Sweden,1996,10.64
+BRA,Brazil,1996,10.66
+KGZ,Kyrgyzstan,1996,10.93
+AUT,Austria,1996,10.87
+MUS,Mauritius,1996,10.96
+BRN,Brunei Darussalam,1996,11.03
+BOL,Bolivia (Plurinational State of),1996,10.98
+FRA,France,1996,11.13
+DOM,Dominican Republic,1996,11.62
+ALB,Albania,1996,11.75
+ECU,Ecuador,1996,11.81
+DZA,Algeria,1996,11.84
+GUY,Guyana,1996,11.98
+HND,Honduras,1996,12.07
+ISL,Iceland,1996,12.45
+AND,Andorra,1996,12.42
+BGR,Bulgaria,1996,12.67
+ITA,Italy,1996,12.69
+BIH,Bosnia and Herzegovina,1996,12.94
+SWZ,Eswatini,1996,12.98
+PNG,Papua New Guinea,1996,13.04
+KAZ,Kazakhstan,1996,13.02
+IRN,Iran (Islamic Republic of),1996,12.97
+SVN,Slovenia,1996,13.01
+PRT,Portugal,1996,13.13
+HRV,Croatia,1996,13.44
+SUR,Suriname,1996,13.4
+SRB,Serbia,1996,13.52
+BEL,Belgium,1996,13.47
+ARM,Armenia,1996,13.82
+JAM,Jamaica,1996,14.0
+SVK,Slovakia,1996,14.0
+AZE,Azerbaijan,1996,14.1
+LCA,Saint Lucia,1996,14.22
+GRD,Grenada,1996,14.44
+TUN,Tunisia,1996,14.39
+LUX,Luxembourg,1996,14.54
+PAN,Panama,1996,14.53
+SLB,Solomon Islands,1996,14.62
+CRI,Costa Rica,1996,14.73
+DMA,Dominica,1996,14.88
+FIN,Finland,1996,14.99
+PRY,Paraguay,1996,15.06
+EST,Estonia,1996,15.05
+VUT,Vanuatu,1996,15.23
+POL,Poland,1996,15.21
+URY,Uruguay,1996,15.31
+MKD,North Macedonia,1996,15.6
+SLV,El Salvador,1996,15.57
+BMU,Bermuda,1996,15.76
+HUN,Hungary,1996,15.81
+GRL,Greenland,1996,15.92
+ARG,Argentina,1996,15.89
+ATG,Antigua and Barbuda,1996,15.99
+OMN,Oman,1996,16.04
+VCT,Saint Vincent and the Grenadines,1996,16.06
+DEU,Germany,1996,16.15
+GBR,United Kingdom of Great Britain and Northern Ireland,1996,16.08
+LVA,Latvia,1996,16.21
+GEO,Georgia,1996,16.4
+CYP,Cyprus,1996,16.5
+SYC,Seychelles,1996,16.64
+ESP,Spain,1996,16.57
+VEN,Venezuela (Bolivarian Republic of),1996,16.71
+IRL,Ireland,1996,16.65
+ISR,Israel,1996,16.78
+AUS,Australia,1996,16.78
+NIC,Nicaragua,1996,16.94
+GRC,Greece,1996,16.93
+UKR,Ukraine,1996,17.31
+BLR,Belarus,1996,17.38
+RUS,Russian Federation,1996,17.5
+CHL,Chile,1996,17.58
+LBN,Lebanon,1996,17.7
+TTO,Trinidad and Tobago,1996,17.84
+CAN,Canada,1996,17.75
+NZL,New Zealand,1996,17.95
+MEX,Mexico,1996,18.75
+CZE,Czechia,1996,19.06
+MDA,Republic of Moldova,1996,19.17
+BRB,Barbados,1996,19.23
+LTU,Lithuania,1996,19.67
+KOR,Republic of Korea,1996,1.96
+IDN,Indonesia,1996,2.04
+SSD,South Sudan,1996,2.27
+CAF,Central African Republic,1996,2.28
+JPN,Japan,1996,2.26
+MOZ,Mozambique,1996,2.35
+TGO,Togo,1996,2.37
+MLI,Mali,1996,2.48
+BTN,Bhutan,1996,2.55
+MMR,Myanmar,1996,2.64
+GMB,Gambia,1996,2.63
+PHL,Philippines,1996,2.63
+SLE,Sierra Leone,1996,2.69
+PRK,Democratic People's Republic of Korea,1996,2.85
+TZA,United Republic of Tanzania,1996,2.85
+ZMB,Zambia,1996,2.93
+ZAF,South Africa,1996,20.23
+SYR,Syrian Arab Republic,1996,20.3
+FJI,Fiji,1996,20.77
+BHR,Bahrain,1996,21.36
+LBY,Libya,1996,21.55
+TUR,Türkiye,1996,21.7
+PRI,Puerto Rico,1996,22.22
+BLZ,Belize,1996,22.2
+QAT,Qatar,1996,22.71
+ARE,United Arab Emirates,1996,22.8
+IRQ,Iraq,1996,23.23
+SAU,Saudi Arabia,1996,23.63
+USA,United States of America,1996,23.69
+EGY,Egypt,1996,24.23
+PSE,"occupied Palestinian territory, including east Jerusalem",1996,24.4
+MLT,Malta,1996,24.49
+BHS,Bahamas,1996,24.55
+KNA,Saint Kitts and Nevis,1996,24.85
+JOR,Jordan,1996,27.08
+GNB,Guinea-Bissau,1996,3.01
+DJI,Djibouti,1996,3.07
+AFG,Afghanistan,1996,3.1
+KEN,Kenya,1996,3.25
+BEN,Benin,1996,3.29
+CIV,Cote d'Ivoire,1996,3.37
+SEN,Senegal,1996,3.42
+LBR,Liberia,1996,3.55
+NGA,Nigeria,1996,3.51
+KWT,Kuwait,1996,32.28
+PLW,Palau,1996,35.49
+KIR,Kiribati,1996,35.73
+FSM,Micronesia (Federated States of),1996,36.03
+MHL,Marshall Islands,1996,36.27
+PYF,French Polynesia,1996,36.71
+COG,Congo,1996,4.11
+SOM,Somalia,1996,4.22
+AGO,Angola,1996,4.26
+COM,Comoros,1996,4.44
+HTI,Haiti,1996,4.44
+YEM,Yemen,1996,4.4
+SGP,Singapore,1996,4.35
+PAK,Pakistan,1996,4.44
+GHA,Ghana,1996,4.56
+THA,Thailand,1996,4.67
+WSM,Samoa,1996,43.23
+STP,Sao Tome and Principe,1996,4.97
+MDV,Maldives,1996,5.01
+CMR,Cameroon,1996,5.01
+CPV,Cabo Verde,1996,5.11
+SDN,Sudan,1996,5.46
+TUV,Tuvalu,1996,50.73
+TON,Tonga,1996,51.35
+COK,Cook Islands,1996,51.83
+NIU,Niue,1996,52.71
+TKL,Tokelau,1996,57.34
+ZWE,Zimbabwe,1996,6.17
+NRU,Nauru,1996,66.39
+ASM,American Samoa,1996,66.85
+MRT,Mauritania,1996,7.02
+MYS,Malaysia,1996,7.34
+GNQ,Equatorial Guinea,1996,7.64
+GAB,Gabon,1996,7.76
+NAM,Namibia,1996,8.14
+BWA,Botswana,1996,8.25
+CUB,Cuba,1996,9.05
+TJK,Tajikistan,1996,9.1
+MNG,Mongolia,1996,9.16
+LSO,Lesotho,1996,9.27
+DNK,Denmark,1996,9.42
+MAR,Morocco,1996,9.78
+ROU,Romania,1996,9.77
+NLD,Netherlands (Kingdom of the),1996,9.88
+VNM,Viet Nam,1997,0.26
+TLS,Timor-Leste,1997,0.43
+ETH,Ethiopia,1997,0.53
+BGD,Bangladesh,1997,0.62
+KHM,Cambodia,1997,0.8
+RWA,Rwanda,1997,0.85
+MDG,Madagascar,1997,0.92
+NPL,Nepal,1997,0.92
+ERI,Eritrea,1997,1.02
+BFA,Burkina Faso,1997,1.09
+BDI,Burundi,1997,1.3
+IND,India,1997,1.41
+NER,Niger,1997,1.55
+UGA,Uganda,1997,1.62
+TCD,Chad,1997,1.7
+MWI,Malawi,1997,1.72
+LKA,Sri Lanka,1997,1.91
+COD,Democratic Republic of the Congo,1997,1.93
+CHN,China,1997,1.9
+MAR,Morocco,1997,10.14
+ROU,Romania,1997,10.14
+CHE,Switzerland,1997,10.16
+NLD,Netherlands (Kingdom of the),1997,10.22
+UZB,Uzbekistan,1997,10.42
+COL,Colombia,1997,10.46
+NOR,Norway,1997,10.54
+MNE,Montenegro,1997,10.65
+TKM,Turkmenistan,1997,10.6
+GTM,Guatemala,1997,10.9
+SWE,Sweden,1997,11.02
+PER,Peru,1997,10.98
+AUT,Austria,1997,11.14
+BRA,Brazil,1997,11.06
+KGZ,Kyrgyzstan,1997,11.34
+FRA,France,1997,11.3
+MUS,Mauritius,1997,11.38
+BOL,Bolivia (Plurinational State of),1997,11.46
+BRN,Brunei Darussalam,1997,11.63
+ALB,Albania,1997,11.96
+ECU,Ecuador,1997,12.23
+DZA,Algeria,1997,12.21
+DOM,Dominican Republic,1997,12.24
+GUY,Guyana,1997,12.5
+HND,Honduras,1997,12.67
+AND,Andorra,1997,12.73
+BGR,Bulgaria,1997,12.91
+ISL,Iceland,1997,12.92
+ITA,Italy,1997,12.87
+BIH,Bosnia and Herzegovina,1997,13.13
+KAZ,Kazakhstan,1997,13.21
+PNG,Papua New Guinea,1997,13.26
+SVN,Slovenia,1997,13.28
+IRN,Iran (Islamic Republic of),1997,13.41
+PRT,Portugal,1997,13.46
+SWZ,Eswatini,1997,13.58
+SRB,Serbia,1997,13.7
+HRV,Croatia,1997,13.83
+BEL,Belgium,1997,13.76
+SUR,Suriname,1997,13.95
+ARM,Armenia,1997,14.18
+SVK,Slovakia,1997,14.27
+AZE,Azerbaijan,1997,14.45
+JAM,Jamaica,1997,14.7
+TUN,Tunisia,1997,14.85
+SLB,Solomon Islands,1997,14.86
+LUX,Luxembourg,1997,14.9
+LCA,Saint Lucia,1997,14.92
+GRD,Grenada,1997,14.99
+PAN,Panama,1997,15.18
+FIN,Finland,1997,15.3
+CRI,Costa Rica,1997,15.35
+VUT,Vanuatu,1997,15.44
+EST,Estonia,1997,15.41
+DMA,Dominica,1997,15.46
+POL,Poland,1997,15.52
+PRY,Paraguay,1997,15.61
+MKD,North Macedonia,1997,15.9
+URY,Uruguay,1997,15.86
+SLV,El Salvador,1997,16.19
+HUN,Hungary,1997,16.3
+BMU,Bermuda,1997,16.41
+GRL,Greenland,1997,16.4
+LVA,Latvia,1997,16.48
+ARG,Argentina,1997,16.47
+OMN,Oman,1997,16.55
+DEU,Germany,1997,16.58
+ATG,Antigua and Barbuda,1997,16.66
+VCT,Saint Vincent and the Grenadines,1997,16.69
+GBR,United Kingdom of Great Britain and Northern Ireland,1997,16.82
+GEO,Georgia,1997,16.93
+CYP,Cyprus,1997,16.88
+ESP,Spain,1997,16.98
+ISR,Israel,1997,17.21
+VEN,Venezuela (Bolivarian Republic of),1997,17.3
+IRL,Ireland,1997,17.29
+SYC,Seychelles,1997,17.29
+GRC,Greece,1997,17.39
+UKR,Ukraine,1997,17.55
+AUS,Australia,1997,17.47
+BLR,Belarus,1997,17.59
+NIC,Nicaragua,1997,17.62
+RUS,Russian Federation,1997,17.73
+LBN,Lebanon,1997,18.29
+CHL,Chile,1997,18.33
+TTO,Trinidad and Tobago,1997,18.37
+CAN,Canada,1997,18.39
+NZL,New Zealand,1997,18.8
+CZE,Czechia,1997,19.04
+MDA,Republic of Moldova,1997,19.42
+MEX,Mexico,1997,19.47
+LTU,Lithuania,1997,19.72
+BRB,Barbados,1997,19.91
+LAO,Lao People's Democratic Republic,1997,2.03
+KOR,Republic of Korea,1997,2.04
+GIN,Guinea,1997,2.11
+IDN,Indonesia,1997,2.16
+JPN,Japan,1997,2.34
+SSD,South Sudan,1997,2.4
+CAF,Central African Republic,1997,2.44
+MOZ,Mozambique,1997,2.5
+TGO,Togo,1997,2.57
+BTN,Bhutan,1997,2.74
+MLI,Mali,1997,2.72
+MMR,Myanmar,1997,2.77
+PHL,Philippines,1997,2.8
+SLE,Sierra Leone,1997,2.9
+GMB,Gambia,1997,2.9
+SYR,Syrian Arab Republic,1997,20.89
+ZAF,South Africa,1997,20.92
+FJI,Fiji,1997,21.11
+BHR,Bahrain,1997,22.1
+LBY,Libya,1997,22.2
+TUR,Türkiye,1997,22.29
+BLZ,Belize,1997,23.02
+PRI,Puerto Rico,1997,23.06
+QAT,Qatar,1997,23.52
+ARE,United Arab Emirates,1997,23.46
+IRQ,Iraq,1997,23.92
+SAU,Saudi Arabia,1997,24.34
+USA,United States of America,1997,24.64
+MLT,Malta,1997,24.91
+PSE,"occupied Palestinian territory, including east Jerusalem",1997,25.11
+EGY,Egypt,1997,25.11
+BHS,Bahamas,1997,25.56
+KNA,Saint Kitts and Nevis,1997,25.78
+JOR,Jordan,1997,27.8
+PRK,Democratic People's Republic of Korea,1997,3.0
+TZA,United Republic of Tanzania,1997,3.03
+ZMB,Zambia,1997,3.1
+DJI,Djibouti,1997,3.24
+GNB,Guinea-Bissau,1997,3.26
+AFG,Afghanistan,1997,3.35
+KEN,Kenya,1997,3.46
+BEN,Benin,1997,3.56
+CIV,Cote d'Ivoire,1997,3.63
+SEN,Senegal,1997,3.68
+LBR,Liberia,1997,3.84
+NGA,Nigeria,1997,3.79
+KWT,Kuwait,1997,33.09
+PLW,Palau,1997,35.8
+FSM,Micronesia (Federated States of),1997,36.43
+KIR,Kiribati,1997,36.41
+MHL,Marshall Islands,1997,36.64
+PYF,French Polynesia,1997,37.11
+COG,Congo,1997,4.36
+SGP,Singapore,1997,4.41
+SOM,Somalia,1997,4.46
+AGO,Angola,1997,4.5
+YEM,Yemen,1997,4.61
+COM,Comoros,1997,4.72
+HTI,Haiti,1997,4.68
+PAK,Pakistan,1997,4.74
+GHA,Ghana,1997,4.91
+THA,Thailand,1997,4.91
+WSM,Samoa,1997,44.09
+STP,Sao Tome and Principe,1997,5.35
+MDV,Maldives,1997,5.29
+CMR,Cameroon,1997,5.41
+CPV,Cabo Verde,1997,5.47
+SDN,Sudan,1997,5.75
+TUV,Tuvalu,1997,51.3
+TON,Tonga,1997,51.97
+COK,Cook Islands,1997,52.49
+NIU,Niue,1997,53.29
+TKL,Tokelau,1997,57.87
+ZWE,Zimbabwe,1997,6.31
+NRU,Nauru,1997,66.36
+ASM,American Samoa,1997,67.29
+MRT,Mauritania,1997,7.5
+MYS,Malaysia,1997,7.79
+GNQ,Equatorial Guinea,1997,8.02
+GAB,Gabon,1997,8.19
+NAM,Namibia,1997,8.54
+BWA,Botswana,1997,8.66
+TJK,Tajikistan,1997,9.43
+CUB,Cuba,1997,9.43
+MNG,Mongolia,1997,9.51
+LSO,Lesotho,1997,9.61
+DNK,Denmark,1997,9.71
+VNM,Viet Nam,1998,0.27
+TLS,Timor-Leste,1998,0.45
+ETH,Ethiopia,1998,0.57
+BGD,Bangladesh,1998,0.68
+KHM,Cambodia,1998,0.86
+RWA,Rwanda,1998,0.91
+MDG,Madagascar,1998,0.98
+NPL,Nepal,1998,1.01
+ERI,Eritrea,1998,1.09
+BFA,Burkina Faso,1998,1.2
+BDI,Burundi,1998,1.38
+IND,India,1998,1.53
+NER,Niger,1998,1.69
+UGA,Uganda,1998,1.73
+MWI,Malawi,1998,1.84
+TCD,Chad,1998,1.85
+LSO,Lesotho,1998,9.98
+DNK,Denmark,1998,10.0
+CHE,Switzerland,1998,10.33
+MAR,Morocco,1998,10.51
+ROU,Romania,1998,10.56
+NLD,Netherlands (Kingdom of the),1998,10.57
+MNE,Montenegro,1998,10.89
+UZB,Uzbekistan,1998,10.88
+COL,Colombia,1998,10.91
+NOR,Norway,1998,10.98
+TKM,Turkmenistan,1998,10.96
+PER,Peru,1998,11.35
+AUT,Austria,1998,11.43
+SWE,Sweden,1998,11.39
+GTM,Guatemala,1998,11.46
+FRA,France,1998,11.48
+BRA,Brazil,1998,11.46
+KGZ,Kyrgyzstan,1998,11.78
+MUS,Mauritius,1998,11.81
+BOL,Bolivia (Plurinational State of),1998,11.95
+ALB,Albania,1998,12.2
+BRN,Brunei Darussalam,1998,12.26
+DZA,Algeria,1998,12.6
+ECU,Ecuador,1998,12.67
+DOM,Dominican Republic,1998,12.87
+AND,Andorra,1998,13.05
+GUY,Guyana,1998,13.05
+ITA,Italy,1998,13.09
+BGR,Bulgaria,1998,13.18
+HND,Honduras,1998,13.3
+BIH,Bosnia and Herzegovina,1998,13.34
+KAZ,Kazakhstan,1998,13.4
+ISL,Iceland,1998,13.4
+PNG,Papua New Guinea,1998,13.47
+SVN,Slovenia,1998,13.56
+PRT,Portugal,1998,13.82
+SRB,Serbia,1998,13.92
+IRN,Iran (Islamic Republic of),1998,13.87
+BEL,Belgium,1998,14.06
+SWZ,Eswatini,1998,14.2
+HRV,Croatia,1998,14.27
+SUR,Suriname,1998,14.52
+ARM,Armenia,1998,14.54
+SVK,Slovakia,1998,14.57
+AZE,Azerbaijan,1998,14.8
+SLB,Solomon Islands,1998,15.11
+LUX,Luxembourg,1998,15.27
+TUN,Tunisia,1998,15.33
+JAM,Jamaica,1998,15.43
+GRD,Grenada,1998,15.56
+LCA,Saint Lucia,1998,15.65
+FIN,Finland,1998,15.62
+VUT,Vanuatu,1998,15.65
+PAN,Panama,1998,15.85
+EST,Estonia,1998,15.81
+POL,Poland,1998,15.85
+DMA,Dominica,1998,16.04
+CRI,Costa Rica,1998,15.98
+MKD,North Macedonia,1998,16.23
+PRY,Paraguay,1998,16.18
+URY,Uruguay,1998,16.43
+SLV,El Salvador,1998,16.82
+LVA,Latvia,1998,16.79
+HUN,Hungary,1998,16.83
+GRL,Greenland,1998,16.9
+DEU,Germany,1998,17.01
+BMU,Bermuda,1998,17.08
+ARG,Argentina,1998,17.07
+OMN,Oman,1998,17.09
+VCT,Saint Vincent and the Grenadines,1998,17.34
+CYP,Cyprus,1998,17.28
+ATG,Antigua and Barbuda,1998,17.36
+ESP,Spain,1998,17.39
+GEO,Georgia,1998,17.48
+GBR,United Kingdom of Great Britain and Northern Ireland,1998,17.57
+ISR,Israel,1998,17.67
+BLR,Belarus,1998,17.83
+UKR,Ukraine,1998,17.81
+VEN,Venezuela (Bolivarian Republic of),1998,17.88
+GRC,Greece,1998,17.88
+SYC,Seychelles,1998,17.93
+IRL,Ireland,1998,17.93
+RUS,Russian Federation,1998,17.99
+AUS,Australia,1998,18.16
+NIC,Nicaragua,1998,18.31
+TTO,Trinidad and Tobago,1998,18.9
+LBN,Lebanon,1998,18.89
+CAN,Canada,1998,19.0
+CHL,Chile,1998,19.09
+CZE,Czechia,1998,19.06
+MDA,Republic of Moldova,1998,19.68
+NZL,New Zealand,1998,19.66
+LTU,Lithuania,1998,19.8
+CHN,China,1998,1.99
+LAO,Lao People's Democratic Republic,1998,2.15
+COD,Democratic Republic of the Congo,1998,2.05
+LKA,Sri Lanka,1998,2.07
+KOR,Republic of Korea,1998,2.13
+GIN,Guinea,1998,2.3
+IDN,Indonesia,1998,2.29
+JPN,Japan,1998,2.41
+SSD,South Sudan,1998,2.55
+CAF,Central African Republic,1998,2.62
+MOZ,Mozambique,1998,2.66
+TGO,Togo,1998,2.8
+BTN,Bhutan,1998,2.95
+MMR,Myanmar,1998,2.91
+MEX,Mexico,1998,20.18
+BRB,Barbados,1998,20.6
+SYR,Syrian Arab Republic,1998,21.49
+FJI,Fiji,1998,21.46
+ZAF,South Africa,1998,21.55
+LBY,Libya,1998,22.86
+BHR,Bahrain,1998,22.86
+TUR,Türkiye,1998,22.88
+BLZ,Belize,1998,23.87
+PRI,Puerto Rico,1998,23.92
+ARE,United Arab Emirates,1998,24.13
+QAT,Qatar,1998,24.33
+IRQ,Iraq,1998,24.63
+SAU,Saudi Arabia,1998,25.08
+MLT,Malta,1998,25.35
+USA,United States of America,1998,25.59
+PSE,"occupied Palestinian territory, including east Jerusalem",1998,25.83
+EGY,Egypt,1998,26.02
+BHS,Bahamas,1998,26.58
+KNA,Saint Kitts and Nevis,1998,26.71
+JOR,Jordan,1998,28.53
+MLI,Mali,1998,2.98
+PHL,Philippines,1998,2.96
+SLE,Sierra Leone,1998,3.12
+PRK,Democratic People's Republic of Korea,1998,3.17
+GMB,Gambia,1998,3.21
+TZA,United Republic of Tanzania,1998,3.23
+ZMB,Zambia,1998,3.28
+DJI,Djibouti,1998,3.43
+GNB,Guinea-Bissau,1998,3.52
+AFG,Afghanistan,1998,3.63
+KEN,Kenya,1998,3.69
+BEN,Benin,1998,3.85
+CIV,Cote d'Ivoire,1998,3.92
+KWT,Kuwait,1998,33.89
+PLW,Palau,1998,36.08
+FSM,Micronesia (Federated States of),1998,36.83
+MHL,Marshall Islands,1998,36.99
+KIR,Kiribati,1998,37.06
+PYF,French Polynesia,1998,37.49
+SEN,Senegal,1998,3.96
+NGA,Nigeria,1998,4.08
+LBR,Liberia,1998,4.17
+SGP,Singapore,1998,4.49
+COG,Congo,1998,4.61
+SOM,Somalia,1998,4.71
+AGO,Angola,1998,4.76
+YEM,Yemen,1998,4.84
+HTI,Haiti,1998,4.94
+WSM,Samoa,1998,44.93
+COM,Comoros,1998,5.03
+PAK,Pakistan,1998,5.06
+THA,Thailand,1998,5.17
+GHA,Ghana,1998,5.28
+MDV,Maldives,1998,5.59
+STP,Sao Tome and Principe,1998,5.75
+CMR,Cameroon,1998,5.84
+CPV,Cabo Verde,1998,5.85
+TUV,Tuvalu,1998,51.84
+TON,Tonga,1998,52.59
+COK,Cook Islands,1998,53.14
+NIU,Niue,1998,53.82
+TKL,Tokelau,1998,58.37
+SDN,Sudan,1998,6.06
+ZWE,Zimbabwe,1998,6.47
+NRU,Nauru,1998,66.33
+ASM,American Samoa,1998,67.71
+MRT,Mauritania,1998,8.02
+MYS,Malaysia,1998,8.27
+GNQ,Equatorial Guinea,1998,8.41
+GAB,Gabon,1998,8.65
+NAM,Namibia,1998,8.96
+BWA,Botswana,1998,9.09
+TJK,Tajikistan,1998,9.78
+CUB,Cuba,1998,9.83
+MNG,Mongolia,1998,9.88
+VNM,Viet Nam,1999,0.29
+TLS,Timor-Leste,1999,0.48
+ETH,Ethiopia,1999,0.61
+BGD,Bangladesh,1999,0.75
+KHM,Cambodia,1999,0.92
+RWA,Rwanda,1999,0.97
+MDG,Madagascar,1999,1.04
+NPL,Nepal,1999,1.11
+ERI,Eritrea,1999,1.17
+BFA,Burkina Faso,1999,1.32
+BDI,Burundi,1999,1.47
+IND,India,1999,1.66
+UGA,Uganda,1999,1.85
+NER,Niger,1999,1.83
+TJK,Tajikistan,1999,10.15
+CUB,Cuba,1999,10.24
+MNG,Mongolia,1999,10.28
+DNK,Denmark,1999,10.29
+LSO,Lesotho,1999,10.37
+CHE,Switzerland,1999,10.51
+NLD,Netherlands (Kingdom of the),1999,10.93
+MAR,Morocco,1999,10.91
+ROU,Romania,1999,11.05
+MNE,Montenegro,1999,11.14
+TKM,Turkmenistan,1999,11.34
+COL,Colombia,1999,11.37
+NOR,Norway,1999,11.44
+UZB,Uzbekistan,1999,11.38
+FRA,France,1999,11.65
+AUT,Austria,1999,11.71
+PER,Peru,1999,11.74
+SWE,Sweden,1999,11.77
+BRA,Brazil,1999,11.88
+GTM,Guatemala,1999,12.03
+KGZ,Kyrgyzstan,1999,12.24
+MUS,Mauritius,1999,12.23
+ALB,Albania,1999,12.47
+BOL,Bolivia (Plurinational State of),1999,12.47
+BRN,Brunei Darussalam,1999,12.92
+DZA,Algeria,1999,13.01
+ECU,Ecuador,1999,13.12
+ITA,Italy,1999,13.32
+AND,Andorra,1999,13.38
+BGR,Bulgaria,1999,13.47
+DOM,Dominican Republic,1999,13.53
+BIH,Bosnia and Herzegovina,1999,13.58
+GUY,Guyana,1999,13.61
+KAZ,Kazakhstan,1999,13.59
+PNG,Papua New Guinea,1999,13.69
+SVN,Slovenia,1999,13.85
+HND,Honduras,1999,13.95
+ISL,Iceland,1999,13.88
+PRT,Portugal,1999,14.19
+SRB,Serbia,1999,14.16
+IRN,Iran (Islamic Republic of),1999,14.35
+BEL,Belgium,1999,14.37
+HRV,Croatia,1999,14.74
+SWZ,Eswatini,1999,14.83
+ARM,Armenia,1999,14.91
+SVK,Slovakia,1999,14.9
+SUR,Suriname,1999,15.11
+AZE,Azerbaijan,1999,15.2
+SLB,Solomon Islands,1999,15.36
+LUX,Luxembourg,1999,15.64
+TUN,Tunisia,1999,15.82
+VUT,Vanuatu,1999,15.86
+FIN,Finland,1999,15.95
+GRD,Grenada,1999,16.15
+JAM,Jamaica,1999,16.2
+POL,Poland,1999,16.22
+EST,Estonia,1999,16.26
+LCA,Saint Lucia,1999,16.4
+PAN,Panama,1999,16.53
+MKD,North Macedonia,1999,16.59
+DMA,Dominica,1999,16.64
+CRI,Costa Rica,1999,16.62
+PRY,Paraguay,1999,16.75
+URY,Uruguay,1999,17.0
+LVA,Latvia,1999,17.12
+GRL,Greenland,1999,17.42
+SLV,El Salvador,1999,17.45
+HUN,Hungary,1999,17.39
+DEU,Germany,1999,17.43
+CYP,Cyprus,1999,17.69
+ARG,Argentina,1999,17.67
+OMN,Oman,1999,17.65
+BMU,Bermuda,1999,17.77
+ESP,Spain,1999,17.79
+VCT,Saint Vincent and the Grenadines,1999,18.01
+ATG,Antigua and Barbuda,1999,18.07
+BLR,Belarus,1999,18.09
+UKR,Ukraine,1999,18.09
+GEO,Georgia,1999,18.06
+ISR,Israel,1999,18.12
+RUS,Russian Federation,1999,18.29
+GBR,United Kingdom of Great Britain and Northern Ireland,1999,18.32
+GRC,Greece,1999,18.39
+VEN,Venezuela (Bolivarian Republic of),1999,18.45
+SYC,Seychelles,1999,18.52
+IRL,Ireland,1999,18.57
+AUS,Australia,1999,18.83
+NIC,Nicaragua,1999,19.01
+CZE,Czechia,1999,19.11
+TTO,Trinidad and Tobago,1999,19.43
+LBN,Lebanon,1999,19.5
+CAN,Canada,1999,19.6
+CHL,Chile,1999,19.85
+LTU,Lithuania,1999,19.93
+TCD,Chad,1999,2.02
+MWI,Malawi,1999,1.97
+CHN,China,1999,2.1
+COD,Democratic Republic of the Congo,1999,2.19
+LKA,Sri Lanka,1999,2.24
+KOR,Republic of Korea,1999,2.23
+LAO,Lao People's Democratic Republic,1999,2.27
+IDN,Indonesia,1999,2.44
+GIN,Guinea,1999,2.5
+JPN,Japan,1999,2.5
+SSD,South Sudan,1999,2.7
+CAF,Central African Republic,1999,2.81
+MOZ,Mozambique,1999,2.84
+MDA,Republic of Moldova,1999,19.97
+NZL,New Zealand,1999,20.52
+MEX,Mexico,1999,20.88
+BRB,Barbados,1999,21.33
+FJI,Fiji,1999,21.83
+SYR,Syrian Arab Republic,1999,22.1
+ZAF,South Africa,1999,22.18
+LBY,Libya,1999,23.53
+TUR,Türkiye,1999,23.48
+BHR,Bahrain,1999,23.62
+BLZ,Belize,1999,24.73
+PRI,Puerto Rico,1999,24.78
+ARE,United Arab Emirates,1999,24.79
+QAT,Qatar,1999,25.17
+IRQ,Iraq,1999,25.36
+MLT,Malta,1999,25.8
+SAU,Saudi Arabia,1999,25.84
+PSE,"occupied Palestinian territory, including east Jerusalem",1999,26.55
+USA,United States of America,1999,26.56
+EGY,Egypt,1999,26.93
+BHS,Bahamas,1999,27.62
+KNA,Saint Kitts and Nevis,1999,27.67
+JOR,Jordan,1999,29.26
+MMR,Myanmar,1999,3.06
+TGO,Togo,1999,3.05
+PHL,Philippines,1999,3.13
+BTN,Bhutan,1999,3.16
+PRK,Democratic People's Republic of Korea,1999,3.34
+MLI,Mali,1999,3.27
+SLE,Sierra Leone,1999,3.37
+TZA,United Republic of Tanzania,1999,3.45
+ZMB,Zambia,1999,3.47
+GMB,Gambia,1999,3.55
+DJI,Djibouti,1999,3.63
+GNB,Guinea-Bissau,1999,3.81
+AFG,Afghanistan,1999,3.93
+KEN,Kenya,1999,3.94
+KWT,Kuwait,1999,34.68
+PLW,Palau,1999,36.35
+FSM,Micronesia (Federated States of),1999,37.23
+MHL,Marshall Islands,1999,37.34
+KIR,Kiribati,1999,37.68
+PYF,French Polynesia,1999,37.88
+CIV,Cote d'Ivoire,1999,4.22
+BEN,Benin,1999,4.17
+SEN,Senegal,1999,4.25
+NGA,Nigeria,1999,4.39
+LBR,Liberia,1999,4.52
+SGP,Singapore,1999,4.59
+COG,Congo,1999,4.87
+WSM,Samoa,1999,45.76
+SOM,Somalia,1999,4.98
+AGO,Angola,1999,5.02
+YEM,Yemen,1999,5.09
+HTI,Haiti,1999,5.2
+COM,Comoros,1999,5.35
+PAK,Pakistan,1999,5.42
+THA,Thailand,1999,5.43
+GHA,Ghana,1999,5.67
+MDV,Maldives,1999,5.9
+TUV,Tuvalu,1999,52.36
+TON,Tonga,1999,53.22
+COK,Cook Islands,1999,53.78
+NIU,Niue,1999,54.35
+TKL,Tokelau,1999,58.94
+STP,Sao Tome and Principe,1999,6.18
+CPV,Cabo Verde,1999,6.26
+CMR,Cameroon,1999,6.29
+SDN,Sudan,1999,6.4
+ZWE,Zimbabwe,1999,6.65
+NRU,Nauru,1999,66.24
+ASM,American Samoa,1999,68.09
+MRT,Mauritania,1999,8.56
+GNQ,Equatorial Guinea,1999,8.82
+MYS,Malaysia,1999,8.77
+GAB,Gabon,1999,9.12
+NAM,Namibia,1999,9.39
+BWA,Botswana,1999,9.53
+VNM,Viet Nam,2000,0.31
+TLS,Timor-Leste,2000,0.52
+ETH,Ethiopia,2000,0.65
+BGD,Bangladesh,2000,0.83
+KHM,Cambodia,2000,0.98
+RWA,Rwanda,2000,1.04
+MDG,Madagascar,2000,1.11
+NPL,Nepal,2000,1.21
+ERI,Eritrea,2000,1.26
+BFA,Burkina Faso,2000,1.45
+BDI,Burundi,2000,1.56
+IND,India,2000,1.8
+BWA,Botswana,2000,9.97
+TJK,Tajikistan,2000,10.55
+DNK,Denmark,2000,10.57
+MNG,Mongolia,2000,10.71
+CHE,Switzerland,2000,10.69
+CUB,Cuba,2000,10.68
+LSO,Lesotho,2000,10.77
+MAR,Morocco,2000,11.31
+NLD,Netherlands (Kingdom of the),2000,11.28
+MNE,Montenegro,2000,11.41
+ROU,Romania,2000,11.59
+TKM,Turkmenistan,2000,11.73
+COL,Colombia,2000,11.84
+FRA,France,2000,11.81
+UZB,Uzbekistan,2000,11.92
+NOR,Norway,2000,11.91
+AUT,Austria,2000,12.0
+PER,Peru,2000,12.13
+SWE,Sweden,2000,12.14
+BRA,Brazil,2000,12.32
+GTM,Guatemala,2000,12.61
+KGZ,Kyrgyzstan,2000,12.73
+MUS,Mauritius,2000,12.65
+ALB,Albania,2000,12.76
+BOL,Bolivia (Plurinational State of),2000,13.0
+DZA,Algeria,2000,13.44
+BRN,Brunei Darussalam,2000,13.62
+ECU,Ecuador,2000,13.58
+ITA,Italy,2000,13.57
+AND,Andorra,2000,13.71
+BIH,Bosnia and Herzegovina,2000,13.84
+BGR,Bulgaria,2000,13.78
+KAZ,Kazakhstan,2000,13.78
+PNG,Papua New Guinea,2000,13.9
+SVN,Slovenia,2000,14.13
+GUY,Guyana,2000,14.19
+DOM,Dominican Republic,2000,14.2
+ISL,Iceland,2000,14.37
+SRB,Serbia,2000,14.42
+HND,Honduras,2000,14.6
+PRT,Portugal,2000,14.57
+BEL,Belgium,2000,14.68
+IRN,Iran (Islamic Republic of),2000,14.83
+ARM,Armenia,2000,15.3
+HRV,Croatia,2000,15.26
+SVK,Slovakia,2000,15.25
+SWZ,Eswatini,2000,15.48
+SLB,Solomon Islands,2000,15.62
+AZE,Azerbaijan,2000,15.64
+SUR,Suriname,2000,15.7
+LUX,Luxembourg,2000,16.0
+VUT,Vanuatu,2000,16.08
+TUN,Tunisia,2000,16.33
+FIN,Finland,2000,16.28
+POL,Poland,2000,16.63
+GRD,Grenada,2000,16.74
+EST,Estonia,2000,16.72
+MKD,North Macedonia,2000,16.99
+JAM,Jamaica,2000,16.99
+LCA,Saint Lucia,2000,17.16
+PAN,Panama,2000,17.23
+PRY,Paraguay,2000,17.33
+DMA,Dominica,2000,17.26
+CRI,Costa Rica,2000,17.26
+LVA,Latvia,2000,17.48
+URY,Uruguay,2000,17.57
+DEU,Germany,2000,17.84
+GRL,Greenland,2000,17.94
+HUN,Hungary,2000,17.97
+CYP,Cyprus,2000,18.1
+SLV,El Salvador,2000,18.08
+OMN,Oman,2000,18.24
+ESP,Spain,2000,18.18
+ARG,Argentina,2000,18.28
+BLR,Belarus,2000,18.36
+UKR,Ukraine,2000,18.4
+BMU,Bermuda,2000,18.47
+ISR,Israel,2000,18.59
+RUS,Russian Federation,2000,18.61
+VCT,Saint Vincent and the Grenadines,2000,18.7
+GEO,Georgia,2000,18.66
+ATG,Antigua and Barbuda,2000,18.78
+GRC,Greece,2000,18.92
+VEN,Venezuela (Bolivarian Republic of),2000,18.99
+SYC,Seychelles,2000,19.12
+GBR,United Kingdom of Great Britain and Northern Ireland,2000,19.05
+IRL,Ireland,2000,19.22
+CZE,Czechia,2000,19.18
+AUS,Australia,2000,19.51
+NIC,Nicaragua,2000,19.7
+NER,Niger,2000,1.98
+UGA,Uganda,2000,1.98
+MWI,Malawi,2000,2.11
+TCD,Chad,2000,2.2
+CHN,China,2000,2.21
+COD,Democratic Republic of the Congo,2000,2.34
+KOR,Republic of Korea,2000,2.33
+LAO,Lao People's Democratic Republic,2000,2.4
+LKA,Sri Lanka,2000,2.42
+IDN,Indonesia,2000,2.6
+JPN,Japan,2000,2.59
+GIN,Guinea,2000,2.72
+SSD,South Sudan,2000,2.86
+TTO,Trinidad and Tobago,2000,19.96
+LBN,Lebanon,2000,20.11
+LTU,Lithuania,2000,20.09
+CAN,Canada,2000,20.19
+MDA,Republic of Moldova,2000,20.28
+CHL,Chile,2000,20.6
+NZL,New Zealand,2000,21.37
+MEX,Mexico,2000,21.57
+BRB,Barbados,2000,22.06
+FJI,Fiji,2000,22.21
+SYR,Syrian Arab Republic,2000,22.71
+ZAF,South Africa,2000,22.81
+TUR,Türkiye,2000,24.07
+LBY,Libya,2000,24.26
+BHR,Bahrain,2000,24.38
+ARE,United Arab Emirates,2000,25.44
+BLZ,Belize,2000,25.6
+PRI,Puerto Rico,2000,25.65
+QAT,Qatar,2000,26.02
+IRQ,Iraq,2000,26.09
+MLT,Malta,2000,26.26
+SAU,Saudi Arabia,2000,26.62
+PSE,"occupied Palestinian territory, including east Jerusalem",2000,27.28
+USA,United States of America,2000,27.54
+EGY,Egypt,2000,27.84
+KNA,Saint Kitts and Nevis,2000,28.62
+BHS,Bahamas,2000,28.66
+CAF,Central African Republic,2000,3.01
+MOZ,Mozambique,2000,3.03
+MMR,Myanmar,2000,3.21
+TGO,Togo,2000,3.32
+PHL,Philippines,2000,3.31
+BTN,Bhutan,2000,3.39
+PRK,Democratic People's Republic of Korea,2000,3.53
+SLE,Sierra Leone,2000,3.62
+MLI,Mali,2000,3.58
+TZA,United Republic of Tanzania,2000,3.68
+ZMB,Zambia,2000,3.67
+DJI,Djibouti,2000,3.84
+GMB,Gambia,2000,3.91
+JOR,Jordan,2000,29.98
+KWT,Kuwait,2000,35.45
+PLW,Palau,2000,36.61
+FSM,Micronesia (Federated States of),2000,37.61
+MHL,Marshall Islands,2000,37.69
+PYF,French Polynesia,2000,38.26
+KIR,Kiribati,2000,38.26
+GNB,Guinea-Bissau,2000,4.12
+KEN,Kenya,2000,4.21
+AFG,Afghanistan,2000,4.25
+CIV,Cote d'Ivoire,2000,4.54
+BEN,Benin,2000,4.5
+SEN,Senegal,2000,4.55
+NGA,Nigeria,2000,4.72
+SGP,Singapore,2000,4.72
+LBR,Liberia,2000,4.9
+WSM,Samoa,2000,46.58
+COG,Congo,2000,5.12
+SOM,Somalia,2000,5.26
+AGO,Angola,2000,5.3
+YEM,Yemen,2000,5.35
+HTI,Haiti,2000,5.47
+COM,Comoros,2000,5.7
+THA,Thailand,2000,5.7
+PAK,Pakistan,2000,5.79
+TUV,Tuvalu,2000,52.9
+TON,Tonga,2000,53.84
+COK,Cook Islands,2000,54.43
+NIU,Niue,2000,54.86
+TKL,Tokelau,2000,59.5
+GHA,Ghana,2000,6.08
+MDV,Maldives,2000,6.23
+STP,Sao Tome and Principe,2000,6.63
+CPV,Cabo Verde,2000,6.67
+SDN,Sudan,2000,6.75
+CMR,Cameroon,2000,6.77
+ZWE,Zimbabwe,2000,6.85
+NRU,Nauru,2000,66.15
+ASM,American Samoa,2000,68.45
+MRT,Mauritania,2000,9.13
+GNQ,Equatorial Guinea,2000,9.25
+MYS,Malaysia,2000,9.29
+GAB,Gabon,2000,9.61
+NAM,Namibia,2000,9.82
+VNM,Viet Nam,2001,0.33
+TLS,Timor-Leste,2001,0.55
+ETH,Ethiopia,2001,0.7
+BGD,Bangladesh,2001,0.91
+KHM,Cambodia,2001,1.05
+RWA,Rwanda,2001,1.12
+MDG,Madagascar,2001,1.19
+NPL,Nepal,2001,1.33
+ERI,Eritrea,2001,1.35
+BFA,Burkina Faso,2001,1.59
+BDI,Burundi,2001,1.66
+GAB,Gabon,2001,10.12
+NAM,Namibia,2001,10.26
+BWA,Botswana,2001,10.42
+DNK,Denmark,2001,10.85
+CHE,Switzerland,2001,10.86
+TJK,Tajikistan,2001,10.97
+CUB,Cuba,2001,11.12
+MNG,Mongolia,2001,11.15
+LSO,Lesotho,2001,11.18
+NLD,Netherlands (Kingdom of the),2001,11.62
+MAR,Morocco,2001,11.73
+MNE,Montenegro,2001,11.68
+FRA,France,2001,11.96
+TKM,Turkmenistan,2001,12.14
+ROU,Romania,2001,12.19
+AUT,Austria,2001,12.28
+COL,Colombia,2001,12.31
+NOR,Norway,2001,12.38
+UZB,Uzbekistan,2001,12.49
+PER,Peru,2001,12.53
+SWE,Sweden,2001,12.5
+BRA,Brazil,2001,12.75
+ALB,Albania,2001,13.08
+MUS,Mauritius,2001,13.06
+KGZ,Kyrgyzstan,2001,13.24
+GTM,Guatemala,2001,13.2
+BOL,Bolivia (Plurinational State of),2001,13.55
+ITA,Italy,2001,13.82
+DZA,Algeria,2001,13.87
+AND,Andorra,2001,14.05
+ECU,Ecuador,2001,14.05
+KAZ,Kazakhstan,2001,13.96
+BIH,Bosnia and Herzegovina,2001,14.11
+BGR,Bulgaria,2001,14.1
+PNG,Papua New Guinea,2001,14.12
+BRN,Brunei Darussalam,2001,14.34
+SVN,Slovenia,2001,14.4
+SRB,Serbia,2001,14.7
+GUY,Guyana,2001,14.77
+ISL,Iceland,2001,14.85
+DOM,Dominican Republic,2001,14.88
+PRT,Portugal,2001,14.95
+BEL,Belgium,2001,15.0
+HND,Honduras,2001,15.26
+IRN,Iran (Islamic Republic of),2001,15.33
+SVK,Slovakia,2001,15.63
+ARM,Armenia,2001,15.69
+HRV,Croatia,2001,15.82
+SLB,Solomon Islands,2001,15.89
+SWZ,Eswatini,2001,16.14
+AZE,Azerbaijan,2001,16.09
+SUR,Suriname,2001,16.3
+LUX,Luxembourg,2001,16.35
+VUT,Vanuatu,2001,16.29
+FIN,Finland,2001,16.61
+TUN,Tunisia,2001,16.84
+POL,Poland,2001,17.06
+EST,Estonia,2001,17.19
+GRD,Grenada,2001,17.34
+MKD,North Macedonia,2001,17.4
+JAM,Jamaica,2001,17.8
+PRY,Paraguay,2001,17.91
+DMA,Dominica,2001,17.87
+LCA,Saint Lucia,2001,17.93
+CRI,Costa Rica,2001,17.9
+LVA,Latvia,2001,17.86
+PAN,Panama,2001,17.94
+URY,Uruguay,2001,18.14
+DEU,Germany,2001,18.24
+CYP,Cyprus,2001,18.51
+GRL,Greenland,2001,18.46
+ESP,Spain,2001,18.54
+BLR,Belarus,2001,18.64
+HUN,Hungary,2001,18.56
+UKR,Ukraine,2001,18.72
+SLV,El Salvador,2001,18.7
+OMN,Oman,2001,18.85
+ARG,Argentina,2001,18.89
+RUS,Russian Federation,2001,18.94
+ISR,Israel,2001,19.04
+BMU,Bermuda,2001,19.16
+GEO,Georgia,2001,19.29
+CZE,Czechia,2001,19.29
+VCT,Saint Vincent and the Grenadines,2001,19.39
+ATG,Antigua and Barbuda,2001,19.5
+VEN,Venezuela (Bolivarian Republic of),2001,19.49
+GRC,Greece,2001,19.46
+SYC,Seychelles,2001,19.71
+GBR,United Kingdom of Great Britain and Northern Ireland,2001,19.77
+IRL,Ireland,2001,19.85
+IND,India,2001,1.95
+UGA,Uganda,2001,2.11
+NER,Niger,2001,2.14
+MWI,Malawi,2001,2.27
+CHN,China,2001,2.33
+TCD,Chad,2001,2.39
+KOR,Republic of Korea,2001,2.43
+LAO,Lao People's Democratic Republic,2001,2.55
+COD,Democratic Republic of the Congo,2001,2.49
+LKA,Sri Lanka,2001,2.61
+JPN,Japan,2001,2.68
+IDN,Indonesia,2001,2.77
+AUS,Australia,2001,20.17
+LTU,Lithuania,2001,20.28
+NIC,Nicaragua,2001,20.38
+TTO,Trinidad and Tobago,2001,20.47
+MDA,Republic of Moldova,2001,20.59
+LBN,Lebanon,2001,20.73
+CAN,Canada,2001,20.75
+CHL,Chile,2001,21.34
+NZL,New Zealand,2001,22.22
+MEX,Mexico,2001,22.24
+FJI,Fiji,2001,22.62
+BRB,Barbados,2001,22.8
+SYR,Syrian Arab Republic,2001,23.33
+ZAF,South Africa,2001,23.44
+TUR,Türkiye,2001,24.66
+LBY,Libya,2001,25.04
+BHR,Bahrain,2001,25.13
+ARE,United Arab Emirates,2001,26.06
+BLZ,Belize,2001,26.47
+PRI,Puerto Rico,2001,26.5
+MLT,Malta,2001,26.72
+IRQ,Iraq,2001,26.83
+QAT,Qatar,2001,26.88
+SAU,Saudi Arabia,2001,27.41
+PSE,"occupied Palestinian territory, including east Jerusalem",2001,27.99
+USA,United States of America,2001,28.51
+EGY,Egypt,2001,28.75
+KNA,Saint Kitts and Nevis,2001,29.57
+BHS,Bahamas,2001,29.7
+SSD,South Sudan,2001,3.03
+GIN,Guinea,2001,2.96
+CAF,Central African Republic,2001,3.22
+MOZ,Mozambique,2001,3.23
+MMR,Myanmar,2001,3.37
+PHL,Philippines,2001,3.48
+BTN,Bhutan,2001,3.63
+TGO,Togo,2001,3.61
+PRK,Democratic People's Republic of Korea,2001,3.73
+SLE,Sierra Leone,2001,3.87
+MLI,Mali,2001,3.91
+ZMB,Zambia,2001,3.89
+TZA,United Republic of Tanzania,2001,3.93
+JOR,Jordan,2001,30.69
+KWT,Kuwait,2001,36.19
+PLW,Palau,2001,36.88
+MHL,Marshall Islands,2001,38.04
+FSM,Micronesia (Federated States of),2001,37.97
+PYF,French Polynesia,2001,38.63
+KIR,Kiribati,2001,38.8
+DJI,Djibouti,2001,4.07
+GMB,Gambia,2001,4.31
+GNB,Guinea-Bissau,2001,4.43
+KEN,Kenya,2001,4.49
+AFG,Afghanistan,2001,4.6
+BEN,Benin,2001,4.83
+CIV,Cote d'Ivoire,2001,4.87
+SEN,Senegal,2001,4.85
+SGP,Singapore,2001,4.87
+WSM,Samoa,2001,47.39
+NGA,Nigeria,2001,5.07
+LBR,Liberia,2001,5.3
+COG,Congo,2001,5.37
+SOM,Somalia,2001,5.56
+AGO,Angola,2001,5.59
+YEM,Yemen,2001,5.62
+HTI,Haiti,2001,5.73
+TUV,Tuvalu,2001,53.41
+TON,Tonga,2001,54.47
+COK,Cook Islands,2001,55.07
+NIU,Niue,2001,55.39
+THA,Thailand,2001,5.98
+COM,Comoros,2001,6.07
+PAK,Pakistan,2001,6.2
+GHA,Ghana,2001,6.49
+MDV,Maldives,2001,6.58
+TKL,Tokelau,2001,60.0
+NRU,Nauru,2001,66.07
+ASM,American Samoa,2001,68.78
+CPV,Cabo Verde,2001,7.08
+SDN,Sudan,2001,7.11
+STP,Sao Tome and Principe,2001,7.1
+ZWE,Zimbabwe,2001,7.05
+CMR,Cameroon,2001,7.26
+GNQ,Equatorial Guinea,2001,9.7
+MRT,Mauritania,2001,9.73
+MYS,Malaysia,2001,9.82
+VNM,Viet Nam,2002,0.35
+TLS,Timor-Leste,2002,0.59
+ETH,Ethiopia,2002,0.75
+BGD,Bangladesh,2002,1.01
+KHM,Cambodia,2002,1.12
+RWA,Rwanda,2002,1.2
+MDG,Madagascar,2002,1.27
+ERI,Eritrea,2002,1.44
+NPL,Nepal,2002,1.46
+BDI,Burundi,2002,1.76
+BFA,Burkina Faso,2002,1.75
+GNQ,Equatorial Guinea,2002,10.15
+MRT,Mauritania,2002,10.36
+MYS,Malaysia,2002,10.37
+GAB,Gabon,2002,10.63
+NAM,Namibia,2002,10.69
+BWA,Botswana,2002,10.88
+CHE,Switzerland,2002,11.03
+DNK,Denmark,2002,11.12
+TJK,Tajikistan,2002,11.42
+LSO,Lesotho,2002,11.6
+CUB,Cuba,2002,11.57
+MNG,Mongolia,2002,11.63
+NLD,Netherlands (Kingdom of the),2002,11.95
+MNE,Montenegro,2002,11.96
+FRA,France,2002,12.09
+MAR,Morocco,2002,12.16
+AUT,Austria,2002,12.55
+TKM,Turkmenistan,2002,12.56
+ROU,Romania,2002,12.85
+COL,Colombia,2002,12.79
+SWE,Sweden,2002,12.84
+NOR,Norway,2002,12.85
+PER,Peru,2002,12.93
+UZB,Uzbekistan,2002,13.1
+BRA,Brazil,2002,13.2
+ALB,Albania,2002,13.4
+MUS,Mauritius,2002,13.46
+KGZ,Kyrgyzstan,2002,13.78
+GTM,Guatemala,2002,13.79
+BOL,Bolivia (Plurinational State of),2002,14.11
+KAZ,Kazakhstan,2002,14.14
+ITA,Italy,2002,14.08
+PNG,Papua New Guinea,2002,14.34
+DZA,Algeria,2002,14.31
+BIH,Bosnia and Herzegovina,2002,14.38
+AND,Andorra,2002,14.38
+BGR,Bulgaria,2002,14.43
+ECU,Ecuador,2002,14.52
+SVN,Slovenia,2002,14.65
+SRB,Serbia,2002,14.98
+BRN,Brunei Darussalam,2002,15.1
+ISL,Iceland,2002,15.32
+PRT,Portugal,2002,15.34
+BEL,Belgium,2002,15.32
+GUY,Guyana,2002,15.35
+DOM,Dominican Republic,2002,15.56
+IRN,Iran (Islamic Republic of),2002,15.83
+HND,Honduras,2002,15.92
+SVK,Slovakia,2002,16.03
+ARM,Armenia,2002,16.09
+SLB,Solomon Islands,2002,16.17
+HRV,Croatia,2002,16.39
+AZE,Azerbaijan,2002,16.54
+VUT,Vanuatu,2002,16.51
+LUX,Luxembourg,2002,16.68
+SWZ,Eswatini,2002,16.81
+SUR,Suriname,2002,16.89
+FIN,Finland,2002,16.93
+TUN,Tunisia,2002,17.35
+POL,Poland,2002,17.5
+EST,Estonia,2002,17.67
+MKD,North Macedonia,2002,17.81
+GRD,Grenada,2002,17.95
+LVA,Latvia,2002,18.24
+PRY,Paraguay,2002,18.49
+DMA,Dominica,2002,18.49
+CRI,Costa Rica,2002,18.53
+JAM,Jamaica,2002,18.61
+DEU,Germany,2002,18.62
+LCA,Saint Lucia,2002,18.7
+URY,Uruguay,2002,18.7
+PAN,Panama,2002,18.65
+BLR,Belarus,2002,18.93
+CYP,Cyprus,2002,18.9
+ESP,Spain,2002,18.86
+UKR,Ukraine,2002,19.05
+GRL,Greenland,2002,18.99
+HUN,Hungary,2002,19.17
+SLV,El Salvador,2002,19.31
+RUS,Russian Federation,2002,19.29
+CZE,Czechia,2002,19.4
+ARG,Argentina,2002,19.49
+OMN,Oman,2002,19.48
+ISR,Israel,2002,19.48
+BMU,Bermuda,2002,19.85
+GEO,Georgia,2002,19.94
+IND,India,2002,2.11
+UGA,Uganda,2002,2.26
+NER,Niger,2002,2.31
+MWI,Malawi,2002,2.43
+CHN,China,2002,2.45
+KOR,Republic of Korea,2002,2.55
+TCD,Chad,2002,2.59
+COD,Democratic Republic of the Congo,2002,2.65
+LAO,Lao People's Democratic Republic,2002,2.7
+LKA,Sri Lanka,2002,2.82
+JPN,Japan,2002,2.78
+VEN,Venezuela (Bolivarian Republic of),2002,19.96
+GRC,Greece,2002,20.0
+VCT,Saint Vincent and the Grenadines,2002,20.07
+ATG,Antigua and Barbuda,2002,20.2
+SYC,Seychelles,2002,20.31
+IRL,Ireland,2002,20.47
+LTU,Lithuania,2002,20.49
+GBR,United Kingdom of Great Britain and Northern Ireland,2002,20.46
+AUS,Australia,2002,20.81
+MDA,Republic of Moldova,2002,20.91
+TTO,Trinidad and Tobago,2002,20.97
+NIC,Nicaragua,2002,21.05
+LBN,Lebanon,2002,21.33
+CAN,Canada,2002,21.28
+CHL,Chile,2002,22.07
+MEX,Mexico,2002,22.89
+FJI,Fiji,2002,23.04
+NZL,New Zealand,2002,23.04
+BRB,Barbados,2002,23.55
+SYR,Syrian Arab Republic,2002,23.94
+ZAF,South Africa,2002,24.07
+TUR,Türkiye,2002,25.24
+LBY,Libya,2002,25.83
+BHR,Bahrain,2002,25.87
+ARE,United Arab Emirates,2002,26.65
+MLT,Malta,2002,27.17
+BLZ,Belize,2002,27.33
+PRI,Puerto Rico,2002,27.33
+IRQ,Iraq,2002,27.56
+QAT,Qatar,2002,27.75
+SAU,Saudi Arabia,2002,28.22
+PSE,"occupied Palestinian territory, including east Jerusalem",2002,28.7
+USA,United States of America,2002,29.47
+EGY,Egypt,2002,29.63
+IDN,Indonesia,2002,2.96
+SSD,South Sudan,2002,3.21
+GIN,Guinea,2002,3.21
+CAF,Central African Republic,2002,3.45
+MOZ,Mozambique,2002,3.45
+MMR,Myanmar,2002,3.53
+PHL,Philippines,2002,3.67
+PRK,Democratic People's Republic of Korea,2002,3.94
+BTN,Bhutan,2002,3.87
+TGO,Togo,2002,3.91
+KNA,Saint Kitts and Nevis,2002,30.52
+BHS,Bahamas,2002,30.72
+JOR,Jordan,2002,31.37
+KWT,Kuwait,2002,36.87
+PLW,Palau,2002,37.14
+FSM,Micronesia (Federated States of),2002,38.31
+MHL,Marshall Islands,2002,38.38
+PYF,French Polynesia,2002,39.0
+KIR,Kiribati,2002,39.32
+SLE,Sierra Leone,2002,4.13
+ZMB,Zambia,2002,4.11
+TZA,United Republic of Tanzania,2002,4.19
+DJI,Djibouti,2002,4.31
+MLI,Mali,2002,4.26
+GMB,Gambia,2002,4.74
+GNB,Guinea-Bissau,2002,4.76
+KEN,Kenya,2002,4.78
+WSM,Samoa,2002,48.19
+AFG,Afghanistan,2002,4.97
+SGP,Singapore,2002,5.04
+CIV,Cote d'Ivoire,2002,5.21
+SEN,Senegal,2002,5.16
+BEN,Benin,2002,5.18
+NGA,Nigeria,2002,5.42
+COG,Congo,2002,5.62
+LBR,Liberia,2002,5.73
+SOM,Somalia,2002,5.88
+AGO,Angola,2002,5.88
+YEM,Yemen,2002,5.91
+TUV,Tuvalu,2002,53.93
+TON,Tonga,2002,55.11
+COK,Cook Islands,2002,55.72
+NIU,Niue,2002,55.93
+HTI,Haiti,2002,5.99
+THA,Thailand,2002,6.28
+COM,Comoros,2002,6.46
+PAK,Pakistan,2002,6.63
+GHA,Ghana,2002,6.92
+TKL,Tokelau,2002,60.48
+NRU,Nauru,2002,66.08
+ASM,American Samoa,2002,69.1
+MDV,Maldives,2002,6.95
+ZWE,Zimbabwe,2002,7.27
+SDN,Sudan,2002,7.48
+CPV,Cabo Verde,2002,7.51
+STP,Sao Tome and Principe,2002,7.57
+CMR,Cameroon,2002,7.76
+VNM,Viet Nam,2003,0.38
+TLS,Timor-Leste,2003,0.63
+ETH,Ethiopia,2003,0.81
+BGD,Bangladesh,2003,1.11
+KHM,Cambodia,2003,1.2
+RWA,Rwanda,2003,1.29
+MDG,Madagascar,2003,1.36
+ERI,Eritrea,2003,1.54
+NPL,Nepal,2003,1.59
+BDI,Burundi,2003,1.87
+BFA,Burkina Faso,2003,1.92
+GNQ,Equatorial Guinea,2003,10.6
+MYS,Malaysia,2003,10.94
+MRT,Mauritania,2003,11.0
+NAM,Namibia,2003,11.11
+CHE,Switzerland,2003,11.18
+GAB,Gabon,2003,11.16
+BWA,Botswana,2003,11.34
+DNK,Denmark,2003,11.37
+TJK,Tajikistan,2003,11.9
+LSO,Lesotho,2003,12.03
+CUB,Cuba,2003,12.03
+MNG,Mongolia,2003,12.14
+FRA,France,2003,12.2
+MNE,Montenegro,2003,12.24
+NLD,Netherlands (Kingdom of the),2003,12.26
+MAR,Morocco,2003,12.6
+AUT,Austria,2003,12.8
+TKM,Turkmenistan,2003,13.0
+SWE,Sweden,2003,13.16
+NOR,Norway,2003,13.32
+COL,Colombia,2003,13.27
+PER,Peru,2003,13.35
+ROU,Romania,2003,13.55
+ALB,Albania,2003,13.74
+UZB,Uzbekistan,2003,13.75
+BRA,Brazil,2003,13.66
+MUS,Mauritius,2003,13.85
+KAZ,Kazakhstan,2003,14.33
+KGZ,Kyrgyzstan,2003,14.34
+ITA,Italy,2003,14.34
+GTM,Guatemala,2003,14.38
+PNG,Papua New Guinea,2003,14.56
+BIH,Bosnia and Herzegovina,2003,14.65
+AND,Andorra,2003,14.71
+BOL,Bolivia (Plurinational State of),2003,14.68
+DZA,Algeria,2003,14.74
+BGR,Bulgaria,2003,14.76
+SVN,Slovenia,2003,14.87
+ECU,Ecuador,2003,15.01
+SRB,Serbia,2003,15.27
+BEL,Belgium,2003,15.63
+PRT,Portugal,2003,15.72
+ISL,Iceland,2003,15.78
+BRN,Brunei Darussalam,2003,15.88
+GUY,Guyana,2003,15.94
+DOM,Dominican Republic,2003,16.25
+IRN,Iran (Islamic Republic of),2003,16.31
+SLB,Solomon Islands,2003,16.45
+SVK,Slovakia,2003,16.43
+ARM,Armenia,2003,16.49
+HND,Honduras,2003,16.58
+VUT,Vanuatu,2003,16.72
+LUX,Luxembourg,2003,16.99
+AZE,Azerbaijan,2003,17.01
+HRV,Croatia,2003,16.99
+FIN,Finland,2003,17.24
+SUR,Suriname,2003,17.48
+SWZ,Eswatini,2003,17.49
+TUN,Tunisia,2003,17.85
+POL,Poland,2003,17.96
+EST,Estonia,2003,18.14
+MKD,North Macedonia,2003,18.22
+GRD,Grenada,2003,18.56
+LVA,Latvia,2003,18.64
+DEU,Germany,2003,18.98
+PRY,Paraguay,2003,19.07
+DMA,Dominica,2003,19.11
+ESP,Spain,2003,19.14
+BLR,Belarus,2003,19.21
+CRI,Costa Rica,2003,19.15
+CYP,Cyprus,2003,19.29
+URY,Uruguay,2003,19.27
+UKR,Ukraine,2003,19.38
+PAN,Panama,2003,19.38
+JAM,Jamaica,2003,19.42
+LCA,Saint Lucia,2003,19.47
+GRL,Greenland,2003,19.5
+CZE,Czechia,2003,19.54
+RUS,Russian Federation,2003,19.64
+HUN,Hungary,2003,19.77
+SLV,El Salvador,2003,19.92
+ISR,Israel,2003,19.9
+IND,India,2003,2.27
+UGA,Uganda,2003,2.41
+NER,Niger,2003,2.49
+MWI,Malawi,2003,2.61
+CHN,China,2003,2.59
+KOR,Republic of Korea,2003,2.67
+TCD,Chad,2003,2.79
+COD,Democratic Republic of the Congo,2003,2.81
+LAO,Lao People's Democratic Republic,2003,2.86
+JPN,Japan,2003,2.87
+ARG,Argentina,2003,20.1
+OMN,Oman,2003,20.11
+VEN,Venezuela (Bolivarian Republic of),2003,20.39
+BMU,Bermuda,2003,20.53
+GRC,Greece,2003,20.55
+GEO,Georgia,2003,20.6
+VCT,Saint Vincent and the Grenadines,2003,20.75
+LTU,Lithuania,2003,20.73
+ATG,Antigua and Barbuda,2003,20.9
+SYC,Seychelles,2003,20.9
+IRL,Ireland,2003,21.06
+GBR,United Kingdom of Great Britain and Northern Ireland,2003,21.11
+MDA,Republic of Moldova,2003,21.21
+TTO,Trinidad and Tobago,2003,21.44
+AUS,Australia,2003,21.42
+NIC,Nicaragua,2003,21.72
+CAN,Canada,2003,21.77
+LBN,Lebanon,2003,21.92
+CHL,Chile,2003,22.79
+FJI,Fiji,2003,23.48
+MEX,Mexico,2003,23.52
+NZL,New Zealand,2003,23.83
+BRB,Barbados,2003,24.3
+SYR,Syrian Arab Republic,2003,24.53
+ZAF,South Africa,2003,24.69
+TUR,Türkiye,2003,25.79
+LBY,Libya,2003,26.61
+BHR,Bahrain,2003,26.57
+ARE,United Arab Emirates,2003,27.21
+MLT,Malta,2003,27.61
+PRI,Puerto Rico,2003,28.14
+BLZ,Belize,2003,28.19
+IRQ,Iraq,2003,28.29
+QAT,Qatar,2003,28.61
+SAU,Saudi Arabia,2003,29.02
+PSE,"occupied Palestinian territory, including east Jerusalem",2003,29.37
+LKA,Sri Lanka,2003,3.04
+IDN,Indonesia,2003,3.17
+SSD,South Sudan,2003,3.4
+GIN,Guinea,2003,3.47
+CAF,Central African Republic,2003,3.68
+MMR,Myanmar,2003,3.7
+MOZ,Mozambique,2003,3.68
+PHL,Philippines,2003,3.85
+USA,United States of America,2003,30.41
+EGY,Egypt,2003,30.49
+KNA,Saint Kitts and Nevis,2003,31.45
+BHS,Bahamas,2003,31.72
+JOR,Jordan,2003,32.02
+PLW,Palau,2003,37.38
+KWT,Kuwait,2003,37.5
+MHL,Marshall Islands,2003,38.74
+FSM,Micronesia (Federated States of),2003,38.67
+PYF,French Polynesia,2003,39.36
+KIR,Kiribati,2003,39.79
+BTN,Bhutan,2003,4.13
+PRK,Democratic People's Republic of Korea,2003,4.16
+TGO,Togo,2003,4.23
+SLE,Sierra Leone,2003,4.38
+ZMB,Zambia,2003,4.35
+TZA,United Republic of Tanzania,2003,4.46
+DJI,Djibouti,2003,4.56
+MLI,Mali,2003,4.62
+WSM,Samoa,2003,48.97
+GNB,Guinea-Bissau,2003,5.1
+KEN,Kenya,2003,5.09
+GMB,Gambia,2003,5.19
+SGP,Singapore,2003,5.23
+AFG,Afghanistan,2003,5.37
+CIV,Cote d'Ivoire,2003,5.55
+SEN,Senegal,2003,5.47
+BEN,Benin,2003,5.53
+NGA,Nigeria,2003,5.78
+COG,Congo,2003,5.86
+TUV,Tuvalu,2003,54.44
+TON,Tonga,2003,55.75
+COK,Cook Islands,2003,56.36
+NIU,Niue,2003,56.46
+AGO,Angola,2003,6.17
+SOM,Somalia,2003,6.21
+LBR,Liberia,2003,6.17
+YEM,Yemen,2003,6.2
+HTI,Haiti,2003,6.25
+THA,Thailand,2003,6.58
+COM,Comoros,2003,6.86
+TKL,Tokelau,2003,60.92
+NRU,Nauru,2003,66.22
+ASM,American Samoa,2003,69.4
+PAK,Pakistan,2003,7.09
+MDV,Maldives,2003,7.34
+GHA,Ghana,2003,7.34
+ZWE,Zimbabwe,2003,7.5
+SDN,Sudan,2003,7.87
+CPV,Cabo Verde,2003,7.93
+STP,Sao Tome and Principe,2003,8.04
+CMR,Cameroon,2003,8.27
+VNM,Viet Nam,2004,0.41
+TLS,Timor-Leste,2004,0.67
+ETH,Ethiopia,2004,0.87
+BGD,Bangladesh,2004,1.22
+KHM,Cambodia,2004,1.29
+RWA,Rwanda,2004,1.39
+MDG,Madagascar,2004,1.45
+ERI,Eritrea,2004,1.65
+NPL,Nepal,2004,1.74
+GNQ,Equatorial Guinea,2004,11.03
+CHE,Switzerland,2004,11.33
+NAM,Namibia,2004,11.52
+MYS,Malaysia,2004,11.52
+DNK,Denmark,2004,11.6
+MRT,Mauritania,2004,11.64
+GAB,Gabon,2004,11.69
+BWA,Botswana,2004,11.79
+FRA,France,2004,12.29
+TJK,Tajikistan,2004,12.4
+LSO,Lesotho,2004,12.47
+CUB,Cuba,2004,12.49
+NLD,Netherlands (Kingdom of the),2004,12.55
+MNE,Montenegro,2004,12.52
+MNG,Mongolia,2004,12.67
+MAR,Morocco,2004,13.03
+AUT,Austria,2004,13.05
+TKM,Turkmenistan,2004,13.45
+SWE,Sweden,2004,13.46
+NOR,Norway,2004,13.78
+COL,Colombia,2004,13.77
+PER,Peru,2004,13.79
+ALB,Albania,2004,14.09
+BRA,Brazil,2004,14.14
+MUS,Mauritius,2004,14.23
+ROU,Romania,2004,14.3
+UZB,Uzbekistan,2004,14.44
+KAZ,Kazakhstan,2004,14.52
+ITA,Italy,2004,14.59
+PNG,Papua New Guinea,2004,14.79
+BIH,Bosnia and Herzegovina,2004,14.93
+KGZ,Kyrgyzstan,2004,14.92
+AND,Andorra,2004,15.02
+GTM,Guatemala,2004,14.98
+BGR,Bulgaria,2004,15.09
+SVN,Slovenia,2004,15.06
+DZA,Algeria,2004,15.18
+BOL,Bolivia (Plurinational State of),2004,15.26
+ECU,Ecuador,2004,15.5
+SRB,Serbia,2004,15.57
+BEL,Belgium,2004,15.94
+PRT,Portugal,2004,16.1
+ISL,Iceland,2004,16.22
+GUY,Guyana,2004,16.53
+BRN,Brunei Darussalam,2004,16.68
+SLB,Solomon Islands,2004,16.74
+IRN,Iran (Islamic Republic of),2004,16.77
+ARM,Armenia,2004,16.9
+VUT,Vanuatu,2004,16.93
+DOM,Dominican Republic,2004,16.94
+SVK,Slovakia,2004,16.86
+HND,Honduras,2004,17.24
+LUX,Luxembourg,2004,17.27
+AZE,Azerbaijan,2004,17.47
+FIN,Finland,2004,17.54
+HRV,Croatia,2004,17.6
+SUR,Suriname,2004,18.08
+SWZ,Eswatini,2004,18.15
+TUN,Tunisia,2004,18.34
+POL,Poland,2004,18.43
+MKD,North Macedonia,2004,18.64
+EST,Estonia,2004,18.58
+LVA,Latvia,2004,19.03
+GRD,Grenada,2004,19.17
+DEU,Germany,2004,19.31
+ESP,Spain,2004,19.37
+BLR,Belarus,2004,19.49
+UKR,Ukraine,2004,19.71
+PRY,Paraguay,2004,19.66
+CYP,Cyprus,2004,19.65
+DMA,Dominica,2004,19.72
+CZE,Czechia,2004,19.69
+URY,Uruguay,2004,19.85
+CRI,Costa Rica,2004,19.78
+BDI,Burundi,2004,1.98
+BFA,Burkina Faso,2004,2.1
+IND,India,2004,2.45
+UGA,Uganda,2004,2.58
+NER,Niger,2004,2.66
+CHN,China,2004,2.74
+MWI,Malawi,2004,2.79
+KOR,Republic of Korea,2004,2.79
+GRL,Greenland,2004,20.01
+RUS,Russian Federation,2004,20.0
+PAN,Panama,2004,20.12
+LCA,Saint Lucia,2004,20.23
+JAM,Jamaica,2004,20.23
+ISR,Israel,2004,20.29
+HUN,Hungary,2004,20.38
+SLV,El Salvador,2004,20.52
+ARG,Argentina,2004,20.72
+OMN,Oman,2004,20.73
+VEN,Venezuela (Bolivarian Republic of),2004,20.78
+LTU,Lithuania,2004,20.99
+GRC,Greece,2004,21.09
+BMU,Bermuda,2004,21.2
+GEO,Georgia,2004,21.29
+VCT,Saint Vincent and the Grenadines,2004,21.41
+MDA,Republic of Moldova,2004,21.51
+SYC,Seychelles,2004,21.49
+ATG,Antigua and Barbuda,2004,21.59
+IRL,Ireland,2004,21.63
+GBR,United Kingdom of Great Britain and Northern Ireland,2004,21.71
+TTO,Trinidad and Tobago,2004,21.89
+AUS,Australia,2004,22.01
+CAN,Canada,2004,22.24
+NIC,Nicaragua,2004,22.37
+LBN,Lebanon,2004,22.48
+CHL,Chile,2004,23.51
+FJI,Fiji,2004,23.95
+MEX,Mexico,2004,24.15
+NZL,New Zealand,2004,24.59
+BRB,Barbados,2004,25.04
+SYR,Syrian Arab Republic,2004,25.11
+ZAF,South Africa,2004,25.31
+TUR,Türkiye,2004,26.31
+BHR,Bahrain,2004,27.22
+LBY,Libya,2004,27.38
+ARE,United Arab Emirates,2004,27.73
+MLT,Malta,2004,28.03
+PRI,Puerto Rico,2004,28.93
+BLZ,Belize,2004,29.03
+IRQ,Iraq,2004,29.01
+QAT,Qatar,2004,29.5
+SAU,Saudi Arabia,2004,29.77
+TCD,Chad,2004,3.01
+LAO,Lao People's Democratic Republic,2004,3.03
+COD,Democratic Republic of the Congo,2004,2.99
+JPN,Japan,2004,2.97
+LKA,Sri Lanka,2004,3.27
+IDN,Indonesia,2004,3.4
+SSD,South Sudan,2004,3.59
+GIN,Guinea,2004,3.74
+CAF,Central African Republic,2004,3.92
+MMR,Myanmar,2004,3.87
+MOZ,Mozambique,2004,3.91
+PSE,"occupied Palestinian territory, including east Jerusalem",2004,30.03
+EGY,Egypt,2004,31.31
+USA,United States of America,2004,31.31
+KNA,Saint Kitts and Nevis,2004,32.37
+JOR,Jordan,2004,32.63
+BHS,Bahamas,2004,32.71
+PLW,Palau,2004,37.62
+KWT,Kuwait,2004,38.05
+FSM,Micronesia (Federated States of),2004,39.03
+MHL,Marshall Islands,2004,39.08
+PYF,French Polynesia,2004,39.73
+PHL,Philippines,2004,4.04
+PRK,Democratic People's Republic of Korea,2004,4.39
+BTN,Bhutan,2004,4.4
+TGO,Togo,2004,4.55
+SLE,Sierra Leone,2004,4.63
+ZMB,Zambia,2004,4.6
+DJI,Djibouti,2004,4.82
+TZA,United Republic of Tanzania,2004,4.75
+KIR,Kiribati,2004,40.24
+WSM,Samoa,2004,49.75
+MLI,Mali,2004,4.99
+GNB,Guinea-Bissau,2004,5.44
+KEN,Kenya,2004,5.41
+SGP,Singapore,2004,5.46
+GMB,Gambia,2004,5.65
+AFG,Afghanistan,2004,5.79
+SEN,Senegal,2004,5.77
+CIV,Cote d'Ivoire,2004,5.89
+BEN,Benin,2004,5.88
+TUV,Tuvalu,2004,54.93
+TON,Tonga,2004,56.42
+NIU,Niue,2004,57.02
+COK,Cook Islands,2004,57.02
+COG,Congo,2004,6.09
+NGA,Nigeria,2004,6.15
+AGO,Angola,2004,6.46
+HTI,Haiti,2004,6.5
+YEM,Yemen,2004,6.49
+SOM,Somalia,2004,6.55
+LBR,Liberia,2004,6.62
+THA,Thailand,2004,6.91
+TKL,Tokelau,2004,61.41
+NRU,Nauru,2004,66.14
+ASM,American Samoa,2004,69.71
+COM,Comoros,2004,7.27
+PAK,Pakistan,2004,7.58
+ZWE,Zimbabwe,2004,7.74
+MDV,Maldives,2004,7.75
+GHA,Ghana,2004,7.76
+SDN,Sudan,2004,8.26
+CPV,Cabo Verde,2004,8.36
+STP,Sao Tome and Principe,2004,8.52
+CMR,Cameroon,2004,8.76
+VNM,Viet Nam,2005,0.44
+TLS,Timor-Leste,2005,0.72
+ETH,Ethiopia,2005,0.93
+BGD,Bangladesh,2005,1.34
+KHM,Cambodia,2005,1.38
+RWA,Rwanda,2005,1.49
+MDG,Madagascar,2005,1.54
+ERI,Eritrea,2005,1.76
+NPL,Nepal,2005,1.9
+CHE,Switzerland,2005,11.46
+GNQ,Equatorial Guinea,2005,11.46
+DNK,Denmark,2005,11.81
+NAM,Namibia,2005,11.91
+MYS,Malaysia,2005,12.1
+GAB,Gabon,2005,12.21
+BWA,Botswana,2005,12.23
+MRT,Mauritania,2005,12.28
+FRA,France,2005,12.34
+NLD,Netherlands (Kingdom of the),2005,12.81
+MNE,Montenegro,2005,12.81
+TJK,Tajikistan,2005,12.92
+LSO,Lesotho,2005,12.91
+CUB,Cuba,2005,12.95
+MNG,Mongolia,2005,13.23
+AUT,Austria,2005,13.27
+MAR,Morocco,2005,13.47
+SWE,Sweden,2005,13.73
+TKM,Turkmenistan,2005,13.91
+NOR,Norway,2005,14.21
+PER,Peru,2005,14.24
+COL,Colombia,2005,14.27
+ALB,Albania,2005,14.46
+MUS,Mauritius,2005,14.59
+KAZ,Kazakhstan,2005,14.7
+BRA,Brazil,2005,14.65
+ITA,Italy,2005,14.84
+PNG,Papua New Guinea,2005,15.02
+ROU,Romania,2005,15.1
+BIH,Bosnia and Herzegovina,2005,15.22
+UZB,Uzbekistan,2005,15.17
+SVN,Slovenia,2005,15.24
+AND,Andorra,2005,15.32
+BGR,Bulgaria,2005,15.42
+KGZ,Kyrgyzstan,2005,15.52
+DZA,Algeria,2005,15.61
+GTM,Guatemala,2005,15.57
+BOL,Bolivia (Plurinational State of),2005,15.85
+SRB,Serbia,2005,15.88
+ECU,Ecuador,2005,16.01
+BEL,Belgium,2005,16.24
+PRT,Portugal,2005,16.47
+ISL,Iceland,2005,16.64
+SLB,Solomon Islands,2005,17.03
+GUY,Guyana,2005,17.13
+VUT,Vanuatu,2005,17.13
+IRN,Iran (Islamic Republic of),2005,17.2
+ARM,Armenia,2005,17.32
+SVK,Slovakia,2005,17.3
+BRN,Brunei Darussalam,2005,17.5
+LUX,Luxembourg,2005,17.52
+DOM,Dominican Republic,2005,17.63
+FIN,Finland,2005,17.82
+HND,Honduras,2005,17.9
+AZE,Azerbaijan,2005,17.92
+HRV,Croatia,2005,18.24
+SUR,Suriname,2005,18.69
+SWZ,Eswatini,2005,18.82
+TUN,Tunisia,2005,18.82
+POL,Poland,2005,18.9
+EST,Estonia,2005,19.0
+MKD,North Macedonia,2005,19.07
+LVA,Latvia,2005,19.41
+ESP,Spain,2005,19.54
+DEU,Germany,2005,19.6
+BLR,Belarus,2005,19.75
+GRD,Grenada,2005,19.77
+CZE,Czechia,2005,19.87
+BDI,Burundi,2005,2.09
+BFA,Burkina Faso,2005,2.29
+IND,India,2005,2.63
+UGA,Uganda,2005,2.75
+NER,Niger,2005,2.84
+CHN,China,2005,2.9
+KOR,Republic of Korea,2005,2.93
+UKR,Ukraine,2005,20.03
+CYP,Cyprus,2005,19.99
+PRY,Paraguay,2005,20.25
+DMA,Dominica,2005,20.32
+RUS,Russian Federation,2005,20.34
+URY,Uruguay,2005,20.43
+CRI,Costa Rica,2005,20.4
+GRL,Greenland,2005,20.49
+ISR,Israel,2005,20.65
+PAN,Panama,2005,20.87
+LCA,Saint Lucia,2005,20.98
+HUN,Hungary,2005,20.98
+JAM,Jamaica,2005,21.03
+SLV,El Salvador,2005,21.12
+VEN,Venezuela (Bolivarian Republic of),2005,21.13
+LTU,Lithuania,2005,21.25
+ARG,Argentina,2005,21.34
+OMN,Oman,2005,21.32
+GRC,Greece,2005,21.62
+MDA,Republic of Moldova,2005,21.79
+BMU,Bermuda,2005,21.87
+GEO,Georgia,2005,21.98
+VCT,Saint Vincent and the Grenadines,2005,22.07
+SYC,Seychelles,2005,22.05
+IRL,Ireland,2005,22.17
+ATG,Antigua and Barbuda,2005,22.26
+TTO,Trinidad and Tobago,2005,22.32
+GBR,United Kingdom of Great Britain and Northern Ireland,2005,22.27
+AUS,Australia,2005,22.57
+CAN,Canada,2005,22.66
+NIC,Nicaragua,2005,23.02
+LBN,Lebanon,2005,23.02
+CHL,Chile,2005,24.23
+FJI,Fiji,2005,24.42
+MEX,Mexico,2005,24.77
+NZL,New Zealand,2005,25.32
+SYR,Syrian Arab Republic,2005,25.66
+BRB,Barbados,2005,25.79
+ZAF,South Africa,2005,25.9
+TUR,Türkiye,2005,26.79
+BHR,Bahrain,2005,27.83
+LBY,Libya,2005,28.14
+ARE,United Arab Emirates,2005,28.21
+MLT,Malta,2005,28.42
+PRI,Puerto Rico,2005,29.7
+IRQ,Iraq,2005,29.71
+BLZ,Belize,2005,29.85
+MWI,Malawi,2005,2.98
+JPN,Japan,2005,3.08
+TCD,Chad,2005,3.22
+LAO,Lao People's Democratic Republic,2005,3.21
+COD,Democratic Republic of the Congo,2005,3.16
+LKA,Sri Lanka,2005,3.52
+IDN,Indonesia,2005,3.65
+SSD,South Sudan,2005,3.79
+QAT,Qatar,2005,30.38
+SAU,Saudi Arabia,2005,30.47
+PSE,"occupied Palestinian territory, including east Jerusalem",2005,30.64
+EGY,Egypt,2005,32.12
+USA,United States of America,2005,32.18
+JOR,Jordan,2005,33.19
+KNA,Saint Kitts and Nevis,2005,33.25
+BHS,Bahamas,2005,33.67
+PLW,Palau,2005,37.84
+KWT,Kuwait,2005,38.55
+MHL,Marshall Islands,2005,39.43
+FSM,Micronesia (Federated States of),2005,39.41
+GIN,Guinea,2005,4.02
+MMR,Myanmar,2005,4.04
+CAF,Central African Republic,2005,4.16
+MOZ,Mozambique,2005,4.16
+PHL,Philippines,2005,4.24
+PRK,Democratic People's Republic of Korea,2005,4.64
+BTN,Bhutan,2005,4.69
+SLE,Sierra Leone,2005,4.86
+TGO,Togo,2005,4.89
+ZMB,Zambia,2005,4.86
+PYF,French Polynesia,2005,40.11
+KIR,Kiribati,2005,40.66
+DJI,Djibouti,2005,5.09
+TZA,United Republic of Tanzania,2005,5.05
+MLI,Mali,2005,5.36
+KEN,Kenya,2005,5.73
+SGP,Singapore,2005,5.71
+GNB,Guinea-Bissau,2005,5.79
+WSM,Samoa,2005,50.52
+TUV,Tuvalu,2005,55.4
+TON,Tonga,2005,57.1
+NIU,Niue,2005,57.58
+COK,Cook Islands,2005,57.68
+SEN,Senegal,2005,6.06
+GMB,Gambia,2005,6.13
+AFG,Afghanistan,2005,6.24
+CIV,Cote d'Ivoire,2005,6.23
+BEN,Benin,2005,6.23
+COG,Congo,2005,6.31
+NGA,Nigeria,2005,6.51
+AGO,Angola,2005,6.74
+HTI,Haiti,2005,6.75
+YEM,Yemen,2005,6.79
+SOM,Somalia,2005,6.9
+TKL,Tokelau,2005,61.86
+NRU,Nauru,2005,66.1
+LBR,Liberia,2005,7.09
+THA,Thailand,2005,7.25
+COM,Comoros,2005,7.68
+ASM,American Samoa,2005,70.01
+ZWE,Zimbabwe,2005,8.0
+PAK,Pakistan,2005,8.1
+MDV,Maldives,2005,8.18
+GHA,Ghana,2005,8.16
+SDN,Sudan,2005,8.66
+CPV,Cabo Verde,2005,8.78
+STP,Sao Tome and Principe,2005,8.99
+CMR,Cameroon,2005,9.25
+VNM,Viet Nam,2006,0.48
+TLS,Timor-Leste,2006,0.77
+ETH,Ethiopia,2006,1.0
+KHM,Cambodia,2006,1.48
+BGD,Bangladesh,2006,1.48
+RWA,Rwanda,2006,1.6
+MDG,Madagascar,2006,1.64
+ERI,Eritrea,2006,1.88
+CHE,Switzerland,2006,11.57
+GNQ,Equatorial Guinea,2006,11.87
+DNK,Denmark,2006,12.0
+NAM,Namibia,2006,12.28
+FRA,France,2006,12.37
+GAB,Gabon,2006,12.73
+BWA,Botswana,2006,12.65
+MYS,Malaysia,2006,12.69
+MRT,Mauritania,2006,12.92
+NLD,Netherlands (Kingdom of the),2006,13.05
+MNE,Montenegro,2006,13.09
+LSO,Lesotho,2006,13.36
+CUB,Cuba,2006,13.42
+TJK,Tajikistan,2006,13.46
+AUT,Austria,2006,13.48
+MNG,Mongolia,2006,13.82
+MAR,Morocco,2006,13.91
+SWE,Sweden,2006,13.96
+TKM,Turkmenistan,2006,14.38
+NOR,Norway,2006,14.63
+PER,Peru,2006,14.72
+ALB,Albania,2006,14.85
+COL,Colombia,2006,14.79
+KAZ,Kazakhstan,2006,14.89
+MUS,Mauritius,2006,14.93
+ITA,Italy,2006,15.08
+BRA,Brazil,2006,15.18
+PNG,Papua New Guinea,2006,15.26
+SVN,Slovenia,2006,15.4
+BIH,Bosnia and Herzegovina,2006,15.51
+AND,Andorra,2006,15.6
+BGR,Bulgaria,2006,15.75
+UZB,Uzbekistan,2006,15.93
+DZA,Algeria,2006,16.04
+ROU,Romania,2006,15.95
+KGZ,Kyrgyzstan,2006,16.14
+GTM,Guatemala,2006,16.17
+SRB,Serbia,2006,16.19
+BOL,Bolivia (Plurinational State of),2006,16.45
+ECU,Ecuador,2006,16.53
+BEL,Belgium,2006,16.53
+PRT,Portugal,2006,16.83
+ISL,Iceland,2006,17.04
+SLB,Solomon Islands,2006,17.32
+VUT,Vanuatu,2006,17.34
+IRN,Iran (Islamic Republic of),2006,17.62
+GUY,Guyana,2006,17.72
+LUX,Luxembourg,2006,17.74
+ARM,Armenia,2006,17.74
+SVK,Slovakia,2006,17.75
+FIN,Finland,2006,18.09
+BRN,Brunei Darussalam,2006,18.34
+DOM,Dominican Republic,2006,18.3
+AZE,Azerbaijan,2006,18.39
+HND,Honduras,2006,18.56
+HRV,Croatia,2006,18.89
+SUR,Suriname,2006,19.29
+TUN,Tunisia,2006,19.28
+EST,Estonia,2006,19.38
+POL,Poland,2006,19.37
+MKD,North Macedonia,2006,19.5
+SWZ,Eswatini,2006,19.48
+ESP,Spain,2006,19.65
+LVA,Latvia,2006,19.79
+DEU,Germany,2006,19.86
+NPL,Nepal,2006,2.06
+BDI,Burundi,2006,2.21
+BFA,Burkina Faso,2006,2.48
+IND,India,2006,2.82
+UGA,Uganda,2006,2.92
+BLR,Belarus,2006,19.99
+CZE,Czechia,2006,20.09
+CYP,Cyprus,2006,20.32
+UKR,Ukraine,2006,20.34
+GRD,Grenada,2006,20.37
+RUS,Russian Federation,2006,20.66
+PRY,Paraguay,2006,20.85
+DMA,Dominica,2006,20.93
+GRL,Greenland,2006,20.96
+URY,Uruguay,2006,21.02
+CRI,Costa Rica,2006,21.02
+ISR,Israel,2006,20.97
+VEN,Venezuela (Bolivarian Republic of),2006,21.45
+LTU,Lithuania,2006,21.52
+HUN,Hungary,2006,21.6
+PAN,Panama,2006,21.63
+LCA,Saint Lucia,2006,21.73
+SLV,El Salvador,2006,21.72
+JAM,Jamaica,2006,21.83
+OMN,Oman,2006,21.9
+MDA,Republic of Moldova,2006,22.04
+ARG,Argentina,2006,21.98
+GRC,Greece,2006,22.13
+BMU,Bermuda,2006,22.53
+SYC,Seychelles,2006,22.59
+VCT,Saint Vincent and the Grenadines,2006,22.72
+GEO,Georgia,2006,22.7
+TTO,Trinidad and Tobago,2006,22.72
+IRL,Ireland,2006,22.68
+GBR,United Kingdom of Great Britain and Northern Ireland,2006,22.77
+ATG,Antigua and Barbuda,2006,22.93
+CAN,Canada,2006,23.06
+AUS,Australia,2006,23.1
+LBN,Lebanon,2006,23.53
+NIC,Nicaragua,2006,23.66
+FJI,Fiji,2006,24.91
+CHL,Chile,2006,24.95
+MEX,Mexico,2006,25.38
+NZL,New Zealand,2006,26.0
+SYR,Syrian Arab Republic,2006,26.19
+BRB,Barbados,2006,26.52
+ZAF,South Africa,2006,26.46
+TUR,Türkiye,2006,27.24
+BHR,Bahrain,2006,28.42
+ARE,United Arab Emirates,2006,28.74
+MLT,Malta,2006,28.8
+LBY,Libya,2006,28.79
+NER,Niger,2006,3.02
+CHN,China,2006,3.08
+KOR,Republic of Korea,2006,3.07
+MWI,Malawi,2006,3.18
+JPN,Japan,2006,3.19
+COD,Democratic Republic of the Congo,2006,3.33
+TCD,Chad,2006,3.43
+LAO,Lao People's Democratic Republic,2006,3.4
+LKA,Sri Lanka,2006,3.79
+IDN,Indonesia,2006,3.92
+PRI,Puerto Rico,2006,30.44
+IRQ,Iraq,2006,30.39
+BLZ,Belize,2006,30.66
+SAU,Saudi Arabia,2006,31.13
+QAT,Qatar,2006,31.16
+PSE,"occupied Palestinian territory, including east Jerusalem",2006,31.22
+EGY,Egypt,2006,32.89
+USA,United States of America,2006,33.01
+JOR,Jordan,2006,33.72
+KNA,Saint Kitts and Nevis,2006,34.11
+BHS,Bahamas,2006,34.61
+PLW,Palau,2006,38.04
+KWT,Kuwait,2006,38.99
+MHL,Marshall Islands,2006,39.78
+FSM,Micronesia (Federated States of),2006,39.78
+SSD,South Sudan,2006,3.99
+MMR,Myanmar,2006,4.21
+GIN,Guinea,2006,4.3
+CAF,Central African Republic,2006,4.4
+MOZ,Mozambique,2006,4.41
+PHL,Philippines,2006,4.44
+PRK,Democratic People's Republic of Korea,2006,4.9
+PYF,French Polynesia,2006,40.49
+KIR,Kiribati,2006,41.07
+BTN,Bhutan,2006,4.99
+SLE,Sierra Leone,2006,5.08
+ZMB,Zambia,2006,5.12
+TGO,Togo,2006,5.22
+DJI,Djibouti,2006,5.36
+TZA,United Republic of Tanzania,2006,5.37
+MLI,Mali,2006,5.73
+WSM,Samoa,2006,51.29
+TUV,Tuvalu,2006,55.89
+TON,Tonga,2006,57.8
+NIU,Niue,2006,58.09
+COK,Cook Islands,2006,58.35
+SGP,Singapore,2006,5.98
+GNB,Guinea-Bissau,2006,6.12
+KEN,Kenya,2006,6.06
+SEN,Senegal,2006,6.33
+COG,Congo,2006,6.52
+CIV,Cote d'Ivoire,2006,6.55
+GMB,Gambia,2006,6.62
+BEN,Benin,2006,6.56
+AFG,Afghanistan,2006,6.72
+NGA,Nigeria,2006,6.86
+TKL,Tokelau,2006,62.24
+NRU,Nauru,2006,66.21
+AGO,Angola,2006,7.02
+HTI,Haiti,2006,6.99
+YEM,Yemen,2006,7.1
+SOM,Somalia,2006,7.26
+LBR,Liberia,2006,7.56
+THA,Thailand,2006,7.6
+ASM,American Samoa,2006,70.33
+COM,Comoros,2006,8.1
+ZWE,Zimbabwe,2006,8.27
+GHA,Ghana,2006,8.55
+MDV,Maldives,2006,8.62
+PAK,Pakistan,2006,8.65
+SDN,Sudan,2006,9.06
+CPV,Cabo Verde,2006,9.18
+STP,Sao Tome and Principe,2006,9.45
+CMR,Cameroon,2006,9.71
+VNM,Viet Nam,2007,0.53
+TLS,Timor-Leste,2007,0.82
+ETH,Ethiopia,2007,1.07
+KHM,Cambodia,2007,1.59
+BGD,Bangladesh,2007,1.62
+MDG,Madagascar,2007,1.75
+RWA,Rwanda,2007,1.72
+CMR,Cameroon,2007,10.14
+CHE,Switzerland,2007,11.67
+DNK,Denmark,2007,12.15
+GNQ,Equatorial Guinea,2007,12.26
+FRA,France,2007,12.36
+NAM,Namibia,2007,12.63
+BWA,Botswana,2007,13.05
+GAB,Gabon,2007,13.24
+NLD,Netherlands (Kingdom of the),2007,13.25
+MYS,Malaysia,2007,13.27
+MNE,Montenegro,2007,13.38
+MRT,Mauritania,2007,13.53
+AUT,Austria,2007,13.66
+LSO,Lesotho,2007,13.79
+CUB,Cuba,2007,13.89
+TJK,Tajikistan,2007,14.03
+SWE,Sweden,2007,14.16
+MAR,Morocco,2007,14.35
+MNG,Mongolia,2007,14.42
+TKM,Turkmenistan,2007,14.85
+NOR,Norway,2007,15.03
+KAZ,Kazakhstan,2007,15.08
+MUS,Mauritius,2007,15.25
+PER,Peru,2007,15.24
+ALB,Albania,2007,15.25
+COL,Colombia,2007,15.32
+ITA,Italy,2007,15.3
+PNG,Papua New Guinea,2007,15.5
+SVN,Slovenia,2007,15.56
+BRA,Brazil,2007,15.74
+AND,Andorra,2007,15.85
+BIH,Bosnia and Herzegovina,2007,15.81
+BGR,Bulgaria,2007,16.09
+DZA,Algeria,2007,16.47
+SRB,Serbia,2007,16.52
+UZB,Uzbekistan,2007,16.72
+KGZ,Kyrgyzstan,2007,16.77
+BEL,Belgium,2007,16.8
+GTM,Guatemala,2007,16.78
+ROU,Romania,2007,16.85
+BOL,Bolivia (Plurinational State of),2007,17.08
+ECU,Ecuador,2007,17.08
+PRT,Portugal,2007,17.18
+ISL,Iceland,2007,17.42
+VUT,Vanuatu,2007,17.53
+SLB,Solomon Islands,2007,17.61
+LUX,Luxembourg,2007,17.91
+IRN,Iran (Islamic Republic of),2007,18.02
+ARM,Armenia,2007,18.17
+SVK,Slovakia,2007,18.23
+GUY,Guyana,2007,18.32
+FIN,Finland,2007,18.35
+AZE,Azerbaijan,2007,18.86
+DOM,Dominican Republic,2007,18.98
+HND,Honduras,2007,19.23
+BRN,Brunei Darussalam,2007,19.19
+HRV,Croatia,2007,19.56
+TUN,Tunisia,2007,19.73
+EST,Estonia,2007,19.73
+ESP,Spain,2007,19.7
+POL,Poland,2007,19.85
+MKD,North Macedonia,2007,19.94
+SUR,Suriname,2007,19.89
+ERI,Eritrea,2007,2.0
+NPL,Nepal,2007,2.25
+BDI,Burundi,2007,2.33
+BFA,Burkina Faso,2007,2.68
+SWZ,Eswatini,2007,20.13
+DEU,Germany,2007,20.08
+BLR,Belarus,2007,20.22
+LVA,Latvia,2007,20.15
+CZE,Czechia,2007,20.33
+CYP,Cyprus,2007,20.61
+UKR,Ukraine,2007,20.63
+GRD,Grenada,2007,20.97
+RUS,Russian Federation,2007,20.98
+ISR,Israel,2007,21.25
+GRL,Greenland,2007,21.41
+PRY,Paraguay,2007,21.46
+DMA,Dominica,2007,21.53
+URY,Uruguay,2007,21.63
+CRI,Costa Rica,2007,21.64
+VEN,Venezuela (Bolivarian Republic of),2007,21.74
+LTU,Lithuania,2007,21.79
+HUN,Hungary,2007,22.21
+MDA,Republic of Moldova,2007,22.26
+SLV,El Salvador,2007,22.31
+PAN,Panama,2007,22.42
+LCA,Saint Lucia,2007,22.47
+OMN,Oman,2007,22.48
+GRC,Greece,2007,22.62
+ARG,Argentina,2007,22.63
+JAM,Jamaica,2007,22.61
+TTO,Trinidad and Tobago,2007,23.1
+SYC,Seychelles,2007,23.11
+BMU,Bermuda,2007,23.19
+IRL,Ireland,2007,23.16
+GBR,United Kingdom of Great Britain and Northern Ireland,2007,23.23
+VCT,Saint Vincent and the Grenadines,2007,23.37
+GEO,Georgia,2007,23.43
+CAN,Canada,2007,23.42
+ATG,Antigua and Barbuda,2007,23.6
+AUS,Australia,2007,23.61
+LBN,Lebanon,2007,24.02
+NIC,Nicaragua,2007,24.3
+FJI,Fiji,2007,25.4
+CHL,Chile,2007,25.67
+MEX,Mexico,2007,26.01
+SYR,Syrian Arab Republic,2007,26.69
+NZL,New Zealand,2007,26.65
+ZAF,South Africa,2007,26.97
+BRB,Barbados,2007,27.26
+TUR,Türkiye,2007,27.66
+BHR,Bahrain,2007,28.99
+MLT,Malta,2007,29.14
+LBY,Libya,2007,29.35
+ARE,United Arab Emirates,2007,29.47
+IND,India,2007,3.01
+UGA,Uganda,2007,3.11
+NER,Niger,2007,3.19
+KOR,Republic of Korea,2007,3.22
+CHN,China,2007,3.28
+JPN,Japan,2007,3.31
+MWI,Malawi,2007,3.39
+COD,Democratic Republic of the Congo,2007,3.51
+TCD,Chad,2007,3.64
+LAO,Lao People's Democratic Republic,2007,3.6
+IRQ,Iraq,2007,31.08
+PRI,Puerto Rico,2007,31.17
+BLZ,Belize,2007,31.45
+PSE,"occupied Palestinian territory, including east Jerusalem",2007,31.77
+SAU,Saudi Arabia,2007,31.8
+QAT,Qatar,2007,31.91
+EGY,Egypt,2007,33.66
+USA,United States of America,2007,33.8
+JOR,Jordan,2007,34.22
+KNA,Saint Kitts and Nevis,2007,34.94
+BHS,Bahamas,2007,35.53
+PLW,Palau,2007,38.25
+KWT,Kuwait,2007,39.37
+LKA,Sri Lanka,2007,4.07
+SSD,South Sudan,2007,4.2
+IDN,Indonesia,2007,4.21
+MMR,Myanmar,2007,4.39
+GIN,Guinea,2007,4.58
+PHL,Philippines,2007,4.64
+CAF,Central African Republic,2007,4.65
+MOZ,Mozambique,2007,4.68
+MHL,Marshall Islands,2007,40.15
+FSM,Micronesia (Federated States of),2007,40.19
+PYF,French Polynesia,2007,40.88
+KIR,Kiribati,2007,41.46
+PRK,Democratic People's Republic of Korea,2007,5.17
+BTN,Bhutan,2007,5.3
+SLE,Sierra Leone,2007,5.27
+ZMB,Zambia,2007,5.39
+DJI,Djibouti,2007,5.65
+TGO,Togo,2007,5.55
+TZA,United Republic of Tanzania,2007,5.69
+WSM,Samoa,2007,52.05
+TUV,Tuvalu,2007,56.37
+TON,Tonga,2007,58.55
+NIU,Niue,2007,58.62
+COK,Cook Islands,2007,59.03
+MLI,Mali,2007,6.08
+SGP,Singapore,2007,6.28
+KEN,Kenya,2007,6.39
+GNB,Guinea-Bissau,2007,6.45
+SEN,Senegal,2007,6.59
+COG,Congo,2007,6.7
+CIV,Cote d'Ivoire,2007,6.86
+BEN,Benin,2007,6.87
+TKL,Tokelau,2007,62.65
+NRU,Nauru,2007,66.35
+GMB,Gambia,2007,7.1
+AFG,Afghanistan,2007,7.23
+HTI,Haiti,2007,7.22
+NGA,Nigeria,2007,7.2
+AGO,Angola,2007,7.29
+YEM,Yemen,2007,7.41
+SOM,Somalia,2007,7.63
+ASM,American Samoa,2007,70.65
+LBR,Liberia,2007,8.03
+THA,Thailand,2007,7.98
+COM,Comoros,2007,8.52
+ZWE,Zimbabwe,2007,8.54
+GHA,Ghana,2007,8.91
+MDV,Maldives,2007,9.04
+PAK,Pakistan,2007,9.24
+SDN,Sudan,2007,9.47
+CPV,Cabo Verde,2007,9.58
+STP,Sao Tome and Principe,2007,9.9
+VNM,Viet Nam,2008,0.58
+TLS,Timor-Leste,2008,0.87
+ETH,Ethiopia,2008,1.14
+KHM,Cambodia,2008,1.7
+BGD,Bangladesh,2008,1.78
+RWA,Rwanda,2008,1.85
+MDG,Madagascar,2008,1.85
+STP,Sao Tome and Principe,2008,10.32
+CMR,Cameroon,2008,10.53
+CHE,Switzerland,2008,11.74
+FRA,France,2008,12.31
+DNK,Denmark,2008,12.28
+GNQ,Equatorial Guinea,2008,12.63
+NAM,Namibia,2008,12.95
+BWA,Botswana,2008,13.42
+NLD,Netherlands (Kingdom of the),2008,13.42
+GAB,Gabon,2008,13.73
+MNE,Montenegro,2008,13.67
+AUT,Austria,2008,13.81
+MYS,Malaysia,2008,13.84
+MRT,Mauritania,2008,14.1
+LSO,Lesotho,2008,14.21
+SWE,Sweden,2008,14.33
+CUB,Cuba,2008,14.37
+TJK,Tajikistan,2008,14.62
+MAR,Morocco,2008,14.79
+MNG,Mongolia,2008,15.04
+TKM,Turkmenistan,2008,15.33
+KAZ,Kazakhstan,2008,15.28
+NOR,Norway,2008,15.39
+MUS,Mauritius,2008,15.54
+ITA,Italy,2008,15.51
+PNG,Papua New Guinea,2008,15.75
+ALB,Albania,2008,15.68
+SVN,Slovenia,2008,15.71
+PER,Peru,2008,15.8
+COL,Colombia,2008,15.86
+AND,Andorra,2008,16.07
+BIH,Bosnia and Herzegovina,2008,16.11
+BRA,Brazil,2008,16.33
+BGR,Bulgaria,2008,16.42
+DZA,Algeria,2008,16.91
+SRB,Serbia,2008,16.85
+BEL,Belgium,2008,17.05
+KGZ,Kyrgyzstan,2008,17.42
+GTM,Guatemala,2008,17.4
+UZB,Uzbekistan,2008,17.55
+PRT,Portugal,2008,17.52
+ECU,Ecuador,2008,17.64
+BOL,Bolivia (Plurinational State of),2008,17.72
+VUT,Vanuatu,2008,17.73
+ISL,Iceland,2008,17.75
+ROU,Romania,2008,17.8
+SLB,Solomon Islands,2008,17.9
+LUX,Luxembourg,2008,18.05
+IRN,Iran (Islamic Republic of),2008,18.41
+ARM,Armenia,2008,18.6
+FIN,Finland,2008,18.58
+SVK,Slovakia,2008,18.72
+GUY,Guyana,2008,18.92
+AZE,Azerbaijan,2008,19.34
+DOM,Dominican Republic,2008,19.65
+ESP,Spain,2008,19.68
+HND,Honduras,2008,19.9
+ERI,Eritrea,2008,2.12
+NPL,Nepal,2008,2.44
+BDI,Burundi,2008,2.46
+BFA,Burkina Faso,2008,2.89
+BRN,Brunei Darussalam,2008,20.03
+EST,Estonia,2008,20.04
+TUN,Tunisia,2008,20.19
+HRV,Croatia,2008,20.24
+DEU,Germany,2008,20.25
+POL,Poland,2008,20.33
+MKD,North Macedonia,2008,20.39
+BLR,Belarus,2008,20.41
+SUR,Suriname,2008,20.48
+LVA,Latvia,2008,20.5
+CZE,Czechia,2008,20.6
+SWZ,Eswatini,2008,20.77
+CYP,Cyprus,2008,20.87
+UKR,Ukraine,2008,20.91
+RUS,Russian Federation,2008,21.28
+ISR,Israel,2008,21.47
+GRD,Grenada,2008,21.56
+GRL,Greenland,2008,21.83
+VEN,Venezuela (Bolivarian Republic of),2008,22.0
+DMA,Dominica,2008,22.12
+PRY,Paraguay,2008,22.09
+LTU,Lithuania,2008,22.05
+URY,Uruguay,2008,22.25
+CRI,Costa Rica,2008,22.27
+MDA,Republic of Moldova,2008,22.45
+HUN,Hungary,2008,22.82
+SLV,El Salvador,2008,22.91
+GRC,Greece,2008,23.09
+OMN,Oman,2008,23.07
+LCA,Saint Lucia,2008,23.2
+PAN,Panama,2008,23.23
+ARG,Argentina,2008,23.3
+JAM,Jamaica,2008,23.39
+TTO,Trinidad and Tobago,2008,23.46
+SYC,Seychelles,2008,23.58
+IRL,Ireland,2008,23.61
+GBR,United Kingdom of Great Britain and Northern Ireland,2008,23.64
+CAN,Canada,2008,23.74
+BMU,Bermuda,2008,23.85
+VCT,Saint Vincent and the Grenadines,2008,24.01
+AUS,Australia,2008,24.09
+GEO,Georgia,2008,24.18
+ATG,Antigua and Barbuda,2008,24.25
+LBN,Lebanon,2008,24.5
+NIC,Nicaragua,2008,24.94
+FJI,Fiji,2008,25.91
+CHL,Chile,2008,26.41
+MEX,Mexico,2008,26.64
+SYR,Syrian Arab Republic,2008,27.21
+NZL,New Zealand,2008,27.26
+ZAF,South Africa,2008,27.42
+BRB,Barbados,2008,27.99
+TUR,Türkiye,2008,28.07
+MLT,Malta,2008,29.45
+BHR,Bahrain,2008,29.55
+LBY,Libya,2008,29.89
+IND,India,2008,3.22
+UGA,Uganda,2008,3.3
+NER,Niger,2008,3.36
+KOR,Republic of Korea,2008,3.38
+JPN,Japan,2008,3.42
+CHN,China,2008,3.5
+MWI,Malawi,2008,3.6
+COD,Democratic Republic of the Congo,2008,3.69
+TCD,Chad,2008,3.84
+LAO,Lao People's Democratic Republic,2008,3.81
+ARE,United Arab Emirates,2008,30.67
+IRQ,Iraq,2008,31.75
+PRI,Puerto Rico,2008,31.87
+BLZ,Belize,2008,32.23
+PSE,"occupied Palestinian territory, including east Jerusalem",2008,32.3
+SAU,Saudi Arabia,2008,32.47
+QAT,Qatar,2008,32.71
+EGY,Egypt,2008,34.42
+USA,United States of America,2008,34.54
+JOR,Jordan,2008,34.7
+KNA,Saint Kitts and Nevis,2008,35.75
+BHS,Bahamas,2008,36.42
+PLW,Palau,2008,38.46
+KWT,Kuwait,2008,39.72
+SSD,South Sudan,2008,4.41
+LKA,Sri Lanka,2008,4.36
+IDN,Indonesia,2008,4.51
+MMR,Myanmar,2008,4.56
+CAF,Central African Republic,2008,4.9
+GIN,Guinea,2008,4.86
+MOZ,Mozambique,2008,4.94
+PHL,Philippines,2008,4.85
+MHL,Marshall Islands,2008,40.52
+FSM,Micronesia (Federated States of),2008,40.61
+PYF,French Polynesia,2008,41.29
+KIR,Kiribati,2008,41.83
+SLE,Sierra Leone,2008,5.43
+PRK,Democratic People's Republic of Korea,2008,5.45
+BTN,Bhutan,2008,5.63
+ZMB,Zambia,2008,5.66
+DJI,Djibouti,2008,5.93
+TGO,Togo,2008,5.88
+WSM,Samoa,2008,52.8
+TUV,Tuvalu,2008,56.88
+NIU,Niue,2008,59.13
+TON,Tonga,2008,59.34
+COK,Cook Islands,2008,59.71
+TZA,United Republic of Tanzania,2008,6.02
+MLI,Mali,2008,6.43
+SGP,Singapore,2008,6.6
+KEN,Kenya,2008,6.73
+GNB,Guinea-Bissau,2008,6.77
+SEN,Senegal,2008,6.84
+COG,Congo,2008,6.87
+TKL,Tokelau,2008,63.15
+NRU,Nauru,2008,66.52
+CIV,Cote d'Ivoire,2008,7.16
+BEN,Benin,2008,7.17
+HTI,Haiti,2008,7.45
+NGA,Nigeria,2008,7.53
+AGO,Angola,2008,7.56
+GMB,Gambia,2008,7.58
+YEM,Yemen,2008,7.73
+AFG,Afghanistan,2008,7.78
+ASM,American Samoa,2008,70.97
+SOM,Somalia,2008,8.0
+THA,Thailand,2008,8.36
+LBR,Liberia,2008,8.5
+ZWE,Zimbabwe,2008,8.83
+COM,Comoros,2008,8.95
+GHA,Ghana,2008,9.23
+MDV,Maldives,2008,9.46
+SDN,Sudan,2008,9.87
+CPV,Cabo Verde,2008,9.95
+PAK,Pakistan,2008,9.86
+VNM,Viet Nam,2009,0.64
+TLS,Timor-Leste,2009,0.93
+ETH,Ethiopia,2009,1.22
+KHM,Cambodia,2009,1.82
+BGD,Bangladesh,2009,1.94
+SDN,Sudan,2009,10.27
+CPV,Cabo Verde,2009,10.3
+PAK,Pakistan,2009,10.52
+STP,Sao Tome and Principe,2009,10.72
+CMR,Cameroon,2009,10.89
+CHE,Switzerland,2009,11.79
+FRA,France,2009,12.22
+DNK,Denmark,2009,12.38
+GNQ,Equatorial Guinea,2009,12.98
+NAM,Namibia,2009,13.25
+NLD,Netherlands (Kingdom of the),2009,13.55
+BWA,Botswana,2009,13.77
+AUT,Austria,2009,13.93
+MNE,Montenegro,2009,13.95
+GAB,Gabon,2009,14.2
+MYS,Malaysia,2009,14.4
+SWE,Sweden,2009,14.45
+MRT,Mauritania,2009,14.64
+LSO,Lesotho,2009,14.64
+CUB,Cuba,2009,14.85
+TJK,Tajikistan,2009,15.22
+MAR,Morocco,2009,15.25
+KAZ,Kazakhstan,2009,15.47
+NOR,Norway,2009,15.72
+MNG,Mongolia,2009,15.68
+ITA,Italy,2009,15.7
+TKM,Turkmenistan,2009,15.8
+MUS,Mauritius,2009,15.8
+SVN,Slovenia,2009,15.86
+PNG,Papua New Guinea,2009,16.0
+ALB,Albania,2009,16.11
+AND,Andorra,2009,16.26
+BIH,Bosnia and Herzegovina,2009,16.41
+COL,Colombia,2009,16.42
+PER,Peru,2009,16.4
+BGR,Bulgaria,2009,16.74
+BRA,Brazil,2009,16.96
+SRB,Serbia,2009,17.19
+BEL,Belgium,2009,17.27
+DZA,Algeria,2009,17.36
+PRT,Portugal,2009,17.83
+VUT,Vanuatu,2009,17.92
+ISL,Iceland,2009,18.04
+GTM,Guatemala,2009,18.03
+KGZ,Kyrgyzstan,2009,18.09
+LUX,Luxembourg,2009,18.14
+SLB,Solomon Islands,2009,18.2
+ECU,Ecuador,2009,18.23
+BOL,Bolivia (Plurinational State of),2009,18.38
+UZB,Uzbekistan,2009,18.4
+ROU,Romania,2009,18.78
+FIN,Finland,2009,18.79
+IRN,Iran (Islamic Republic of),2009,18.79
+ARM,Armenia,2009,19.03
+SVK,Slovakia,2009,19.22
+GUY,Guyana,2009,19.53
+ESP,Spain,2009,19.58
+AZE,Azerbaijan,2009,19.85
+MDG,Madagascar,2009,1.96
+RWA,Rwanda,2009,1.98
+ERI,Eritrea,2009,2.25
+BDI,Burundi,2009,2.58
+NPL,Nepal,2009,2.65
+DOM,Dominican Republic,2009,20.31
+EST,Estonia,2009,20.3
+DEU,Germany,2009,20.37
+HND,Honduras,2009,20.58
+BLR,Belarus,2009,20.59
+TUN,Tunisia,2009,20.64
+MKD,North Macedonia,2009,20.83
+LVA,Latvia,2009,20.82
+POL,Poland,2009,20.8
+BRN,Brunei Darussalam,2009,20.86
+HRV,Croatia,2009,20.92
+CZE,Czechia,2009,20.89
+SUR,Suriname,2009,21.07
+CYP,Cyprus,2009,21.09
+UKR,Ukraine,2009,21.16
+SWZ,Eswatini,2009,21.38
+RUS,Russian Federation,2009,21.56
+ISR,Israel,2009,21.65
+GRD,Grenada,2009,22.14
+GRL,Greenland,2009,22.22
+VEN,Venezuela (Bolivarian Republic of),2009,22.22
+LTU,Lithuania,2009,22.3
+MDA,Republic of Moldova,2009,22.61
+DMA,Dominica,2009,22.71
+PRY,Paraguay,2009,22.74
+URY,Uruguay,2009,22.9
+CRI,Costa Rica,2009,22.91
+HUN,Hungary,2009,23.42
+SLV,El Salvador,2009,23.5
+GRC,Greece,2009,23.52
+OMN,Oman,2009,23.67
+TTO,Trinidad and Tobago,2009,23.8
+LCA,Saint Lucia,2009,23.92
+SYC,Seychelles,2009,24.02
+ARG,Argentina,2009,24.0
+IRL,Ireland,2009,24.02
+CAN,Canada,2009,24.03
+GBR,United Kingdom of Great Britain and Northern Ireland,2009,24.0
+PAN,Panama,2009,24.07
+JAM,Jamaica,2009,24.15
+BMU,Bermuda,2009,24.49
+AUS,Australia,2009,24.54
+VCT,Saint Vincent and the Grenadines,2009,24.65
+ATG,Antigua and Barbuda,2009,24.9
+GEO,Georgia,2009,24.93
+LBN,Lebanon,2009,24.95
+NIC,Nicaragua,2009,25.58
+FJI,Fiji,2009,26.44
+CHL,Chile,2009,27.17
+MEX,Mexico,2009,27.29
+SYR,Syrian Arab Republic,2009,27.72
+NZL,New Zealand,2009,27.83
+ZAF,South Africa,2009,27.81
+TUR,Türkiye,2009,28.46
+BRB,Barbados,2009,28.72
+MLT,Malta,2009,29.71
+BFA,Burkina Faso,2009,3.09
+IND,India,2009,3.43
+NER,Niger,2009,3.51
+UGA,Uganda,2009,3.5
+JPN,Japan,2009,3.54
+KOR,Republic of Korea,2009,3.55
+CHN,China,2009,3.73
+MWI,Malawi,2009,3.81
+COD,Democratic Republic of the Congo,2009,3.86
+BHR,Bahrain,2009,30.09
+LBY,Libya,2009,30.42
+ARE,United Arab Emirates,2009,32.14
+IRQ,Iraq,2009,32.42
+PRI,Puerto Rico,2009,32.57
+PSE,"occupied Palestinian territory, including east Jerusalem",2009,32.81
+BLZ,Belize,2009,32.99
+SAU,Saudi Arabia,2009,33.13
+QAT,Qatar,2009,33.56
+JOR,Jordan,2009,35.14
+EGY,Egypt,2009,35.18
+USA,United States of America,2009,35.22
+KNA,Saint Kitts and Nevis,2009,36.52
+BHS,Bahamas,2009,37.29
+PLW,Palau,2009,38.65
+TCD,Chad,2009,4.02
+LAO,Lao People's Democratic Republic,2009,4.02
+SSD,South Sudan,2009,4.63
+MMR,Myanmar,2009,4.73
+LKA,Sri Lanka,2009,4.68
+IDN,Indonesia,2009,4.84
+KWT,Kuwait,2009,40.04
+MHL,Marshall Islands,2009,40.89
+FSM,Micronesia (Federated States of),2009,41.05
+PYF,French Polynesia,2009,41.72
+KIR,Kiribati,2009,42.19
+CAF,Central African Republic,2009,5.15
+GIN,Guinea,2009,5.12
+PHL,Philippines,2009,5.07
+MOZ,Mozambique,2009,5.22
+SLE,Sierra Leone,2009,5.57
+PRK,Democratic People's Republic of Korea,2009,5.74
+ZMB,Zambia,2009,5.94
+WSM,Samoa,2009,53.54
+TUV,Tuvalu,2009,57.4
+NIU,Niue,2009,59.68
+BTN,Bhutan,2009,5.98
+DJI,Djibouti,2009,6.22
+TGO,Togo,2009,6.2
+TZA,United Republic of Tanzania,2009,6.36
+MLI,Mali,2009,6.75
+SGP,Singapore,2009,6.94
+TON,Tonga,2009,60.17
+COK,Cook Islands,2009,60.41
+TKL,Tokelau,2009,63.65
+NRU,Nauru,2009,66.69
+COG,Congo,2009,7.01
+GNB,Guinea-Bissau,2009,7.06
+SEN,Senegal,2009,7.06
+KEN,Kenya,2009,7.07
+CIV,Cote d'Ivoire,2009,7.43
+BEN,Benin,2009,7.44
+HTI,Haiti,2009,7.67
+AGO,Angola,2009,7.81
+NGA,Nigeria,2009,7.84
+ASM,American Samoa,2009,71.3
+GMB,Gambia,2009,8.04
+YEM,Yemen,2009,8.07
+AFG,Afghanistan,2009,8.35
+SOM,Somalia,2009,8.38
+THA,Thailand,2009,8.75
+LBR,Liberia,2009,8.96
+ZWE,Zimbabwe,2009,9.12
+COM,Comoros,2009,9.38
+GHA,Ghana,2009,9.53
+MDV,Maldives,2009,9.89
+VNM,Viet Nam,2010,0.7
+TLS,Timor-Leste,2010,0.99
+ETH,Ethiopia,2010,1.3
+MDV,Maldives,2010,10.32
+CPV,Cabo Verde,2010,10.64
+SDN,Sudan,2010,10.67
+STP,Sao Tome and Principe,2010,11.11
+CMR,Cameroon,2010,11.2
+PAK,Pakistan,2010,11.21
+CHE,Switzerland,2010,11.81
+FRA,France,2010,12.09
+DNK,Denmark,2010,12.46
+GNQ,Equatorial Guinea,2010,13.31
+NAM,Namibia,2010,13.52
+NLD,Netherlands (Kingdom of the),2010,13.65
+AUT,Austria,2010,14.02
+BWA,Botswana,2010,14.1
+MNE,Montenegro,2010,14.23
+SWE,Sweden,2010,14.54
+GAB,Gabon,2010,14.66
+MYS,Malaysia,2010,14.95
+LSO,Lesotho,2010,15.06
+MRT,Mauritania,2010,15.16
+CUB,Cuba,2010,15.33
+MAR,Morocco,2010,15.71
+KAZ,Kazakhstan,2010,15.67
+TJK,Tajikistan,2010,15.84
+ITA,Italy,2010,15.85
+NOR,Norway,2010,16.01
+MUS,Mauritius,2010,16.04
+SVN,Slovenia,2010,16.0
+PNG,Papua New Guinea,2010,16.26
+TKM,Turkmenistan,2010,16.27
+MNG,Mongolia,2010,16.32
+AND,Andorra,2010,16.42
+ALB,Albania,2010,16.57
+BIH,Bosnia and Herzegovina,2010,16.71
+COL,Colombia,2010,16.99
+PER,Peru,2010,17.05
+BGR,Bulgaria,2010,17.05
+BEL,Belgium,2010,17.47
+SRB,Serbia,2010,17.53
+BRA,Brazil,2010,17.63
+DZA,Algeria,2010,17.82
+VUT,Vanuatu,2010,18.1
+PRT,Portugal,2010,18.13
+LUX,Luxembourg,2010,18.2
+ISL,Iceland,2010,18.3
+SLB,Solomon Islands,2010,18.49
+KGZ,Kyrgyzstan,2010,18.75
+GTM,Guatemala,2010,18.68
+ECU,Ecuador,2010,18.83
+FIN,Finland,2010,18.99
+BOL,Bolivia (Plurinational State of),2010,19.07
+IRN,Iran (Islamic Republic of),2010,19.17
+UZB,Uzbekistan,2010,19.27
+ESP,Spain,2010,19.4
+ARM,Armenia,2010,19.46
+SVK,Slovakia,2010,19.73
+ROU,Romania,2010,19.79
+KHM,Cambodia,2010,1.95
+MDG,Madagascar,2010,2.08
+RWA,Rwanda,2010,2.12
+BGD,Bangladesh,2010,2.12
+ERI,Eritrea,2010,2.38
+BDI,Burundi,2010,2.71
+NPL,Nepal,2010,2.88
+GUY,Guyana,2010,20.14
+AZE,Azerbaijan,2010,20.38
+DEU,Germany,2010,20.44
+EST,Estonia,2010,20.53
+BLR,Belarus,2010,20.73
+DOM,Dominican Republic,2010,20.98
+LVA,Latvia,2010,21.13
+TUN,Tunisia,2010,21.1
+CZE,Czechia,2010,21.19
+MKD,North Macedonia,2010,21.28
+CYP,Cyprus,2010,21.27
+HND,Honduras,2010,21.27
+POL,Poland,2010,21.27
+UKR,Ukraine,2010,21.4
+SUR,Suriname,2010,21.65
+HRV,Croatia,2010,21.6
+BRN,Brunei Darussalam,2010,21.68
+ISR,Israel,2010,21.78
+RUS,Russian Federation,2010,21.82
+SWZ,Eswatini,2010,21.98
+VEN,Venezuela (Bolivarian Republic of),2010,22.42
+LTU,Lithuania,2010,22.54
+GRL,Greenland,2010,22.58
+GRD,Grenada,2010,22.72
+MDA,Republic of Moldova,2010,22.74
+DMA,Dominica,2010,23.3
+PRY,Paraguay,2010,23.41
+URY,Uruguay,2010,23.58
+CRI,Costa Rica,2010,23.55
+GRC,Greece,2010,23.91
+HUN,Hungary,2010,24.02
+SLV,El Salvador,2010,24.09
+TTO,Trinidad and Tobago,2010,24.13
+OMN,Oman,2010,24.13
+CAN,Canada,2010,24.27
+GBR,United Kingdom of Great Britain and Northern Ireland,2010,24.3
+SYC,Seychelles,2010,24.42
+IRL,Ireland,2010,24.39
+LCA,Saint Lucia,2010,24.64
+ARG,Argentina,2010,24.72
+PAN,Panama,2010,24.92
+JAM,Jamaica,2010,24.9
+AUS,Australia,2010,24.96
+BMU,Bermuda,2010,25.13
+VCT,Saint Vincent and the Grenadines,2010,25.29
+LBN,Lebanon,2010,25.39
+ATG,Antigua and Barbuda,2010,25.54
+GEO,Georgia,2010,25.69
+NIC,Nicaragua,2010,26.22
+FJI,Fiji,2010,26.96
+CHL,Chile,2010,27.96
+MEX,Mexico,2010,27.96
+ZAF,South Africa,2010,28.13
+SYR,Syrian Arab Republic,2010,28.22
+NZL,New Zealand,2010,28.35
+TUR,Türkiye,2010,28.85
+BRB,Barbados,2010,29.44
+MLT,Malta,2010,29.94
+BFA,Burkina Faso,2010,3.29
+NER,Niger,2010,3.66
+UGA,Uganda,2010,3.71
+IND,India,2010,3.65
+JPN,Japan,2010,3.66
+KOR,Republic of Korea,2010,3.72
+BHR,Bahrain,2010,30.63
+LBY,Libya,2010,30.95
+ARE,United Arab Emirates,2010,32.41
+IRQ,Iraq,2010,33.08
+PRI,Puerto Rico,2010,33.25
+PSE,"occupied Palestinian territory, including east Jerusalem",2010,33.3
+BLZ,Belize,2010,33.73
+SAU,Saudi Arabia,2010,33.78
+QAT,Qatar,2010,34.43
+JOR,Jordan,2010,35.56
+USA,United States of America,2010,35.84
+EGY,Egypt,2010,35.94
+KNA,Saint Kitts and Nevis,2010,37.28
+BHS,Bahamas,2010,38.14
+PLW,Palau,2010,38.84
+COD,Democratic Republic of the Congo,2010,4.02
+MWI,Malawi,2010,4.03
+CHN,China,2010,3.97
+TCD,Chad,2010,4.19
+LAO,Lao People's Democratic Republic,2010,4.24
+SSD,South Sudan,2010,4.84
+MMR,Myanmar,2010,4.9
+KWT,Kuwait,2010,40.34
+MHL,Marshall Islands,2010,41.27
+FSM,Micronesia (Federated States of),2010,41.49
+PYF,French Polynesia,2010,42.15
+KIR,Kiribati,2010,42.54
+LKA,Sri Lanka,2010,5.01
+IDN,Indonesia,2010,5.18
+PHL,Philippines,2010,5.29
+CAF,Central African Republic,2010,5.39
+GIN,Guinea,2010,5.38
+MOZ,Mozambique,2010,5.5
+SLE,Sierra Leone,2010,5.68
+WSM,Samoa,2010,54.27
+TUV,Tuvalu,2010,57.9
+PRK,Democratic People's Republic of Korea,2010,6.03
+ZMB,Zambia,2010,6.23
+BTN,Bhutan,2010,6.33
+DJI,Djibouti,2010,6.52
+TGO,Togo,2010,6.52
+TZA,United Republic of Tanzania,2010,6.71
+NIU,Niue,2010,60.18
+TON,Tonga,2010,61.02
+COK,Cook Islands,2010,61.1
+TKL,Tokelau,2010,64.08
+NRU,Nauru,2010,66.89
+MLI,Mali,2010,7.05
+COG,Congo,2010,7.14
+GNB,Guinea-Bissau,2010,7.35
+SEN,Senegal,2010,7.26
+SGP,Singapore,2010,7.3
+KEN,Kenya,2010,7.42
+CIV,Cote d'Ivoire,2010,7.69
+BEN,Benin,2010,7.69
+HTI,Haiti,2010,7.88
+ASM,American Samoa,2010,71.63
+AGO,Angola,2010,8.05
+NGA,Nigeria,2010,8.13
+YEM,Yemen,2010,8.42
+GMB,Gambia,2010,8.49
+SOM,Somalia,2010,8.76
+AFG,Afghanistan,2010,8.95
+THA,Thailand,2010,9.15
+LBR,Liberia,2010,9.41
+ZWE,Zimbabwe,2010,9.42
+COM,Comoros,2010,9.81
+GHA,Ghana,2010,9.79
+VNM,Viet Nam,2011,0.77
+TLS,Timor-Leste,2011,1.06
+ETH,Ethiopia,2011,1.38
+GHA,Ghana,2011,10.02
+COM,Comoros,2011,10.26
+MDV,Maldives,2011,10.76
+CPV,Cabo Verde,2011,10.99
+SDN,Sudan,2011,11.08
+STP,Sao Tome and Principe,2011,11.47
+CMR,Cameroon,2011,11.49
+CHE,Switzerland,2011,11.82
+FRA,France,2011,11.92
+PAK,Pakistan,2011,11.95
+DNK,Denmark,2011,12.51
+GNQ,Equatorial Guinea,2011,13.62
+NLD,Netherlands (Kingdom of the),2011,13.73
+NAM,Namibia,2011,13.78
+AUT,Austria,2011,14.1
+BWA,Botswana,2011,14.42
+MNE,Montenegro,2011,14.51
+SWE,Sweden,2011,14.6
+GAB,Gabon,2011,15.11
+LSO,Lesotho,2011,15.47
+MYS,Malaysia,2011,15.49
+MRT,Mauritania,2011,15.67
+CUB,Cuba,2011,15.82
+KAZ,Kazakhstan,2011,15.87
+ITA,Italy,2011,15.97
+SVN,Slovenia,2011,16.13
+MAR,Morocco,2011,16.19
+NOR,Norway,2011,16.27
+MUS,Mauritius,2011,16.26
+AND,Andorra,2011,16.55
+PNG,Papua New Guinea,2011,16.53
+TJK,Tajikistan,2011,16.46
+TKM,Turkmenistan,2011,16.74
+BIH,Bosnia and Herzegovina,2011,17.01
+ALB,Albania,2011,17.04
+MNG,Mongolia,2011,16.98
+BGR,Bulgaria,2011,17.35
+COL,Colombia,2011,17.57
+BEL,Belgium,2011,17.65
+PER,Peru,2011,17.74
+SRB,Serbia,2011,17.87
+LUX,Luxembourg,2011,18.22
+VUT,Vanuatu,2011,18.28
+DZA,Algeria,2011,18.28
+PRT,Portugal,2011,18.42
+BRA,Brazil,2011,18.36
+ISL,Iceland,2011,18.53
+SLB,Solomon Islands,2011,18.78
+ESP,Spain,2011,19.17
+FIN,Finland,2011,19.16
+GTM,Guatemala,2011,19.33
+KGZ,Kyrgyzstan,2011,19.41
+ECU,Ecuador,2011,19.46
+IRN,Iran (Islamic Republic of),2011,19.55
+BOL,Bolivia (Plurinational State of),2011,19.77
+ARM,Armenia,2011,19.89
+KHM,Cambodia,2011,2.09
+MDG,Madagascar,2011,2.2
+RWA,Rwanda,2011,2.28
+BGD,Bangladesh,2011,2.31
+ERI,Eritrea,2011,2.51
+BDI,Burundi,2011,2.84
+UZB,Uzbekistan,2011,20.15
+SVK,Slovakia,2011,20.25
+DEU,Germany,2011,20.47
+EST,Estonia,2011,20.72
+GUY,Guyana,2011,20.76
+ROU,Romania,2011,20.84
+BLR,Belarus,2011,20.86
+AZE,Azerbaijan,2011,20.9
+CYP,Cyprus,2011,21.43
+LVA,Latvia,2011,21.41
+CZE,Czechia,2011,21.5
+UKR,Ukraine,2011,21.61
+TUN,Tunisia,2011,21.57
+DOM,Dominican Republic,2011,21.64
+MKD,North Macedonia,2011,21.74
+POL,Poland,2011,21.74
+ISR,Israel,2011,21.88
+HND,Honduras,2011,21.96
+RUS,Russian Federation,2011,22.05
+SUR,Suriname,2011,22.22
+HRV,Croatia,2011,22.28
+BRN,Brunei Darussalam,2011,22.49
+SWZ,Eswatini,2011,22.58
+VEN,Venezuela (Bolivarian Republic of),2011,22.59
+LTU,Lithuania,2011,22.78
+MDA,Republic of Moldova,2011,22.84
+GRL,Greenland,2011,22.92
+GRD,Grenada,2011,23.31
+DMA,Dominica,2011,23.91
+PRY,Paraguay,2011,24.11
+CRI,Costa Rica,2011,24.21
+URY,Uruguay,2011,24.28
+GRC,Greece,2011,24.27
+TTO,Trinidad and Tobago,2011,24.44
+OMN,Oman,2011,24.48
+CAN,Canada,2011,24.48
+HUN,Hungary,2011,24.61
+GBR,United Kingdom of Great Britain and Northern Ireland,2011,24.55
+SLV,El Salvador,2011,24.68
+IRL,Ireland,2011,24.73
+SYC,Seychelles,2011,24.78
+LCA,Saint Lucia,2011,25.35
+AUS,Australia,2011,25.35
+ARG,Argentina,2011,25.48
+JAM,Jamaica,2011,25.65
+BMU,Bermuda,2011,25.76
+LBN,Lebanon,2011,25.81
+PAN,Panama,2011,25.8
+VCT,Saint Vincent and the Grenadines,2011,25.92
+ATG,Antigua and Barbuda,2011,26.17
+GEO,Georgia,2011,26.44
+NIC,Nicaragua,2011,26.86
+FJI,Fiji,2011,27.48
+ZAF,South Africa,2011,28.4
+MEX,Mexico,2011,28.64
+SYR,Syrian Arab Republic,2011,28.71
+CHL,Chile,2011,28.77
+NZL,New Zealand,2011,28.84
+TUR,Türkiye,2011,29.22
+NPL,Nepal,2011,3.12
+BFA,Burkina Faso,2011,3.5
+NER,Niger,2011,3.8
+JPN,Japan,2011,3.77
+UGA,Uganda,2011,3.93
+IND,India,2011,3.88
+KOR,Republic of Korea,2011,3.91
+MLT,Malta,2011,30.14
+BRB,Barbados,2011,30.15
+BHR,Bahrain,2011,31.16
+LBY,Libya,2011,31.47
+ARE,United Arab Emirates,2011,32.09
+IRQ,Iraq,2011,33.73
+PSE,"occupied Palestinian territory, including east Jerusalem",2011,33.75
+PRI,Puerto Rico,2011,33.91
+SAU,Saudi Arabia,2011,34.41
+BLZ,Belize,2011,34.46
+QAT,Qatar,2011,35.27
+JOR,Jordan,2011,35.93
+USA,United States of America,2011,36.41
+EGY,Egypt,2011,36.69
+KNA,Saint Kitts and Nevis,2011,38.02
+BHS,Bahamas,2011,38.97
+PLW,Palau,2011,39.02
+COD,Democratic Republic of the Congo,2011,4.19
+CHN,China,2011,4.22
+TCD,Chad,2011,4.35
+MWI,Malawi,2011,4.26
+LAO,Lao People's Democratic Republic,2011,4.48
+KWT,Kuwait,2011,40.55
+MHL,Marshall Islands,2011,41.63
+FSM,Micronesia (Federated States of),2011,41.92
+PYF,French Polynesia,2011,42.58
+KIR,Kiribati,2011,42.87
+SSD,South Sudan,2011,5.07
+MMR,Myanmar,2011,5.07
+LKA,Sri Lanka,2011,5.35
+PHL,Philippines,2011,5.51
+IDN,Indonesia,2011,5.54
+CAF,Central African Republic,2011,5.64
+GIN,Guinea,2011,5.64
+MOZ,Mozambique,2011,5.79
+SLE,Sierra Leone,2011,5.76
+WSM,Samoa,2011,54.97
+TUV,Tuvalu,2011,58.41
+PRK,Democratic People's Republic of Korea,2011,6.34
+ZMB,Zambia,2011,6.53
+BTN,Bhutan,2011,6.7
+DJI,Djibouti,2011,6.82
+TGO,Togo,2011,6.82
+NIU,Niue,2011,60.67
+COK,Cook Islands,2011,61.78
+TON,Tonga,2011,61.9
+TKL,Tokelau,2011,64.53
+NRU,Nauru,2011,67.13
+TZA,United Republic of Tanzania,2011,7.08
+COG,Congo,2011,7.26
+MLI,Mali,2011,7.34
+SEN,Senegal,2011,7.46
+GNB,Guinea-Bissau,2011,7.62
+SGP,Singapore,2011,7.68
+KEN,Kenya,2011,7.76
+CIV,Cote d'Ivoire,2011,7.93
+BEN,Benin,2011,7.92
+ASM,American Samoa,2011,71.95
+HTI,Haiti,2011,8.1
+AGO,Angola,2011,8.29
+NGA,Nigeria,2011,8.4
+YEM,Yemen,2011,8.78
+GMB,Gambia,2011,8.93
+SOM,Somalia,2011,9.15
+AFG,Afghanistan,2011,9.59
+THA,Thailand,2011,9.56
+ZWE,Zimbabwe,2011,9.74
+LBR,Liberia,2011,9.84
+VNM,Viet Nam,2012,0.84
+TLS,Timor-Leste,2012,1.14
+ETH,Ethiopia,2012,1.47
+THA,Thailand,2012,9.99
+ZWE,Zimbabwe,2012,10.07
+GHA,Ghana,2012,10.24
+AFG,Afghanistan,2012,10.26
+LBR,Liberia,2012,10.28
+COM,Comoros,2012,10.71
+MDV,Maldives,2012,11.22
+CPV,Cabo Verde,2012,11.32
+SDN,Sudan,2012,11.49
+FRA,France,2012,11.73
+STP,Sao Tome and Principe,2012,11.82
+CMR,Cameroon,2012,11.75
+CHE,Switzerland,2012,11.81
+DNK,Denmark,2012,12.55
+PAK,Pakistan,2012,12.74
+NLD,Netherlands (Kingdom of the),2012,13.79
+GNQ,Equatorial Guinea,2012,13.91
+NAM,Namibia,2012,14.02
+AUT,Austria,2012,14.17
+SWE,Sweden,2012,14.63
+BWA,Botswana,2012,14.73
+MNE,Montenegro,2012,14.78
+GAB,Gabon,2012,15.55
+LSO,Lesotho,2012,15.89
+MYS,Malaysia,2012,16.03
+KAZ,Kazakhstan,2012,16.08
+ITA,Italy,2012,16.08
+MRT,Mauritania,2012,16.19
+CUB,Cuba,2012,16.32
+SVN,Slovenia,2012,16.27
+NOR,Norway,2012,16.52
+MUS,Mauritius,2012,16.47
+AND,Andorra,2012,16.67
+MAR,Morocco,2012,16.67
+PNG,Papua New Guinea,2012,16.81
+TJK,Tajikistan,2012,17.11
+TKM,Turkmenistan,2012,17.2
+BIH,Bosnia and Herzegovina,2012,17.32
+ALB,Albania,2012,17.52
+BGR,Bulgaria,2012,17.65
+MNG,Mongolia,2012,17.64
+BEL,Belgium,2012,17.82
+LUX,Luxembourg,2012,18.22
+SRB,Serbia,2012,18.21
+COL,Colombia,2012,18.15
+VUT,Vanuatu,2012,18.48
+PER,Peru,2012,18.46
+ISL,Iceland,2012,18.74
+PRT,Portugal,2012,18.69
+DZA,Algeria,2012,18.76
+ESP,Spain,2012,18.88
+SLB,Solomon Islands,2012,19.08
+BRA,Brazil,2012,19.12
+FIN,Finland,2012,19.33
+IRN,Iran (Islamic Republic of),2012,19.94
+KHM,Cambodia,2012,2.23
+MDG,Madagascar,2012,2.32
+RWA,Rwanda,2012,2.44
+BGD,Bangladesh,2012,2.51
+ERI,Eritrea,2012,2.66
+GTM,Guatemala,2012,19.99
+KGZ,Kyrgyzstan,2012,20.08
+ECU,Ecuador,2012,20.11
+ARM,Armenia,2012,20.32
+BOL,Bolivia (Plurinational State of),2012,20.5
+DEU,Germany,2012,20.47
+SVK,Slovakia,2012,20.78
+EST,Estonia,2012,20.89
+BLR,Belarus,2012,20.96
+UZB,Uzbekistan,2012,21.05
+GUY,Guyana,2012,21.39
+AZE,Azerbaijan,2012,21.43
+CYP,Cyprus,2012,21.56
+LVA,Latvia,2012,21.69
+UKR,Ukraine,2012,21.8
+CZE,Czechia,2012,21.84
+ISR,Israel,2012,21.93
+ROU,Romania,2012,21.92
+TUN,Tunisia,2012,22.04
+MKD,North Macedonia,2012,22.2
+POL,Poland,2012,22.21
+DOM,Dominican Republic,2012,22.3
+RUS,Russian Federation,2012,22.27
+HND,Honduras,2012,22.65
+VEN,Venezuela (Bolivarian Republic of),2012,22.73
+SUR,Suriname,2012,22.8
+MDA,Republic of Moldova,2012,22.92
+LTU,Lithuania,2012,23.0
+HRV,Croatia,2012,22.97
+SWZ,Eswatini,2012,23.18
+BRN,Brunei Darussalam,2012,23.28
+GRL,Greenland,2012,23.25
+GRD,Grenada,2012,23.91
+DMA,Dominica,2012,24.54
+GRC,Greece,2012,24.61
+TTO,Trinidad and Tobago,2012,24.74
+CAN,Canada,2012,24.65
+PRY,Paraguay,2012,24.83
+GBR,United Kingdom of Great Britain and Northern Ireland,2012,24.77
+OMN,Oman,2012,24.86
+CRI,Costa Rica,2012,24.86
+URY,Uruguay,2012,25.01
+IRL,Ireland,2012,25.05
+SYC,Seychelles,2012,25.13
+HUN,Hungary,2012,25.19
+SLV,El Salvador,2012,25.27
+AUS,Australia,2012,25.74
+LCA,Saint Lucia,2012,26.06
+LBN,Lebanon,2012,26.21
+ARG,Argentina,2012,26.26
+BMU,Bermuda,2012,26.38
+JAM,Jamaica,2012,26.38
+VCT,Saint Vincent and the Grenadines,2012,26.56
+PAN,Panama,2012,26.7
+ATG,Antigua and Barbuda,2012,26.79
+GEO,Georgia,2012,27.2
+NIC,Nicaragua,2012,27.5
+FJI,Fiji,2012,28.0
+ZAF,South Africa,2012,28.63
+SYR,Syrian Arab Republic,2012,29.21
+NZL,New Zealand,2012,29.29
+MEX,Mexico,2012,29.33
+CHL,Chile,2012,29.61
+TUR,Türkiye,2012,29.6
+BDI,Burundi,2012,2.97
+NPL,Nepal,2012,3.38
+BFA,Burkina Faso,2012,3.7
+NER,Niger,2012,3.94
+JPN,Japan,2012,3.89
+MLT,Malta,2012,30.31
+BRB,Barbados,2012,30.85
+BHR,Bahrain,2012,31.66
+ARE,United Arab Emirates,2012,31.95
+LBY,Libya,2012,32.0
+PSE,"occupied Palestinian territory, including east Jerusalem",2012,34.18
+IRQ,Iraq,2012,34.38
+PRI,Puerto Rico,2012,34.57
+SAU,Saudi Arabia,2012,35.02
+BLZ,Belize,2012,35.17
+QAT,Qatar,2012,36.11
+JOR,Jordan,2012,36.28
+USA,United States of America,2012,36.93
+EGY,Egypt,2012,37.43
+KNA,Saint Kitts and Nevis,2012,38.74
+PLW,Palau,2012,39.19
+BHS,Bahamas,2012,39.77
+KOR,Republic of Korea,2012,4.1
+IND,India,2012,4.11
+UGA,Uganda,2012,4.17
+COD,Democratic Republic of the Congo,2012,4.36
+TCD,Chad,2012,4.49
+MWI,Malawi,2012,4.5
+CHN,China,2012,4.49
+LAO,Lao People's Democratic Republic,2012,4.72
+KWT,Kuwait,2012,40.69
+MHL,Marshall Islands,2012,41.99
+FSM,Micronesia (Federated States of),2012,42.36
+PYF,French Polynesia,2012,43.03
+KIR,Kiribati,2012,43.18
+MMR,Myanmar,2012,5.24
+SSD,South Sudan,2012,5.3
+LKA,Sri Lanka,2012,5.72
+PHL,Philippines,2012,5.74
+SLE,Sierra Leone,2012,5.84
+CAF,Central African Republic,2012,5.89
+GIN,Guinea,2012,5.9
+IDN,Indonesia,2012,5.93
+WSM,Samoa,2012,55.67
+TUV,Tuvalu,2012,58.89
+MOZ,Mozambique,2012,6.1
+PRK,Democratic People's Republic of Korea,2012,6.65
+ZMB,Zambia,2012,6.84
+NIU,Niue,2012,61.18
+COK,Cook Islands,2012,62.46
+TON,Tonga,2012,62.77
+TKL,Tokelau,2012,65.04
+NRU,Nauru,2012,67.38
+DJI,Djibouti,2012,7.14
+BTN,Bhutan,2012,7.09
+TGO,Togo,2012,7.13
+COG,Congo,2012,7.36
+TZA,United Republic of Tanzania,2012,7.46
+MLI,Mali,2012,7.62
+SEN,Senegal,2012,7.64
+GNB,Guinea-Bissau,2012,7.88
+ASM,American Samoa,2012,72.26
+KEN,Kenya,2012,8.12
+SGP,Singapore,2012,8.07
+BEN,Benin,2012,8.14
+CIV,Cote d'Ivoire,2012,8.17
+HTI,Haiti,2012,8.31
+AGO,Angola,2012,8.52
+NGA,Nigeria,2012,8.67
+YEM,Yemen,2012,9.15
+GMB,Gambia,2012,9.36
+SOM,Somalia,2012,9.56
+VNM,Viet Nam,2013,0.92
+TLS,Timor-Leste,2013,1.22
+ETH,Ethiopia,2013,1.57
+SOM,Somalia,2013,9.97
+ZWE,Zimbabwe,2013,10.4
+THA,Thailand,2013,10.43
+GHA,Ghana,2013,10.45
+LBR,Liberia,2013,10.73
+AFG,Afghanistan,2013,10.98
+COM,Comoros,2013,11.17
+FRA,France,2013,11.53
+CPV,Cabo Verde,2013,11.67
+MDV,Maldives,2013,11.69
+CHE,Switzerland,2013,11.8
+SDN,Sudan,2013,11.92
+CMR,Cameroon,2013,12.01
+STP,Sao Tome and Principe,2013,12.16
+DNK,Denmark,2013,12.58
+PAK,Pakistan,2013,13.58
+NLD,Netherlands (Kingdom of the),2013,13.84
+GNQ,Equatorial Guinea,2013,14.2
+AUT,Austria,2013,14.23
+NAM,Namibia,2013,14.27
+SWE,Sweden,2013,14.67
+BWA,Botswana,2013,15.03
+MNE,Montenegro,2013,15.06
+GAB,Gabon,2013,15.99
+ITA,Italy,2013,16.18
+KAZ,Kazakhstan,2013,16.3
+LSO,Lesotho,2013,16.31
+SVN,Slovenia,2013,16.42
+MYS,Malaysia,2013,16.58
+MRT,Mauritania,2013,16.73
+NOR,Norway,2013,16.75
+MUS,Mauritius,2013,16.68
+AND,Andorra,2013,16.77
+CUB,Cuba,2013,16.82
+PNG,Papua New Guinea,2013,17.11
+MAR,Morocco,2013,17.16
+BIH,Bosnia and Herzegovina,2013,17.64
+TKM,Turkmenistan,2013,17.65
+TJK,Tajikistan,2013,17.76
+BGR,Bulgaria,2013,17.93
+ALB,Albania,2013,18.03
+BEL,Belgium,2013,17.99
+LUX,Luxembourg,2013,18.2
+MNG,Mongolia,2013,18.3
+SRB,Serbia,2013,18.57
+ESP,Spain,2013,18.57
+VUT,Vanuatu,2013,18.68
+COL,Colombia,2013,18.73
+ISL,Iceland,2013,18.94
+PRT,Portugal,2013,18.97
+DZA,Algeria,2013,19.24
+PER,Peru,2013,19.22
+SLB,Solomon Islands,2013,19.38
+FIN,Finland,2013,19.5
+BRA,Brazil,2013,19.92
+KHM,Cambodia,2013,2.39
+MDG,Madagascar,2013,2.45
+RWA,Rwanda,2013,2.62
+BGD,Bangladesh,2013,2.73
+ERI,Eritrea,2013,2.82
+IRN,Iran (Islamic Republic of),2013,20.35
+DEU,Germany,2013,20.45
+GTM,Guatemala,2013,20.66
+KGZ,Kyrgyzstan,2013,20.75
+ARM,Armenia,2013,20.75
+ECU,Ecuador,2013,20.76
+BLR,Belarus,2013,21.04
+EST,Estonia,2013,21.04
+BOL,Bolivia (Plurinational State of),2013,21.23
+SVK,Slovakia,2013,21.31
+CYP,Cyprus,2013,21.67
+LVA,Latvia,2013,21.95
+UKR,Ukraine,2013,21.99
+GUY,Guyana,2013,22.05
+AZE,Azerbaijan,2013,21.95
+UZB,Uzbekistan,2013,21.96
+ISR,Israel,2013,21.97
+CZE,Czechia,2013,22.19
+TUN,Tunisia,2013,22.5
+RUS,Russian Federation,2013,22.48
+MKD,North Macedonia,2013,22.66
+POL,Poland,2013,22.69
+VEN,Venezuela (Bolivarian Republic of),2013,22.83
+MDA,Republic of Moldova,2013,22.96
+DOM,Dominican Republic,2013,22.95
+ROU,Romania,2013,23.03
+LTU,Lithuania,2013,23.22
+HND,Honduras,2013,23.34
+SUR,Suriname,2013,23.38
+GRL,Greenland,2013,23.58
+HRV,Croatia,2013,23.67
+SWZ,Eswatini,2013,23.78
+BRN,Brunei Darussalam,2013,24.08
+GRD,Grenada,2013,24.51
+CAN,Canada,2013,24.81
+GRC,Greece,2013,24.93
+TTO,Trinidad and Tobago,2013,25.03
+GBR,United Kingdom of Great Britain and Northern Ireland,2013,24.97
+DMA,Dominica,2013,25.15
+OMN,Oman,2013,25.32
+IRL,Ireland,2013,25.35
+SYC,Seychelles,2013,25.47
+CRI,Costa Rica,2013,25.51
+PRY,Paraguay,2013,25.57
+URY,Uruguay,2013,25.76
+SLV,El Salvador,2013,25.85
+HUN,Hungary,2013,25.78
+AUS,Australia,2013,26.14
+LBN,Lebanon,2013,26.61
+LCA,Saint Lucia,2013,26.77
+BMU,Bermuda,2013,27.0
+JAM,Jamaica,2013,27.1
+ARG,Argentina,2013,27.07
+VCT,Saint Vincent and the Grenadines,2013,27.19
+ATG,Antigua and Barbuda,2013,27.41
+PAN,Panama,2013,27.61
+GEO,Georgia,2013,27.96
+NIC,Nicaragua,2013,28.13
+FJI,Fiji,2013,28.53
+ZAF,South Africa,2013,28.84
+SYR,Syrian Arab Republic,2013,29.74
+NZL,New Zealand,2013,29.73
+BDI,Burundi,2013,3.11
+NPL,Nepal,2013,3.66
+BFA,Burkina Faso,2013,3.92
+TUR,Türkiye,2013,29.98
+MEX,Mexico,2013,30.01
+MLT,Malta,2013,30.47
+CHL,Chile,2013,30.47
+BRB,Barbados,2013,31.55
+ARE,United Arab Emirates,2013,31.9
+BHR,Bahrain,2013,32.15
+LBY,Libya,2013,32.5
+PSE,"occupied Palestinian territory, including east Jerusalem",2013,34.59
+IRQ,Iraq,2013,35.02
+PRI,Puerto Rico,2013,35.21
+SAU,Saudi Arabia,2013,35.62
+BLZ,Belize,2013,35.87
+JOR,Jordan,2013,36.59
+QAT,Qatar,2013,36.91
+USA,United States of America,2013,37.44
+EGY,Egypt,2013,38.17
+PLW,Palau,2013,39.34
+KNA,Saint Kitts and Nevis,2013,39.44
+JPN,Japan,2013,4.01
+NER,Niger,2013,4.07
+KOR,Republic of Korea,2013,4.32
+UGA,Uganda,2013,4.42
+IND,India,2013,4.36
+COD,Democratic Republic of the Congo,2013,4.53
+TCD,Chad,2013,4.65
+MWI,Malawi,2013,4.75
+CHN,China,2013,4.77
+BHS,Bahamas,2013,40.55
+KWT,Kuwait,2013,40.82
+MHL,Marshall Islands,2013,42.35
+FSM,Micronesia (Federated States of),2013,42.8
+PYF,French Polynesia,2013,43.48
+KIR,Kiribati,2013,43.49
+LAO,Lao People's Democratic Republic,2013,4.97
+MMR,Myanmar,2013,5.42
+SSD,South Sudan,2013,5.55
+SLE,Sierra Leone,2013,5.91
+WSM,Samoa,2013,56.36
+TUV,Tuvalu,2013,59.4
+PHL,Philippines,2013,5.98
+CAF,Central African Republic,2013,6.15
+LKA,Sri Lanka,2013,6.1
+GIN,Guinea,2013,6.17
+IDN,Indonesia,2013,6.34
+MOZ,Mozambique,2013,6.42
+NIU,Niue,2013,61.67
+COK,Cook Islands,2013,63.13
+TON,Tonga,2013,63.66
+TKL,Tokelau,2013,65.59
+NRU,Nauru,2013,67.58
+PRK,Democratic People's Republic of Korea,2013,6.98
+ZMB,Zambia,2013,7.17
+DJI,Djibouti,2013,7.46
+COG,Congo,2013,7.46
+BTN,Bhutan,2013,7.5
+TGO,Togo,2013,7.45
+SEN,Senegal,2013,7.83
+MLI,Mali,2013,7.9
+TZA,United Republic of Tanzania,2013,7.86
+ASM,American Samoa,2013,72.57
+GNB,Guinea-Bissau,2013,8.15
+CIV,Cote d'Ivoire,2013,8.42
+BEN,Benin,2013,8.36
+HTI,Haiti,2013,8.52
+KEN,Kenya,2013,8.48
+SGP,Singapore,2013,8.5
+AGO,Angola,2013,8.76
+NGA,Nigeria,2013,8.93
+YEM,Yemen,2013,9.54
+GMB,Gambia,2013,9.8
+VNM,Viet Nam,2014,1.01
+TLS,Timor-Leste,2014,1.3
+ETH,Ethiopia,2014,1.67
+YEM,Yemen,2014,9.95
+GMB,Gambia,2014,10.27
+SOM,Somalia,2014,10.41
+GHA,Ghana,2014,10.67
+ZWE,Zimbabwe,2014,10.75
+THA,Thailand,2014,10.9
+LBR,Liberia,2014,11.23
+FRA,France,2014,11.32
+COM,Comoros,2014,11.66
+AFG,Afghanistan,2014,11.75
+CHE,Switzerland,2014,11.8
+CPV,Cabo Verde,2014,12.03
+MDV,Maldives,2014,12.19
+CMR,Cameroon,2014,12.27
+SDN,Sudan,2014,12.37
+STP,Sao Tome and Principe,2014,12.53
+DNK,Denmark,2014,12.63
+NLD,Netherlands (Kingdom of the),2014,13.89
+AUT,Austria,2014,14.31
+GNQ,Equatorial Guinea,2014,14.5
+NAM,Namibia,2014,14.52
+PAK,Pakistan,2014,14.47
+SWE,Sweden,2014,14.7
+MNE,Montenegro,2014,15.35
+BWA,Botswana,2014,15.35
+ITA,Italy,2014,16.27
+GAB,Gabon,2014,16.45
+KAZ,Kazakhstan,2014,16.52
+SVN,Slovenia,2014,16.6
+LSO,Lesotho,2014,16.75
+AND,Andorra,2014,16.88
+MUS,Mauritius,2014,16.89
+NOR,Norway,2014,16.99
+MYS,Malaysia,2014,17.14
+MRT,Mauritania,2014,17.29
+CUB,Cuba,2014,17.32
+PNG,Papua New Guinea,2014,17.42
+MAR,Morocco,2014,17.66
+BIH,Bosnia and Herzegovina,2014,17.98
+TKM,Turkmenistan,2014,18.09
+LUX,Luxembourg,2014,18.19
+BEL,Belgium,2014,18.17
+BGR,Bulgaria,2014,18.22
+ESP,Spain,2014,18.23
+TJK,Tajikistan,2014,18.42
+ALB,Albania,2014,18.54
+VUT,Vanuatu,2014,18.91
+SRB,Serbia,2014,18.94
+MNG,Mongolia,2014,18.95
+ISL,Iceland,2014,19.15
+PRT,Portugal,2014,19.24
+COL,Colombia,2014,19.3
+SLB,Solomon Islands,2014,19.7
+DZA,Algeria,2014,19.74
+FIN,Finland,2014,19.68
+MDG,Madagascar,2014,2.6
+KHM,Cambodia,2014,2.56
+RWA,Rwanda,2014,2.81
+PER,Peru,2014,20.01
+DEU,Germany,2014,20.43
+BRA,Brazil,2014,20.75
+IRN,Iran (Islamic Republic of),2014,20.79
+BLR,Belarus,2014,21.1
+ARM,Armenia,2014,21.18
+EST,Estonia,2014,21.17
+GTM,Guatemala,2014,21.33
+KGZ,Kyrgyzstan,2014,21.42
+ECU,Ecuador,2014,21.43
+CYP,Cyprus,2014,21.79
+SVK,Slovakia,2014,21.87
+BOL,Bolivia (Plurinational State of),2014,21.99
+ISR,Israel,2014,22.0
+LVA,Latvia,2014,22.2
+UKR,Ukraine,2014,22.17
+AZE,Azerbaijan,2014,22.47
+CZE,Czechia,2014,22.55
+GUY,Guyana,2014,22.73
+RUS,Russian Federation,2014,22.67
+UZB,Uzbekistan,2014,22.87
+VEN,Venezuela (Bolivarian Republic of),2014,22.9
+TUN,Tunisia,2014,22.98
+MDA,Republic of Moldova,2014,22.99
+MKD,North Macedonia,2014,23.14
+POL,Poland,2014,23.17
+LTU,Lithuania,2014,23.44
+DOM,Dominican Republic,2014,23.62
+GRL,Greenland,2014,23.93
+SUR,Suriname,2014,23.96
+HND,Honduras,2014,24.03
+ROU,Romania,2014,24.16
+SWZ,Eswatini,2014,24.4
+HRV,Croatia,2014,24.37
+BRN,Brunei Darussalam,2014,24.89
+CAN,Canada,2014,24.97
+GRD,Grenada,2014,25.11
+GRC,Greece,2014,25.25
+GBR,United Kingdom of Great Britain and Northern Ireland,2014,25.16
+TTO,Trinidad and Tobago,2014,25.32
+IRL,Ireland,2014,25.66
+DMA,Dominica,2014,25.83
+SYC,Seychelles,2014,25.83
+OMN,Oman,2014,25.9
+CRI,Costa Rica,2014,26.17
+PRY,Paraguay,2014,26.33
+SLV,El Salvador,2014,26.42
+HUN,Hungary,2014,26.39
+URY,Uruguay,2014,26.54
+AUS,Australia,2014,26.55
+LBN,Lebanon,2014,27.0
+LCA,Saint Lucia,2014,27.47
+BMU,Bermuda,2014,27.62
+VCT,Saint Vincent and the Grenadines,2014,27.83
+JAM,Jamaica,2014,27.81
+ARG,Argentina,2014,27.91
+ATG,Antigua and Barbuda,2014,28.03
+PAN,Panama,2014,28.53
+GEO,Georgia,2014,28.72
+NIC,Nicaragua,2014,28.76
+ZAF,South Africa,2014,29.02
+FJI,Fiji,2014,29.07
+ERI,Eritrea,2014,2.98
+BGD,Bangladesh,2014,2.95
+BDI,Burundi,2014,3.26
+NZL,New Zealand,2014,30.16
+SYR,Syrian Arab Republic,2014,30.27
+TUR,Türkiye,2014,30.37
+MLT,Malta,2014,30.63
+MEX,Mexico,2014,30.69
+CHL,Chile,2014,31.35
+ARE,United Arab Emirates,2014,31.89
+BRB,Barbados,2014,32.25
+BHR,Bahrain,2014,32.65
+LBY,Libya,2014,33.0
+PSE,"occupied Palestinian territory, including east Jerusalem",2014,34.99
+IRQ,Iraq,2014,35.67
+PRI,Puerto Rico,2014,35.85
+SAU,Saudi Arabia,2014,36.22
+BLZ,Belize,2014,36.57
+JOR,Jordan,2014,36.87
+QAT,Qatar,2014,37.62
+USA,United States of America,2014,37.94
+EGY,Egypt,2014,38.91
+PLW,Palau,2014,39.5
+NPL,Nepal,2014,3.95
+JPN,Japan,2014,4.14
+BFA,Burkina Faso,2014,4.15
+NER,Niger,2014,4.22
+KOR,Republic of Korea,2014,4.55
+IND,India,2014,4.63
+COD,Democratic Republic of the Congo,2014,4.71
+UGA,Uganda,2014,4.7
+TCD,Chad,2014,4.81
+KNA,Saint Kitts and Nevis,2014,40.13
+KWT,Kuwait,2014,40.92
+BHS,Bahamas,2014,41.31
+MHL,Marshall Islands,2014,42.71
+FSM,Micronesia (Federated States of),2014,43.24
+KIR,Kiribati,2014,43.8
+PYF,French Polynesia,2014,43.95
+MWI,Malawi,2014,5.01
+CHN,China,2014,5.08
+LAO,Lao People's Democratic Republic,2014,5.25
+MMR,Myanmar,2014,5.6
+SSD,South Sudan,2014,5.82
+WSM,Samoa,2014,57.04
+TUV,Tuvalu,2014,59.92
+SLE,Sierra Leone,2014,6.0
+PHL,Philippines,2014,6.23
+CAF,Central African Republic,2014,6.43
+GIN,Guinea,2014,6.45
+LKA,Sri Lanka,2014,6.51
+MOZ,Mozambique,2014,6.76
+IDN,Indonesia,2014,6.79
+NIU,Niue,2014,62.16
+COK,Cook Islands,2014,63.79
+TON,Tonga,2014,64.56
+TKL,Tokelau,2014,66.06
+NRU,Nauru,2014,67.83
+PRK,Democratic People's Republic of Korea,2014,7.33
+ZMB,Zambia,2014,7.52
+COG,Congo,2014,7.56
+DJI,Djibouti,2014,7.81
+TGO,Togo,2014,7.8
+BTN,Bhutan,2014,7.93
+ASM,American Samoa,2014,72.87
+SEN,Senegal,2014,8.03
+MLI,Mali,2014,8.19
+TZA,United Republic of Tanzania,2014,8.29
+GNB,Guinea-Bissau,2014,8.44
+BEN,Benin,2014,8.6
+CIV,Cote d'Ivoire,2014,8.69
+HTI,Haiti,2014,8.73
+KEN,Kenya,2014,8.85
+AGO,Angola,2014,9.0
+SGP,Singapore,2014,8.96
+NGA,Nigeria,2014,9.22
+VNM,Viet Nam,2015,1.11
+TLS,Timor-Leste,2015,1.4
+ETH,Ethiopia,2015,1.78
+YEM,Yemen,2015,10.38
+GMB,Gambia,2015,10.75
+GHA,Ghana,2015,10.9
+SOM,Somalia,2015,10.86
+FRA,France,2015,11.1
+ZWE,Zimbabwe,2015,11.12
+THA,Thailand,2015,11.39
+LBR,Liberia,2015,11.77
+CHE,Switzerland,2015,11.81
+COM,Comoros,2015,12.17
+CPV,Cabo Verde,2015,12.41
+CMR,Cameroon,2015,12.53
+AFG,Afghanistan,2015,12.56
+MDV,Maldives,2015,12.74
+DNK,Denmark,2015,12.68
+SDN,Sudan,2015,12.85
+STP,Sao Tome and Principe,2015,12.92
+NLD,Netherlands (Kingdom of the),2015,13.95
+AUT,Austria,2015,14.4
+SWE,Sweden,2015,14.74
+GNQ,Equatorial Guinea,2015,14.82
+NAM,Namibia,2015,14.78
+PAK,Pakistan,2015,15.42
+MNE,Montenegro,2015,15.64
+BWA,Botswana,2015,15.67
+ITA,Italy,2015,16.38
+KAZ,Kazakhstan,2015,16.75
+SVN,Slovenia,2015,16.82
+GAB,Gabon,2015,16.94
+AND,Andorra,2015,16.99
+MUS,Mauritius,2015,17.12
+NOR,Norway,2015,17.23
+LSO,Lesotho,2015,17.21
+PNG,Papua New Guinea,2015,17.75
+MYS,Malaysia,2015,17.72
+CUB,Cuba,2015,17.84
+MRT,Mauritania,2015,17.87
+ESP,Spain,2015,17.89
+LUX,Luxembourg,2015,18.19
+MAR,Morocco,2015,18.18
+BIH,Bosnia and Herzegovina,2015,18.32
+BEL,Belgium,2015,18.36
+BGR,Bulgaria,2015,18.51
+TKM,Turkmenistan,2015,18.52
+VUT,Vanuatu,2015,19.15
+TJK,Tajikistan,2015,19.09
+ALB,Albania,2015,19.09
+SRB,Serbia,2015,19.33
+ISL,Iceland,2015,19.38
+PRT,Portugal,2015,19.53
+MNG,Mongolia,2015,19.61
+FIN,Finland,2015,19.87
+COL,Colombia,2015,19.85
+KHM,Cambodia,2015,2.74
+MDG,Madagascar,2015,2.75
+SLB,Solomon Islands,2015,20.03
+DZA,Algeria,2015,20.25
+DEU,Germany,2015,20.41
+PER,Peru,2015,20.82
+BLR,Belarus,2015,21.16
+EST,Estonia,2015,21.3
+IRN,Iran (Islamic Republic of),2015,21.26
+ARM,Armenia,2015,21.6
+BRA,Brazil,2015,21.61
+CYP,Cyprus,2015,21.9
+GTM,Guatemala,2015,22.0
+ISR,Israel,2015,22.04
+KGZ,Kyrgyzstan,2015,22.09
+ECU,Ecuador,2015,22.11
+UKR,Ukraine,2015,22.35
+SVK,Slovakia,2015,22.44
+LVA,Latvia,2015,22.46
+BOL,Bolivia (Plurinational State of),2015,22.76
+RUS,Russian Federation,2015,22.86
+VEN,Venezuela (Bolivarian Republic of),2015,22.94
+CZE,Czechia,2015,22.94
+AZE,Azerbaijan,2015,22.98
+MDA,Republic of Moldova,2015,23.02
+GUY,Guyana,2015,23.43
+TUN,Tunisia,2015,23.47
+MKD,North Macedonia,2015,23.64
+LTU,Lithuania,2015,23.67
+POL,Poland,2015,23.68
+UZB,Uzbekistan,2015,23.78
+GRL,Greenland,2015,24.28
+DOM,Dominican Republic,2015,24.3
+SUR,Suriname,2015,24.55
+HND,Honduras,2015,24.71
+SWZ,Eswatini,2015,25.03
+HRV,Croatia,2015,25.1
+CAN,Canada,2015,25.12
+ROU,Romania,2015,25.32
+GBR,United Kingdom of Great Britain and Northern Ireland,2015,25.36
+TTO,Trinidad and Tobago,2015,25.63
+GRC,Greece,2015,25.57
+GRD,Grenada,2015,25.72
+BRN,Brunei Darussalam,2015,25.72
+IRL,Ireland,2015,25.98
+SYC,Seychelles,2015,26.21
+DMA,Dominica,2015,26.52
+OMN,Oman,2015,26.51
+CRI,Costa Rica,2015,26.81
+SLV,El Salvador,2015,26.98
+HUN,Hungary,2015,27.01
+AUS,Australia,2015,26.98
+PRY,Paraguay,2015,27.11
+URY,Uruguay,2015,27.33
+LBN,Lebanon,2015,27.38
+BMU,Bermuda,2015,28.24
+LCA,Saint Lucia,2015,28.19
+VCT,Saint Vincent and the Grenadines,2015,28.47
+JAM,Jamaica,2015,28.53
+ATG,Antigua and Barbuda,2015,28.66
+ARG,Argentina,2015,28.77
+ZAF,South Africa,2015,29.17
+NIC,Nicaragua,2015,29.38
+GEO,Georgia,2015,29.49
+PAN,Panama,2015,29.45
+FJI,Fiji,2015,29.63
+RWA,Rwanda,2015,3.01
+ERI,Eritrea,2015,3.16
+BGD,Bangladesh,2015,3.2
+BDI,Burundi,2015,3.42
+NZL,New Zealand,2015,30.59
+SYR,Syrian Arab Republic,2015,30.8
+MLT,Malta,2015,30.79
+TUR,Türkiye,2015,30.76
+MEX,Mexico,2015,31.36
+ARE,United Arab Emirates,2015,31.91
+CHL,Chile,2015,32.25
+BRB,Barbados,2015,32.95
+BHR,Bahrain,2015,33.14
+LBY,Libya,2015,33.51
+PSE,"occupied Palestinian territory, including east Jerusalem",2015,35.38
+IRQ,Iraq,2015,36.32
+PRI,Puerto Rico,2015,36.49
+SAU,Saudi Arabia,2015,36.82
+JOR,Jordan,2015,37.15
+BLZ,Belize,2015,37.28
+QAT,Qatar,2015,38.3
+USA,United States of America,2015,38.45
+EGY,Egypt,2015,39.65
+PLW,Palau,2015,39.67
+NPL,Nepal,2015,4.27
+JPN,Japan,2015,4.28
+NER,Niger,2015,4.39
+BFA,Burkina Faso,2015,4.41
+KOR,Republic of Korea,2015,4.81
+COD,Democratic Republic of the Congo,2015,4.91
+IND,India,2015,4.91
+KNA,Saint Kitts and Nevis,2015,40.83
+KWT,Kuwait,2015,40.86
+BHS,Bahamas,2015,42.07
+MHL,Marshall Islands,2015,43.09
+FSM,Micronesia (Federated States of),2015,43.69
+KIR,Kiribati,2015,44.1
+PYF,French Polynesia,2015,44.44
+TCD,Chad,2015,4.98
+UGA,Uganda,2015,4.99
+MWI,Malawi,2015,5.29
+CHN,China,2015,5.4
+LAO,Lao People's Democratic Republic,2015,5.53
+MMR,Myanmar,2015,5.8
+WSM,Samoa,2015,57.73
+SSD,South Sudan,2015,6.1
+SLE,Sierra Leone,2015,6.09
+PHL,Philippines,2015,6.5
+CAF,Central African Republic,2015,6.72
+GIN,Guinea,2015,6.76
+LKA,Sri Lanka,2015,6.94
+TUV,Tuvalu,2015,60.44
+NIU,Niue,2015,62.67
+COK,Cook Islands,2015,64.45
+TON,Tonga,2015,65.47
+TKL,Tokelau,2015,66.5
+NRU,Nauru,2015,68.12
+MOZ,Mozambique,2015,7.11
+IDN,Indonesia,2015,7.26
+PRK,Democratic People's Republic of Korea,2015,7.7
+COG,Congo,2015,7.66
+ZMB,Zambia,2015,7.88
+ASM,American Samoa,2015,73.17
+DJI,Djibouti,2015,8.17
+TGO,Togo,2015,8.17
+SEN,Senegal,2015,8.25
+BTN,Bhutan,2015,8.39
+MLI,Mali,2015,8.51
+GNB,Guinea-Bissau,2015,8.74
+TZA,United Republic of Tanzania,2015,8.74
+BEN,Benin,2015,8.85
+HTI,Haiti,2015,8.95
+CIV,Cote d'Ivoire,2015,8.98
+KEN,Kenya,2015,9.24
+AGO,Angola,2015,9.26
+SGP,Singapore,2015,9.46
+NGA,Nigeria,2015,9.53
+VNM,Viet Nam,2016,1.21
+TLS,Timor-Leste,2016,1.5
+ETH,Ethiopia,2016,1.9
+SGP,Singapore,2016,9.99
+YEM,Yemen,2016,10.83
+FRA,France,2016,10.89
+GHA,Ghana,2016,11.15
+SOM,Somalia,2016,11.33
+GMB,Gambia,2016,11.27
+ZWE,Zimbabwe,2016,11.5
+CHE,Switzerland,2016,11.84
+THA,Thailand,2016,11.9
+LBR,Liberia,2016,12.36
+COM,Comoros,2016,12.69
+DNK,Denmark,2016,12.75
+CPV,Cabo Verde,2016,12.83
+CMR,Cameroon,2016,12.82
+SDN,Sudan,2016,13.35
+STP,Sao Tome and Principe,2016,13.34
+MDV,Maldives,2016,13.32
+AFG,Afghanistan,2016,13.43
+NLD,Netherlands (Kingdom of the),2016,14.02
+AUT,Austria,2016,14.52
+SWE,Sweden,2016,14.8
+NAM,Namibia,2016,15.05
+GNQ,Equatorial Guinea,2016,15.16
+MNE,Montenegro,2016,15.95
+BWA,Botswana,2016,16.0
+PAK,Pakistan,2016,16.42
+ITA,Italy,2016,16.49
+KAZ,Kazakhstan,2016,16.98
+AND,Andorra,2016,17.12
+SVN,Slovenia,2016,17.08
+MUS,Mauritius,2016,17.37
+GAB,Gabon,2016,17.45
+NOR,Norway,2016,17.48
+ESP,Spain,2016,17.54
+LSO,Lesotho,2016,17.68
+PNG,Papua New Guinea,2016,18.09
+LUX,Luxembourg,2016,18.2
+MYS,Malaysia,2016,18.31
+CUB,Cuba,2016,18.37
+MRT,Mauritania,2016,18.49
+BEL,Belgium,2016,18.57
+BIH,Bosnia and Herzegovina,2016,18.69
+MAR,Morocco,2016,18.71
+BGR,Bulgaria,2016,18.8
+TKM,Turkmenistan,2016,18.95
+VUT,Vanuatu,2016,19.41
+ISL,Iceland,2016,19.62
+ALB,Albania,2016,19.65
+SRB,Serbia,2016,19.74
+TJK,Tajikistan,2016,19.76
+PRT,Portugal,2016,19.82
+MDG,Madagascar,2016,2.92
+KHM,Cambodia,2016,2.93
+FIN,Finland,2016,20.08
+MNG,Mongolia,2016,20.26
+SLB,Solomon Islands,2016,20.36
+DEU,Germany,2016,20.4
+COL,Colombia,2016,20.4
+DZA,Algeria,2016,20.78
+BLR,Belarus,2016,21.2
+EST,Estonia,2016,21.43
+PER,Peru,2016,21.67
+IRN,Iran (Islamic Republic of),2016,21.77
+CYP,Cyprus,2016,22.03
+ARM,Armenia,2016,22.02
+ISR,Israel,2016,22.08
+UKR,Ukraine,2016,22.53
+BRA,Brazil,2016,22.49
+LVA,Latvia,2016,22.72
+KGZ,Kyrgyzstan,2016,22.75
+GTM,Guatemala,2016,22.67
+ECU,Ecuador,2016,22.8
+VEN,Venezuela (Bolivarian Republic of),2016,22.94
+SVK,Slovakia,2016,23.03
+RUS,Russian Federation,2016,23.04
+MDA,Republic of Moldova,2016,23.03
+CZE,Czechia,2016,23.35
+AZE,Azerbaijan,2016,23.5
+BOL,Bolivia (Plurinational State of),2016,23.55
+LTU,Lithuania,2016,23.9
+TUN,Tunisia,2016,23.97
+GUY,Guyana,2016,24.14
+MKD,North Macedonia,2016,24.16
+POL,Poland,2016,24.2
+GRL,Greenland,2016,24.65
+UZB,Uzbekistan,2016,24.69
+DOM,Dominican Republic,2016,24.99
+SUR,Suriname,2016,25.16
+CAN,Canada,2016,25.28
+HND,Honduras,2016,25.39
+GBR,United Kingdom of Great Britain and Northern Ireland,2016,25.56
+SWZ,Eswatini,2016,25.69
+HRV,Croatia,2016,25.84
+TTO,Trinidad and Tobago,2016,25.95
+GRC,Greece,2016,25.89
+GRD,Grenada,2016,26.34
+IRL,Ireland,2016,26.3
+ROU,Romania,2016,26.52
+SYC,Seychelles,2016,26.6
+BRN,Brunei Darussalam,2016,26.57
+OMN,Oman,2016,27.11
+DMA,Dominica,2016,27.16
+AUS,Australia,2016,27.42
+SLV,El Salvador,2016,27.54
+CRI,Costa Rica,2016,27.46
+HUN,Hungary,2016,27.65
+LBN,Lebanon,2016,27.75
+PRY,Paraguay,2016,27.91
+URY,Uruguay,2016,28.15
+BMU,Bermuda,2016,28.89
+LCA,Saint Lucia,2016,28.91
+VCT,Saint Vincent and the Grenadines,2016,29.13
+ATG,Antigua and Barbuda,2016,29.3
+JAM,Jamaica,2016,29.27
+ZAF,South Africa,2016,29.39
+ARG,Argentina,2016,29.66
+RWA,Rwanda,2016,3.23
+ERI,Eritrea,2016,3.36
+BGD,Bangladesh,2016,3.46
+BDI,Burundi,2016,3.59
+NIC,Nicaragua,2016,29.99
+FJI,Fiji,2016,30.2
+GEO,Georgia,2016,30.25
+PAN,Panama,2016,30.38
+MLT,Malta,2016,30.97
+NZL,New Zealand,2016,31.02
+TUR,Türkiye,2016,31.17
+SYR,Syrian Arab Republic,2016,31.32
+ARE,United Arab Emirates,2016,31.96
+MEX,Mexico,2016,32.03
+CHL,Chile,2016,33.17
+BHR,Bahrain,2016,33.62
+BRB,Barbados,2016,33.67
+LBY,Libya,2016,34.03
+PSE,"occupied Palestinian territory, including east Jerusalem",2016,35.77
+IRQ,Iraq,2016,36.97
+PRI,Puerto Rico,2016,37.14
+SAU,Saudi Arabia,2016,37.42
+JOR,Jordan,2016,37.43
+BLZ,Belize,2016,37.99
+USA,United States of America,2016,38.96
+QAT,Qatar,2016,39.08
+PLW,Palau,2016,39.85
+JPN,Japan,2016,4.44
+NER,Niger,2016,4.57
+NPL,Nepal,2016,4.61
+BFA,Burkina Faso,2016,4.68
+EGY,Egypt,2016,40.38
+KWT,Kuwait,2016,40.93
+KNA,Saint Kitts and Nevis,2016,41.53
+BHS,Bahamas,2016,42.83
+MHL,Marshall Islands,2016,43.46
+FSM,Micronesia (Federated States of),2016,44.15
+KIR,Kiribati,2016,44.41
+PYF,French Polynesia,2016,44.94
+COD,Democratic Republic of the Congo,2016,5.12
+KOR,Republic of Korea,2016,5.09
+TCD,Chad,2016,5.17
+IND,India,2016,5.21
+UGA,Uganda,2016,5.32
+MWI,Malawi,2016,5.58
+CHN,China,2016,5.75
+LAO,Lao People's Democratic Republic,2016,5.84
+WSM,Samoa,2016,58.41
+MMR,Myanmar,2016,6.0
+SLE,Sierra Leone,2016,6.21
+SSD,South Sudan,2016,6.41
+PHL,Philippines,2016,6.78
+TUV,Tuvalu,2016,60.95
+NIU,Niue,2016,63.2
+COK,Cook Islands,2016,65.11
+TON,Tonga,2016,66.38
+TKL,Tokelau,2016,66.94
+NRU,Nauru,2016,68.42
+CAF,Central African Republic,2016,7.03
+GIN,Guinea,2016,7.08
+LKA,Sri Lanka,2016,7.39
+MOZ,Mozambique,2016,7.49
+COG,Congo,2016,7.76
+IDN,Indonesia,2016,7.75
+ASM,American Samoa,2016,73.48
+PRK,Democratic People's Republic of Korea,2016,8.09
+ZMB,Zambia,2016,8.27
+SEN,Senegal,2016,8.48
+DJI,Djibouti,2016,8.56
+TGO,Togo,2016,8.57
+MLI,Mali,2016,8.85
+BTN,Bhutan,2016,8.88
+GNB,Guinea-Bissau,2016,9.07
+BEN,Benin,2016,9.12
+HTI,Haiti,2016,9.17
+TZA,United Republic of Tanzania,2016,9.22
+CIV,Cote d'Ivoire,2016,9.29
+AGO,Angola,2016,9.53
+KEN,Kenya,2016,9.64
+NGA,Nigeria,2016,9.87
+VNM,Viet Nam,2017,1.32
+TLS,Timor-Leste,2017,1.62
+KEN,Kenya,2017,10.06
+NGA,Nigeria,2017,10.22
+SGP,Singapore,2017,10.55
+FRA,France,2017,10.68
+YEM,Yemen,2017,11.28
+GHA,Ghana,2017,11.41
+GMB,Gambia,2017,11.81
+SOM,Somalia,2017,11.83
+ZWE,Zimbabwe,2017,11.91
+CHE,Switzerland,2017,11.87
+THA,Thailand,2017,12.43
+DNK,Denmark,2017,12.82
+LBR,Liberia,2017,13.0
+CMR,Cameroon,2017,13.12
+COM,Comoros,2017,13.24
+CPV,Cabo Verde,2017,13.26
+STP,Sao Tome and Principe,2017,13.79
+SDN,Sudan,2017,13.88
+MDV,Maldives,2017,13.92
+NLD,Netherlands (Kingdom of the),2017,14.09
+AFG,Afghanistan,2017,14.33
+AUT,Austria,2017,14.64
+SWE,Sweden,2017,14.86
+NAM,Namibia,2017,15.33
+GNQ,Equatorial Guinea,2017,15.52
+MNE,Montenegro,2017,16.26
+BWA,Botswana,2017,16.35
+ITA,Italy,2017,16.61
+ESP,Spain,2017,17.21
+KAZ,Kazakhstan,2017,17.2
+AND,Andorra,2017,17.26
+SVN,Slovenia,2017,17.38
+PAK,Pakistan,2017,17.46
+MUS,Mauritius,2017,17.63
+NOR,Norway,2017,17.74
+GAB,Gabon,2017,17.99
+LUX,Luxembourg,2017,18.22
+LSO,Lesotho,2017,18.18
+PNG,Papua New Guinea,2017,18.46
+BEL,Belgium,2017,18.79
+CUB,Cuba,2017,18.91
+MYS,Malaysia,2017,18.91
+BIH,Bosnia and Herzegovina,2017,19.07
+MRT,Mauritania,2017,19.13
+BGR,Bulgaria,2017,19.09
+MAR,Morocco,2017,19.23
+TKM,Turkmenistan,2017,19.36
+VUT,Vanuatu,2017,19.68
+ISL,Iceland,2017,19.87
+ETH,Ethiopia,2017,2.03
+PRT,Portugal,2017,20.12
+SRB,Serbia,2017,20.17
+ALB,Albania,2017,20.23
+FIN,Finland,2017,20.3
+TJK,Tajikistan,2017,20.44
+DEU,Germany,2017,20.39
+SLB,Solomon Islands,2017,20.71
+MNG,Mongolia,2017,20.9
+COL,Colombia,2017,20.93
+BLR,Belarus,2017,21.23
+DZA,Algeria,2017,21.29
+EST,Estonia,2017,21.55
+ISR,Israel,2017,22.13
+CYP,Cyprus,2017,22.16
+IRN,Iran (Islamic Republic of),2017,22.24
+ARM,Armenia,2017,22.43
+PER,Peru,2017,22.55
+UKR,Ukraine,2017,22.7
+VEN,Venezuela (Bolivarian Republic of),2017,22.92
+LVA,Latvia,2017,22.97
+MDA,Republic of Moldova,2017,23.03
+RUS,Russian Federation,2017,23.23
+GTM,Guatemala,2017,23.34
+KGZ,Kyrgyzstan,2017,23.4
+BRA,Brazil,2017,23.39
+ECU,Ecuador,2017,23.52
+SVK,Slovakia,2017,23.63
+CZE,Czechia,2017,23.77
+AZE,Azerbaijan,2017,24.0
+LTU,Lithuania,2017,24.13
+BOL,Bolivia (Plurinational State of),2017,24.36
+TUN,Tunisia,2017,24.46
+MKD,North Macedonia,2017,24.69
+POL,Poland,2017,24.73
+GUY,Guyana,2017,24.87
+GRL,Greenland,2017,25.04
+CAN,Canada,2017,25.43
+UZB,Uzbekistan,2017,25.59
+DOM,Dominican Republic,2017,25.7
+SUR,Suriname,2017,25.77
+GBR,United Kingdom of Great Britain and Northern Ireland,2017,25.77
+HND,Honduras,2017,26.07
+GRC,Greece,2017,26.22
+TTO,Trinidad and Tobago,2017,26.28
+SWZ,Eswatini,2017,26.36
+IRL,Ireland,2017,26.63
+HRV,Croatia,2017,26.6
+GRD,Grenada,2017,26.98
+SYC,Seychelles,2017,27.01
+BRN,Brunei Darussalam,2017,27.42
+OMN,Oman,2017,27.71
+ROU,Romania,2017,27.73
+DMA,Dominica,2017,27.83
+AUS,Australia,2017,27.88
+SLV,El Salvador,2017,28.1
+LBN,Lebanon,2017,28.1
+CRI,Costa Rica,2017,28.1
+HUN,Hungary,2017,28.3
+PRY,Paraguay,2017,28.72
+URY,Uruguay,2017,28.98
+BMU,Bermuda,2017,29.55
+LCA,Saint Lucia,2017,29.64
+ZAF,South Africa,2017,29.64
+VCT,Saint Vincent and the Grenadines,2017,29.8
+ATG,Antigua and Barbuda,2017,29.94
+MDG,Madagascar,2017,3.1
+KHM,Cambodia,2017,3.14
+RWA,Rwanda,2017,3.47
+ERI,Eritrea,2017,3.56
+BGD,Bangladesh,2017,3.73
+BDI,Burundi,2017,3.79
+JAM,Jamaica,2017,30.0
+NIC,Nicaragua,2017,30.59
+ARG,Argentina,2017,30.57
+FJI,Fiji,2017,30.78
+GEO,Georgia,2017,31.0
+MLT,Malta,2017,31.17
+PAN,Panama,2017,31.32
+NZL,New Zealand,2017,31.46
+TUR,Türkiye,2017,31.56
+SYR,Syrian Arab Republic,2017,31.81
+ARE,United Arab Emirates,2017,32.0
+MEX,Mexico,2017,32.69
+BHR,Bahrain,2017,34.06
+CHL,Chile,2017,34.1
+BRB,Barbados,2017,34.39
+LBY,Libya,2017,34.52
+PSE,"occupied Palestinian territory, including east Jerusalem",2017,36.12
+IRQ,Iraq,2017,37.6
+JOR,Jordan,2017,37.66
+PRI,Puerto Rico,2017,37.79
+SAU,Saudi Arabia,2017,38.0
+BLZ,Belize,2017,38.7
+USA,United States of America,2017,39.47
+QAT,Qatar,2017,39.88
+JPN,Japan,2017,4.59
+NER,Niger,2017,4.76
+PLW,Palau,2017,40.03
+KWT,Kuwait,2017,41.05
+EGY,Egypt,2017,41.08
+KNA,Saint Kitts and Nevis,2017,42.22
+BHS,Bahamas,2017,43.57
+MHL,Marshall Islands,2017,43.86
+FSM,Micronesia (Federated States of),2017,44.63
+KIR,Kiribati,2017,44.72
+PYF,French Polynesia,2017,45.45
+BFA,Burkina Faso,2017,4.97
+NPL,Nepal,2017,4.97
+COD,Democratic Republic of the Congo,2017,5.34
+TCD,Chad,2017,5.38
+KOR,Republic of Korea,2017,5.4
+IND,India,2017,5.52
+UGA,Uganda,2017,5.66
+MWI,Malawi,2017,5.89
+WSM,Samoa,2017,59.09
+CHN,China,2017,6.11
+LAO,Lao People's Democratic Republic,2017,6.16
+MMR,Myanmar,2017,6.22
+SLE,Sierra Leone,2017,6.33
+SSD,South Sudan,2017,6.74
+TUV,Tuvalu,2017,61.45
+NIU,Niue,2017,63.72
+COK,Cook Islands,2017,65.77
+TON,Tonga,2017,67.29
+TKL,Tokelau,2017,67.39
+NRU,Nauru,2017,68.72
+PHL,Philippines,2017,7.07
+CAF,Central African Republic,2017,7.35
+GIN,Guinea,2017,7.44
+COG,Congo,2017,7.87
+MOZ,Mozambique,2017,7.89
+LKA,Sri Lanka,2017,7.87
+ASM,American Samoa,2017,73.79
+IDN,Indonesia,2017,8.28
+PRK,Democratic People's Republic of Korea,2017,8.5
+SEN,Senegal,2017,8.73
+ZMB,Zambia,2017,8.68
+DJI,Djibouti,2017,8.97
+TGO,Togo,2017,9.0
+MLI,Mali,2017,9.21
+GNB,Guinea-Bissau,2017,9.41
+HTI,Haiti,2017,9.41
+BTN,Bhutan,2017,9.38
+BEN,Benin,2017,9.41
+CIV,Cote d'Ivoire,2017,9.62
+TZA,United Republic of Tanzania,2017,9.72
+AGO,Angola,2017,9.82
+VNM,Viet Nam,2018,1.44
+TLS,Timor-Leste,2018,1.74
+CIV,Cote d'Ivoire,2018,9.98
+AGO,Angola,2018,10.12
+TZA,United Republic of Tanzania,2018,10.24
+KEN,Kenya,2018,10.49
+FRA,France,2018,10.47
+NGA,Nigeria,2018,10.6
+SGP,Singapore,2018,11.15
+GHA,Ghana,2018,11.69
+YEM,Yemen,2018,11.73
+CHE,Switzerland,2018,11.9
+ZWE,Zimbabwe,2018,12.33
+SOM,Somalia,2018,12.34
+GMB,Gambia,2018,12.38
+DNK,Denmark,2018,12.9
+THA,Thailand,2018,12.98
+CMR,Cameroon,2018,13.44
+CPV,Cabo Verde,2018,13.71
+LBR,Liberia,2018,13.69
+COM,Comoros,2018,13.8
+NLD,Netherlands (Kingdom of the),2018,14.17
+STP,Sao Tome and Principe,2018,14.27
+SDN,Sudan,2018,14.44
+MDV,Maldives,2018,14.55
+AUT,Austria,2018,14.77
+SWE,Sweden,2018,14.93
+AFG,Afghanistan,2018,15.26
+NAM,Namibia,2018,15.63
+GNQ,Equatorial Guinea,2018,15.89
+MNE,Montenegro,2018,16.58
+BWA,Botswana,2018,16.7
+ITA,Italy,2018,16.73
+ESP,Spain,2018,16.87
+AND,Andorra,2018,17.4
+KAZ,Kazakhstan,2018,17.42
+SVN,Slovenia,2018,17.71
+MUS,Mauritius,2018,17.92
+NOR,Norway,2018,18.01
+LUX,Luxembourg,2018,18.25
+PAK,Pakistan,2018,18.52
+GAB,Gabon,2018,18.55
+LSO,Lesotho,2018,18.7
+PNG,Papua New Guinea,2018,18.83
+BEL,Belgium,2018,19.01
+BGR,Bulgaria,2018,19.37
+BIH,Bosnia and Herzegovina,2018,19.46
+CUB,Cuba,2018,19.46
+MYS,Malaysia,2018,19.52
+MAR,Morocco,2018,19.74
+MRT,Mauritania,2018,19.8
+TKM,Turkmenistan,2018,19.77
+ETH,Ethiopia,2018,2.16
+VUT,Vanuatu,2018,19.97
+ISL,Iceland,2018,20.13
+PRT,Portugal,2018,20.43
+DEU,Germany,2018,20.38
+FIN,Finland,2018,20.52
+SRB,Serbia,2018,20.6
+ALB,Albania,2018,20.82
+SLB,Solomon Islands,2018,21.06
+TJK,Tajikistan,2018,21.1
+BLR,Belarus,2018,21.26
+MNG,Mongolia,2018,21.53
+COL,Colombia,2018,21.45
+EST,Estonia,2018,21.67
+DZA,Algeria,2018,21.79
+ISR,Israel,2018,22.19
+CYP,Cyprus,2018,22.29
+IRN,Iran (Islamic Republic of),2018,22.66
+ARM,Armenia,2018,22.84
+UKR,Ukraine,2018,22.87
+VEN,Venezuela (Bolivarian Republic of),2018,22.88
+MDA,Republic of Moldova,2018,23.02
+LVA,Latvia,2018,23.22
+RUS,Russian Federation,2018,23.41
+PER,Peru,2018,23.45
+KGZ,Kyrgyzstan,2018,24.04
+GTM,Guatemala,2018,24.02
+SVK,Slovakia,2018,24.24
+CZE,Czechia,2018,24.19
+ECU,Ecuador,2018,24.25
+BRA,Brazil,2018,24.3
+LTU,Lithuania,2018,24.36
+AZE,Azerbaijan,2018,24.5
+TUN,Tunisia,2018,24.92
+MKD,North Macedonia,2018,25.23
+BOL,Bolivia (Plurinational State of),2018,25.18
+POL,Poland,2018,25.26
+GRL,Greenland,2018,25.42
+GUY,Guyana,2018,25.5
+CAN,Canada,2018,25.57
+GBR,United Kingdom of Great Britain and Northern Ireland,2018,25.97
+SUR,Suriname,2018,26.4
+DOM,Dominican Republic,2018,26.4
+GRC,Greece,2018,26.54
+UZB,Uzbekistan,2018,26.48
+TTO,Trinidad and Tobago,2018,26.59
+HND,Honduras,2018,26.74
+SWZ,Eswatini,2018,27.04
+IRL,Ireland,2018,26.96
+SYC,Seychelles,2018,27.44
+HRV,Croatia,2018,27.37
+GRD,Grenada,2018,27.61
+BRN,Brunei Darussalam,2018,28.27
+OMN,Oman,2018,28.33
+AUS,Australia,2018,28.34
+LBN,Lebanon,2018,28.41
+DMA,Dominica,2018,28.51
+SLV,El Salvador,2018,28.65
+CRI,Costa Rica,2018,28.74
+ROU,Romania,2018,28.96
+HUN,Hungary,2018,28.96
+PRY,Paraguay,2018,29.54
+URY,Uruguay,2018,29.82
+ZAF,South Africa,2018,29.86
+MDG,Madagascar,2018,3.3
+KHM,Cambodia,2018,3.36
+RWA,Rwanda,2018,3.72
+ERI,Eritrea,2018,3.78
+BMU,Bermuda,2018,30.22
+LCA,Saint Lucia,2018,30.37
+VCT,Saint Vincent and the Grenadines,2018,30.47
+ATG,Antigua and Barbuda,2018,30.59
+JAM,Jamaica,2018,30.75
+NIC,Nicaragua,2018,31.19
+FJI,Fiji,2018,31.37
+MLT,Malta,2018,31.37
+ARG,Argentina,2018,31.49
+GEO,Georgia,2018,31.73
+TUR,Türkiye,2018,31.92
+NZL,New Zealand,2018,31.88
+ARE,United Arab Emirates,2018,32.0
+SYR,Syrian Arab Republic,2018,32.25
+PAN,Panama,2018,32.25
+MEX,Mexico,2018,33.34
+BHR,Bahrain,2018,34.48
+LBY,Libya,2018,34.96
+CHL,Chile,2018,35.04
+BRB,Barbados,2018,35.1
+PSE,"occupied Palestinian territory, including east Jerusalem",2018,36.43
+JOR,Jordan,2018,37.84
+IRQ,Iraq,2018,38.18
+PRI,Puerto Rico,2018,38.45
+SAU,Saudi Arabia,2018,38.54
+BLZ,Belize,2018,39.41
+BDI,Burundi,2018,4.0
+BGD,Bangladesh,2018,4.02
+JPN,Japan,2018,4.76
+USA,United States of America,2018,39.97
+PLW,Palau,2018,40.23
+QAT,Qatar,2018,40.62
+KWT,Kuwait,2018,41.05
+EGY,Egypt,2018,41.74
+KNA,Saint Kitts and Nevis,2018,42.91
+MHL,Marshall Islands,2018,44.24
+BHS,Bahamas,2018,44.31
+KIR,Kiribati,2018,45.03
+FSM,Micronesia (Federated States of),2018,45.11
+PYF,French Polynesia,2018,45.96
+NER,Niger,2018,4.97
+BFA,Burkina Faso,2018,5.28
+NPL,Nepal,2018,5.34
+TCD,Chad,2018,5.6
+COD,Democratic Republic of the Congo,2018,5.57
+KOR,Republic of Korea,2018,5.73
+IND,India,2018,5.85
+WSM,Samoa,2018,59.77
+UGA,Uganda,2018,6.04
+MWI,Malawi,2018,6.23
+MMR,Myanmar,2018,6.44
+LAO,Lao People's Democratic Republic,2018,6.5
+SLE,Sierra Leone,2018,6.47
+CHN,China,2018,6.49
+TUV,Tuvalu,2018,62.01
+NIU,Niue,2018,64.25
+COK,Cook Islands,2018,66.41
+TKL,Tokelau,2018,67.91
+TON,Tonga,2018,68.18
+NRU,Nauru,2018,68.97
+SSD,South Sudan,2018,7.08
+PHL,Philippines,2018,7.38
+CAF,Central African Republic,2018,7.7
+GIN,Guinea,2018,7.81
+ASM,American Samoa,2018,74.08
+COG,Congo,2018,7.98
+MOZ,Mozambique,2018,8.31
+LKA,Sri Lanka,2018,8.37
+IDN,Indonesia,2018,8.82
+PRK,Democratic People's Republic of Korea,2018,8.92
+SEN,Senegal,2018,8.99
+ZMB,Zambia,2018,9.1
+DJI,Djibouti,2018,9.4
+TGO,Togo,2018,9.46
+MLI,Mali,2018,9.6
+HTI,Haiti,2018,9.65
+BEN,Benin,2018,9.72
+GNB,Guinea-Bissau,2018,9.78
+BTN,Bhutan,2018,9.91
+VNM,Viet Nam,2019,1.57
+TLS,Timor-Leste,2019,1.88
+MLI,Mali,2019,10.01
+BEN,Benin,2019,10.05
+GNB,Guinea-Bissau,2019,10.17
+FRA,France,2019,10.26
+AGO,Angola,2019,10.43
+CIV,Cote d'Ivoire,2019,10.36
+BTN,Bhutan,2019,10.45
+TZA,United Republic of Tanzania,2019,10.78
+KEN,Kenya,2019,10.94
+NGA,Nigeria,2019,11.01
+SGP,Singapore,2019,11.77
+CHE,Switzerland,2019,11.94
+GHA,Ghana,2019,11.98
+YEM,Yemen,2019,12.19
+ZWE,Zimbabwe,2019,12.77
+SOM,Somalia,2019,12.87
+GMB,Gambia,2019,12.98
+DNK,Denmark,2019,12.98
+THA,Thailand,2019,13.55
+CMR,Cameroon,2019,13.77
+NLD,Netherlands (Kingdom of the),2019,14.25
+CPV,Cabo Verde,2019,14.19
+COM,Comoros,2019,14.37
+LBR,Liberia,2019,14.44
+STP,Sao Tome and Principe,2019,14.76
+AUT,Austria,2019,14.9
+SWE,Sweden,2019,15.0
+SDN,Sudan,2019,15.03
+MDV,Maldives,2019,15.19
+NAM,Namibia,2019,15.94
+AFG,Afghanistan,2019,16.21
+GNQ,Equatorial Guinea,2019,16.29
+ESP,Spain,2019,16.55
+MNE,Montenegro,2019,16.91
+ITA,Italy,2019,16.86
+BWA,Botswana,2019,17.07
+AND,Andorra,2019,17.56
+KAZ,Kazakhstan,2019,17.64
+SVN,Slovenia,2019,18.09
+MUS,Mauritius,2019,18.21
+LUX,Luxembourg,2019,18.28
+NOR,Norway,2019,18.27
+GAB,Gabon,2019,19.13
+PNG,Papua New Guinea,2019,19.22
+LSO,Lesotho,2019,19.23
+BEL,Belgium,2019,19.25
+PAK,Pakistan,2019,19.61
+BGR,Bulgaria,2019,19.66
+BIH,Bosnia and Herzegovina,2019,19.86
+ETH,Ethiopia,2019,2.31
+CUB,Cuba,2019,20.01
+MYS,Malaysia,2019,20.15
+MAR,Morocco,2019,20.23
+TKM,Turkmenistan,2019,20.17
+VUT,Vanuatu,2019,20.27
+ISL,Iceland,2019,20.39
+DEU,Germany,2019,20.37
+MRT,Mauritania,2019,20.49
+PRT,Portugal,2019,20.74
+FIN,Finland,2019,20.75
+SRB,Serbia,2019,21.05
+BLR,Belarus,2019,21.27
+SLB,Solomon Islands,2019,21.43
+ALB,Albania,2019,21.42
+EST,Estonia,2019,21.79
+TJK,Tajikistan,2019,21.76
+COL,Colombia,2019,21.97
+ISR,Israel,2019,22.24
+MNG,Mongolia,2019,22.16
+DZA,Algeria,2019,22.28
+CYP,Cyprus,2019,22.43
+VEN,Venezuela (Bolivarian Republic of),2019,22.83
+UKR,Ukraine,2019,23.05
+MDA,Republic of Moldova,2019,23.0
+IRN,Iran (Islamic Republic of),2019,23.06
+ARM,Armenia,2019,23.24
+LVA,Latvia,2019,23.47
+RUS,Russian Federation,2019,23.59
+PER,Peru,2019,24.38
+LTU,Lithuania,2019,24.6
+CZE,Czechia,2019,24.62
+KGZ,Kyrgyzstan,2019,24.68
+GTM,Guatemala,2019,24.69
+SVK,Slovakia,2019,24.86
+AZE,Azerbaijan,2019,24.99
+ECU,Ecuador,2019,24.99
+BRA,Brazil,2019,25.23
+TUN,Tunisia,2019,25.38
+CAN,Canada,2019,25.72
+MKD,North Macedonia,2019,25.78
+GRL,Greenland,2019,25.8
+POL,Poland,2019,25.8
+BOL,Bolivia (Plurinational State of),2019,26.02
+GUY,Guyana,2019,26.19
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,26.17
+TTO,Trinidad and Tobago,2019,26.93
+GRC,Greece,2019,26.88
+SUR,Suriname,2019,27.03
+DOM,Dominican Republic,2019,27.12
+IRL,Ireland,2019,27.3
+HND,Honduras,2019,27.41
+UZB,Uzbekistan,2019,27.36
+SWZ,Eswatini,2019,27.74
+SYC,Seychelles,2019,27.88
+HRV,Croatia,2019,28.15
+GRD,Grenada,2019,28.25
+LBN,Lebanon,2019,28.73
+AUS,Australia,2019,28.8
+OMN,Oman,2019,29.0
+BRN,Brunei Darussalam,2019,29.13
+DMA,Dominica,2019,29.21
+SLV,El Salvador,2019,29.19
+CRI,Costa Rica,2019,29.38
+HUN,Hungary,2019,29.63
+MDG,Madagascar,2019,3.51
+KHM,Cambodia,2019,3.59
+ZAF,South Africa,2019,30.08
+ROU,Romania,2019,30.2
+PRY,Paraguay,2019,30.37
+URY,Uruguay,2019,30.67
+BMU,Bermuda,2019,30.89
+VCT,Saint Vincent and the Grenadines,2019,31.14
+LCA,Saint Lucia,2019,31.12
+ATG,Antigua and Barbuda,2019,31.24
+JAM,Jamaica,2019,31.5
+MLT,Malta,2019,31.57
+NIC,Nicaragua,2019,31.79
+FJI,Fiji,2019,31.96
+ARE,United Arab Emirates,2019,32.0
+TUR,Türkiye,2019,32.26
+NZL,New Zealand,2019,32.3
+ARG,Argentina,2019,32.43
+GEO,Georgia,2019,32.46
+SYR,Syrian Arab Republic,2019,32.67
+PAN,Panama,2019,33.19
+MEX,Mexico,2019,34.0
+BHR,Bahrain,2019,34.91
+LBY,Libya,2019,35.4
+BRB,Barbados,2019,35.82
+CHL,Chile,2019,35.99
+PSE,"occupied Palestinian territory, including east Jerusalem",2019,36.71
+JOR,Jordan,2019,38.0
+IRQ,Iraq,2019,38.75
+PRI,Puerto Rico,2019,39.11
+SAU,Saudi Arabia,2019,39.06
+ERI,Eritrea,2019,4.02
+RWA,Rwanda,2019,3.99
+BDI,Burundi,2019,4.22
+BGD,Bangladesh,2019,4.32
+JPN,Japan,2019,4.94
+BLZ,Belize,2019,40.12
+PLW,Palau,2019,40.44
+USA,United States of America,2019,40.46
+KWT,Kuwait,2019,41.1
+QAT,Qatar,2019,41.33
+EGY,Egypt,2019,42.37
+KNA,Saint Kitts and Nevis,2019,43.59
+MHL,Marshall Islands,2019,44.64
+BHS,Bahamas,2019,45.05
+KIR,Kiribati,2019,45.35
+FSM,Micronesia (Federated States of),2019,45.6
+PYF,French Polynesia,2019,46.48
+NER,Niger,2019,5.19
+BFA,Burkina Faso,2019,5.61
+NPL,Nepal,2019,5.73
+TCD,Chad,2019,5.85
+COD,Democratic Republic of the Congo,2019,5.81
+KOR,Republic of Korea,2019,6.09
+IND,India,2019,6.18
+UGA,Uganda,2019,6.45
+MWI,Malawi,2019,6.57
+SLE,Sierra Leone,2019,6.61
+MMR,Myanmar,2019,6.67
+LAO,Lao People's Democratic Republic,2019,6.85
+CHN,China,2019,6.9
+WSM,Samoa,2019,60.44
+TUV,Tuvalu,2019,62.55
+NIU,Niue,2019,64.86
+COK,Cook Islands,2019,67.05
+TKL,Tokelau,2019,68.44
+TON,Tonga,2019,69.07
+NRU,Nauru,2019,69.17
+SSD,South Sudan,2019,7.43
+PHL,Philippines,2019,7.69
+ASM,American Samoa,2019,74.37
+CAF,Central African Republic,2019,8.06
+COG,Congo,2019,8.11
+GIN,Guinea,2019,8.21
+MOZ,Mozambique,2019,8.76
+LKA,Sri Lanka,2019,8.89
+SEN,Senegal,2019,9.27
+PRK,Democratic People's Republic of Korea,2019,9.36
+IDN,Indonesia,2019,9.39
+ZMB,Zambia,2019,9.56
+DJI,Djibouti,2019,9.85
+HTI,Haiti,2019,9.89
+TGO,Togo,2019,9.94
+VNM,Viet Nam,2020,1.71
+ZMB,Zambia,2020,10.04
+IDN,Indonesia,2020,9.98
+HTI,Haiti,2020,10.15
+FRA,France,2020,10.07
+DJI,Djibouti,2020,10.32
+MLI,Mali,2020,10.44
+BEN,Benin,2020,10.4
+TGO,Togo,2020,10.46
+GNB,Guinea-Bissau,2020,10.58
+AGO,Angola,2020,10.76
+CIV,Cote d'Ivoire,2020,10.77
+BTN,Bhutan,2020,11.01
+KEN,Kenya,2020,11.41
+TZA,United Republic of Tanzania,2020,11.35
+NGA,Nigeria,2020,11.44
+CHE,Switzerland,2020,11.99
+GHA,Ghana,2020,12.28
+SGP,Singapore,2020,12.44
+YEM,Yemen,2020,12.66
+DNK,Denmark,2020,13.07
+ZWE,Zimbabwe,2020,13.23
+SOM,Somalia,2020,13.43
+GMB,Gambia,2020,13.6
+CMR,Cameroon,2020,14.13
+THA,Thailand,2020,14.14
+NLD,Netherlands (Kingdom of the),2020,14.34
+CPV,Cabo Verde,2020,14.7
+COM,Comoros,2020,14.98
+AUT,Austria,2020,15.04
+SWE,Sweden,2020,15.08
+LBR,Liberia,2020,15.25
+STP,Sao Tome and Principe,2020,15.3
+SDN,Sudan,2020,15.65
+MDV,Maldives,2020,15.87
+ESP,Spain,2020,16.24
+NAM,Namibia,2020,16.26
+GNQ,Equatorial Guinea,2020,16.73
+ITA,Italy,2020,17.0
+AFG,Afghanistan,2020,17.19
+MNE,Montenegro,2020,17.26
+BWA,Botswana,2020,17.46
+AND,Andorra,2020,17.72
+KAZ,Kazakhstan,2020,17.87
+LUX,Luxembourg,2020,18.32
+MUS,Mauritius,2020,18.53
+SVN,Slovenia,2020,18.5
+NOR,Norway,2020,18.55
+BEL,Belgium,2020,19.49
+PNG,Papua New Guinea,2020,19.64
+GAB,Gabon,2020,19.74
+LSO,Lesotho,2020,19.79
+TLS,Timor-Leste,2020,2.02
+ETH,Ethiopia,2020,2.47
+BGR,Bulgaria,2020,19.96
+BIH,Bosnia and Herzegovina,2020,20.28
+DEU,Germany,2020,20.37
+VUT,Vanuatu,2020,20.59
+TKM,Turkmenistan,2020,20.57
+CUB,Cuba,2020,20.58
+ISL,Iceland,2020,20.66
+MAR,Morocco,2020,20.74
+PAK,Pakistan,2020,20.72
+MYS,Malaysia,2020,20.78
+FIN,Finland,2020,20.99
+PRT,Portugal,2020,21.08
+MRT,Mauritania,2020,21.21
+BLR,Belarus,2020,21.3
+SRB,Serbia,2020,21.51
+SLB,Solomon Islands,2020,21.8
+EST,Estonia,2020,21.91
+ALB,Albania,2020,22.04
+ISR,Israel,2020,22.31
+TJK,Tajikistan,2020,22.43
+COL,Colombia,2020,22.51
+CYP,Cyprus,2020,22.59
+DZA,Algeria,2020,22.78
+VEN,Venezuela (Bolivarian Republic of),2020,22.79
+MNG,Mongolia,2020,22.8
+MDA,Republic of Moldova,2020,22.99
+UKR,Ukraine,2020,23.23
+IRN,Iran (Islamic Republic of),2020,23.46
+LVA,Latvia,2020,23.73
+ARM,Armenia,2020,23.65
+RUS,Russian Federation,2020,23.78
+LTU,Lithuania,2020,24.84
+CZE,Czechia,2020,25.06
+KGZ,Kyrgyzstan,2020,25.31
+PER,Peru,2020,25.33
+GTM,Guatemala,2020,25.39
+SVK,Slovakia,2020,25.5
+AZE,Azerbaijan,2020,25.5
+ECU,Ecuador,2020,25.77
+TUN,Tunisia,2020,25.85
+CAN,Canada,2020,25.88
+GRL,Greenland,2020,26.2
+BRA,Brazil,2020,26.18
+MKD,North Macedonia,2020,26.34
+POL,Poland,2020,26.35
+GBR,United Kingdom of Great Britain and Northern Ireland,2020,26.38
+BOL,Bolivia (Plurinational State of),2020,26.88
+GUY,Guyana,2020,26.98
+GRC,Greece,2020,27.23
+TTO,Trinidad and Tobago,2020,27.3
+IRL,Ireland,2020,27.64
+SUR,Suriname,2020,27.67
+DOM,Dominican Republic,2020,27.84
+HND,Honduras,2020,28.09
+UZB,Uzbekistan,2020,28.24
+SYC,Seychelles,2020,28.34
+SWZ,Eswatini,2020,28.49
+GRD,Grenada,2020,28.91
+HRV,Croatia,2020,28.95
+LBN,Lebanon,2020,29.06
+AUS,Australia,2020,29.27
+SLV,El Salvador,2020,29.75
+OMN,Oman,2020,29.75
+DMA,Dominica,2020,29.92
+MDG,Madagascar,2020,3.74
+KHM,Cambodia,2020,3.83
+BRN,Brunei Darussalam,2020,29.99
+CRI,Costa Rica,2020,30.04
+HUN,Hungary,2020,30.31
+ZAF,South Africa,2020,30.32
+PRY,Paraguay,2020,31.22
+URY,Uruguay,2020,31.55
+ROU,Romania,2020,31.46
+BMU,Bermuda,2020,31.58
+MLT,Malta,2020,31.8
+VCT,Saint Vincent and the Grenadines,2020,31.83
+ATG,Antigua and Barbuda,2020,31.9
+LCA,Saint Lucia,2020,31.88
+ARE,United Arab Emirates,2020,32.01
+JAM,Jamaica,2020,32.25
+NIC,Nicaragua,2020,32.39
+FJI,Fiji,2020,32.58
+TUR,Türkiye,2020,32.6
+NZL,New Zealand,2020,32.73
+SYR,Syrian Arab Republic,2020,33.09
+GEO,Georgia,2020,33.19
+ARG,Argentina,2020,33.39
+PAN,Panama,2020,34.14
+MEX,Mexico,2020,34.67
+BHR,Bahrain,2020,35.32
+LBY,Libya,2020,35.83
+BRB,Barbados,2020,36.55
+CHL,Chile,2020,36.95
+PSE,"occupied Palestinian territory, including east Jerusalem",2020,37.0
+JOR,Jordan,2020,38.17
+IRQ,Iraq,2020,39.33
+SAU,Saudi Arabia,2020,39.57
+PRI,Puerto Rico,2020,39.78
+ERI,Eritrea,2020,4.27
+RWA,Rwanda,2020,4.28
+BDI,Burundi,2020,4.47
+BGD,Bangladesh,2020,4.64
+PLW,Palau,2020,40.67
+BLZ,Belize,2020,40.85
+USA,United States of America,2020,40.97
+KWT,Kuwait,2020,41.2
+QAT,Qatar,2020,41.98
+EGY,Egypt,2020,43.01
+KNA,Saint Kitts and Nevis,2020,44.27
+MHL,Marshall Islands,2020,45.06
+KIR,Kiribati,2020,45.66
+BHS,Bahamas,2020,45.78
+FSM,Micronesia (Federated States of),2020,46.09
+PYF,French Polynesia,2020,47.01
+JPN,Japan,2020,5.13
+NER,Niger,2020,5.44
+BFA,Burkina Faso,2020,5.97
+TCD,Chad,2020,6.11
+COD,Democratic Republic of the Congo,2020,6.07
+NPL,Nepal,2020,6.13
+KOR,Republic of Korea,2020,6.48
+IND,India,2020,6.53
+SLE,Sierra Leone,2020,6.77
+MMR,Myanmar,2020,6.91
+MWI,Malawi,2020,6.94
+UGA,Uganda,2020,6.9
+WSM,Samoa,2020,61.11
+TUV,Tuvalu,2020,63.1
+NIU,Niue,2020,65.48
+COK,Cook Islands,2020,67.68
+TKL,Tokelau,2020,68.97
+NRU,Nauru,2020,69.38
+TON,Tonga,2020,69.94
+LAO,Lao People's Democratic Republic,2020,7.22
+CHN,China,2020,7.33
+SSD,South Sudan,2020,7.8
+ASM,American Samoa,2020,74.66
+PHL,Philippines,2020,8.03
+COG,Congo,2020,8.24
+CAF,Central African Republic,2020,8.45
+GIN,Guinea,2020,8.63
+MOZ,Mozambique,2020,9.23
+LKA,Sri Lanka,2020,9.42
+SEN,Senegal,2020,9.57
+PRK,Democratic People's Republic of Korea,2020,9.82
+VNM,Viet Nam,2021,1.86
+LKA,Sri Lanka,2021,9.98
+PRK,Democratic People's Republic of Korea,2021,10.3
+HTI,Haiti,2021,10.41
+ZMB,Zambia,2021,10.54
+IDN,Indonesia,2021,10.59
+DJI,Djibouti,2021,10.82
+BEN,Benin,2021,10.77
+MLI,Mali,2021,10.9
+GNB,Guinea-Bissau,2021,11.02
+TGO,Togo,2021,11.0
+AGO,Angola,2021,11.11
+CIV,Cote d'Ivoire,2021,11.19
+BTN,Bhutan,2021,11.58
+NGA,Nigeria,2021,11.89
+KEN,Kenya,2021,11.9
+CHE,Switzerland,2021,12.05
+TZA,United Republic of Tanzania,2021,11.95
+GHA,Ghana,2021,12.6
+YEM,Yemen,2021,13.15
+SGP,Singapore,2021,13.14
+DNK,Denmark,2021,13.17
+ZWE,Zimbabwe,2021,13.71
+SOM,Somalia,2021,14.01
+GMB,Gambia,2021,14.26
+NLD,Netherlands (Kingdom of the),2021,14.44
+CMR,Cameroon,2021,14.5
+THA,Thailand,2021,14.75
+SWE,Sweden,2021,15.17
+AUT,Austria,2021,15.2
+CPV,Cabo Verde,2021,15.23
+COM,Comoros,2021,15.62
+STP,Sao Tome and Principe,2021,15.87
+ESP,Spain,2021,15.95
+LBR,Liberia,2021,16.11
+SDN,Sudan,2021,16.31
+NAM,Namibia,2021,16.6
+MDV,Maldives,2021,16.57
+ITA,Italy,2021,17.14
+GNQ,Equatorial Guinea,2021,17.19
+MNE,Montenegro,2021,17.62
+AND,Andorra,2021,17.91
+BWA,Botswana,2021,17.87
+KAZ,Kazakhstan,2021,18.12
+AFG,Afghanistan,2021,18.19
+LUX,Luxembourg,2021,18.37
+NOR,Norway,2021,18.84
+MUS,Mauritius,2021,18.87
+SVN,Slovenia,2021,18.95
+BEL,Belgium,2021,19.75
+TLS,Timor-Leste,2021,2.18
+ETH,Ethiopia,2021,2.64
+PNG,Papua New Guinea,2021,20.07
+BGR,Bulgaria,2021,20.27
+GAB,Gabon,2021,20.37
+LSO,Lesotho,2021,20.38
+DEU,Germany,2021,20.38
+BIH,Bosnia and Herzegovina,2021,20.73
+VUT,Vanuatu,2021,20.92
+ISL,Iceland,2021,20.94
+TKM,Turkmenistan,2021,20.98
+CUB,Cuba,2021,21.16
+FIN,Finland,2021,21.24
+MAR,Morocco,2021,21.26
+BLR,Belarus,2021,21.33
+PRT,Portugal,2021,21.43
+MYS,Malaysia,2021,21.43
+PAK,Pakistan,2021,21.85
+MRT,Mauritania,2021,21.94
+SRB,Serbia,2021,22.0
+EST,Estonia,2021,22.03
+SLB,Solomon Islands,2021,22.2
+ISR,Israel,2021,22.4
+ALB,Albania,2021,22.69
+CYP,Cyprus,2021,22.76
+VEN,Venezuela (Bolivarian Republic of),2021,22.75
+MDA,Republic of Moldova,2021,22.98
+TJK,Tajikistan,2021,23.11
+COL,Colombia,2021,23.06
+DZA,Algeria,2021,23.3
+UKR,Ukraine,2021,23.43
+MNG,Mongolia,2021,23.45
+IRN,Iran (Islamic Republic of),2021,23.86
+LVA,Latvia,2021,24.0
+RUS,Russian Federation,2021,23.98
+ARM,Armenia,2021,24.08
+LTU,Lithuania,2021,25.09
+CZE,Czechia,2021,25.51
+KGZ,Kyrgyzstan,2021,25.95
+AZE,Azerbaijan,2021,26.02
+CAN,Canada,2021,26.05
+GTM,Guatemala,2021,26.09
+SVK,Slovakia,2021,26.15
+TUN,Tunisia,2021,26.34
+PER,Peru,2021,26.3
+GRL,Greenland,2021,26.61
+ECU,Ecuador,2021,26.57
+GBR,United Kingdom of Great Britain and Northern Ireland,2021,26.6
+MKD,North Macedonia,2021,26.93
+POL,Poland,2021,26.92
+BRA,Brazil,2021,27.15
+GRC,Greece,2021,27.6
+TTO,Trinidad and Tobago,2021,27.67
+GUY,Guyana,2021,27.71
+BOL,Bolivia (Plurinational State of),2021,27.77
+IRL,Ireland,2021,27.99
+SUR,Suriname,2021,28.33
+DOM,Dominican Republic,2021,28.59
+HND,Honduras,2021,28.79
+SYC,Seychelles,2021,28.84
+UZB,Uzbekistan,2021,29.13
+SWZ,Eswatini,2021,29.27
+LBN,Lebanon,2021,29.42
+GRD,Grenada,2021,29.57
+HRV,Croatia,2021,29.78
+AUS,Australia,2021,29.75
+SLV,El Salvador,2021,30.31
+OMN,Oman,2021,30.48
+DMA,Dominica,2021,30.63
+ZAF,South Africa,2021,30.56
+CRI,Costa Rica,2021,30.71
+BRN,Brunei Darussalam,2021,30.85
+HUN,Hungary,2021,31.0
+MLT,Malta,2021,32.04
+ARE,United Arab Emirates,2021,32.02
+PRY,Paraguay,2021,32.08
+BMU,Bermuda,2021,32.29
+URY,Uruguay,2021,32.44
+VCT,Saint Vincent and the Grenadines,2021,32.53
+ATG,Antigua and Barbuda,2021,32.57
+ROU,Romania,2021,32.75
+LCA,Saint Lucia,2021,32.67
+NIC,Nicaragua,2021,33.01
+JAM,Jamaica,2021,33.02
+TUR,Türkiye,2021,32.95
+FJI,Fiji,2021,33.2
+NZL,New Zealand,2021,33.17
+SYR,Syrian Arab Republic,2021,33.52
+GEO,Georgia,2021,33.92
+ARG,Argentina,2021,34.37
+PAN,Panama,2021,35.1
+MEX,Mexico,2021,35.35
+BHR,Bahrain,2021,35.72
+LBY,Libya,2021,36.27
+BRB,Barbados,2021,37.28
+PSE,"occupied Palestinian territory, including east Jerusalem",2021,37.28
+CHL,Chile,2021,37.93
+JOR,Jordan,2021,38.34
+IRQ,Iraq,2021,39.91
+MDG,Madagascar,2021,3.99
+KHM,Cambodia,2021,4.09
+ERI,Eritrea,2021,4.54
+RWA,Rwanda,2021,4.59
+BDI,Burundi,2021,4.74
+SAU,Saudi Arabia,2021,40.08
+PRI,Puerto Rico,2021,40.46
+PLW,Palau,2021,40.9
+KWT,Kuwait,2021,41.3
+USA,United States of America,2021,41.48
+BLZ,Belize,2021,41.58
+QAT,Qatar,2021,42.56
+EGY,Egypt,2021,43.64
+KNA,Saint Kitts and Nevis,2021,44.96
+MHL,Marshall Islands,2021,45.48
+KIR,Kiribati,2021,45.98
+BHS,Bahamas,2021,46.52
+FSM,Micronesia (Federated States of),2021,46.59
+PYF,French Polynesia,2021,47.55
+BGD,Bangladesh,2021,4.96
+JPN,Japan,2021,5.33
+NER,Niger,2021,5.7
+COD,Democratic Republic of the Congo,2021,6.35
+BFA,Burkina Faso,2021,6.35
+TCD,Chad,2021,6.39
+NPL,Nepal,2021,6.55
+SLE,Sierra Leone,2021,6.95
+IND,India,2021,6.89
+KOR,Republic of Korea,2021,6.89
+WSM,Samoa,2021,61.77
+TUV,Tuvalu,2021,63.65
+NIU,Niue,2021,66.05
+COK,Cook Islands,2021,68.3
+TKL,Tokelau,2021,69.4
+NRU,Nauru,2021,69.63
+MMR,Myanmar,2021,7.16
+MWI,Malawi,2021,7.33
+UGA,Uganda,2021,7.38
+LAO,Lao People's Democratic Republic,2021,7.61
+CHN,China,2021,7.79
+TON,Tonga,2021,70.8
+ASM,American Samoa,2021,74.94
+SSD,South Sudan,2021,8.19
+COG,Congo,2021,8.38
+PHL,Philippines,2021,8.38
+CAF,Central African Republic,2021,8.86
+GIN,Guinea,2021,9.07
+MOZ,Mozambique,2021,9.73
+SEN,Senegal,2021,9.88
+FRA,France,2021,9.88
+SEN,Senegal,2022,10.21
+MOZ,Mozambique,2022,10.26
+LKA,Sri Lanka,2022,10.56
+HTI,Haiti,2022,10.69
+PRK,Democratic People's Republic of Korea,2022,10.8
+ZMB,Zambia,2022,11.08
+BEN,Benin,2022,11.17
+IDN,Indonesia,2022,11.23
+DJI,Djibouti,2022,11.35
+MLI,Mali,2022,11.37
+AGO,Angola,2022,11.47
+GNB,Guinea-Bissau,2022,11.47
+TGO,Togo,2022,11.56
+CIV,Cote d'Ivoire,2022,11.64
+CHE,Switzerland,2022,12.11
+BTN,Bhutan,2022,12.18
+NGA,Nigeria,2022,12.36
+KEN,Kenya,2022,12.41
+TZA,United Republic of Tanzania,2022,12.58
+GHA,Ghana,2022,12.93
+DNK,Denmark,2022,13.28
+YEM,Yemen,2022,13.65
+SGP,Singapore,2022,13.88
+ZWE,Zimbabwe,2022,14.21
+NLD,Netherlands (Kingdom of the),2022,14.54
+SOM,Somalia,2022,14.61
+GMB,Gambia,2022,14.93
+CMR,Cameroon,2022,14.88
+SWE,Sweden,2022,15.27
+AUT,Austria,2022,15.37
+THA,Thailand,2022,15.38
+ESP,Spain,2022,15.67
+CPV,Cabo Verde,2022,15.77
+COM,Comoros,2022,16.28
+STP,Sao Tome and Principe,2022,16.46
+NAM,Namibia,2022,16.97
+SDN,Sudan,2022,17.01
+LBR,Liberia,2022,17.01
+ITA,Italy,2022,17.29
+MDV,Maldives,2022,17.3
+GNQ,Equatorial Guinea,2022,17.67
+MNE,Montenegro,2022,18.0
+AND,Andorra,2022,18.1
+BWA,Botswana,2022,18.29
+LUX,Luxembourg,2022,18.43
+KAZ,Kazakhstan,2022,18.38
+NOR,Norway,2022,19.15
+MUS,Mauritius,2022,19.23
+AFG,Afghanistan,2022,19.22
+SVN,Slovenia,2022,19.44
+VNM,Viet Nam,2022,2.02
+TLS,Timor-Leste,2022,2.35
+ETH,Ethiopia,2022,2.82
+BEL,Belgium,2022,20.03
+DEU,Germany,2022,20.4
+PNG,Papua New Guinea,2022,20.52
+BGR,Bulgaria,2022,20.59
+GAB,Gabon,2022,21.02
+LSO,Lesotho,2022,21.0
+BIH,Bosnia and Herzegovina,2022,21.19
+ISL,Iceland,2022,21.23
+VUT,Vanuatu,2022,21.28
+TKM,Turkmenistan,2022,21.4
+BLR,Belarus,2022,21.37
+FIN,Finland,2022,21.51
+PRT,Portugal,2022,21.79
+MAR,Morocco,2022,21.78
+CUB,Cuba,2022,21.76
+MYS,Malaysia,2022,22.1
+EST,Estonia,2022,22.16
+SRB,Serbia,2022,22.51
+ISR,Israel,2022,22.49
+SLB,Solomon Islands,2022,22.6
+MRT,Mauritania,2022,22.69
+VEN,Venezuela (Bolivarian Republic of),2022,22.72
+CYP,Cyprus,2022,22.94
+PAK,Pakistan,2022,23.01
+MDA,Republic of Moldova,2022,22.97
+ALB,Albania,2022,23.36
+UKR,Ukraine,2022,23.63
+COL,Colombia,2022,23.62
+DZA,Algeria,2022,23.81
+TJK,Tajikistan,2022,23.79
+MNG,Mongolia,2022,24.11
+RUS,Russian Federation,2022,24.19
+LVA,Latvia,2022,24.27
+IRN,Iran (Islamic Republic of),2022,24.27
+ARM,Armenia,2022,24.51
+LTU,Lithuania,2022,25.36
+CZE,Czechia,2022,25.98
+CAN,Canada,2022,26.23
+AZE,Azerbaijan,2022,26.55
+KGZ,Kyrgyzstan,2022,26.6
+TUN,Tunisia,2022,26.83
+SVK,Slovakia,2022,26.82
+GTM,Guatemala,2022,26.81
+GBR,United Kingdom of Great Britain and Northern Ireland,2022,26.82
+GRL,Greenland,2022,27.04
+PER,Peru,2022,27.29
+ECU,Ecuador,2022,27.38
+MKD,North Macedonia,2022,27.54
+POL,Poland,2022,27.5
+GRC,Greece,2022,27.98
+TTO,Trinidad and Tobago,2022,28.05
+BRA,Brazil,2022,28.14
+IRL,Ireland,2022,28.35
+GUY,Guyana,2022,28.46
+BOL,Bolivia (Plurinational State of),2022,28.68
+SUR,Suriname,2022,29.02
+DOM,Dominican Republic,2022,29.34
+SYC,Seychelles,2022,29.36
+HND,Honduras,2022,29.49
+LBN,Lebanon,2022,29.78
+UZB,Uzbekistan,2022,30.03
+SWZ,Eswatini,2022,30.09
+AUS,Australia,2022,30.24
+GRD,Grenada,2022,30.25
+HRV,Croatia,2022,30.62
+ZAF,South Africa,2022,30.82
+SLV,El Salvador,2022,30.88
+OMN,Oman,2022,31.1
+DMA,Dominica,2022,31.34
+CRI,Costa Rica,2022,31.39
+BRN,Brunei Darussalam,2022,31.71
+HUN,Hungary,2022,31.7
+ARE,United Arab Emirates,2022,32.08
+MLT,Malta,2022,32.29
+BMU,Bermuda,2022,32.99
+PRY,Paraguay,2022,32.96
+VCT,Saint Vincent and the Grenadines,2022,33.25
+ATG,Antigua and Barbuda,2022,33.25
+URY,Uruguay,2022,33.34
+TUR,Türkiye,2022,33.3
+LCA,Saint Lucia,2022,33.47
+NIC,Nicaragua,2022,33.63
+NZL,New Zealand,2022,33.62
+FJI,Fiji,2022,33.84
+JAM,Jamaica,2022,33.81
+SYR,Syrian Arab Republic,2022,33.94
+ROU,Romania,2022,34.04
+GEO,Georgia,2022,34.66
+ARG,Argentina,2022,35.36
+MEX,Mexico,2022,36.03
+BHR,Bahrain,2022,36.13
+PAN,Panama,2022,36.07
+LBY,Libya,2022,36.71
+PSE,"occupied Palestinian territory, including east Jerusalem",2022,37.56
+BRB,Barbados,2022,38.02
+JOR,Jordan,2022,38.51
+CHL,Chile,2022,38.91
+MDG,Madagascar,2022,4.26
+KHM,Cambodia,2022,4.36
+ERI,Eritrea,2022,4.83
+RWA,Rwanda,2022,4.92
+IRQ,Iraq,2022,40.49
+SAU,Saudi Arabia,2022,40.6
+PRI,Puerto Rico,2022,41.13
+PLW,Palau,2022,41.14
+KWT,Kuwait,2022,41.42
+USA,United States of America,2022,41.99
+BLZ,Belize,2022,42.32
+QAT,Qatar,2022,43.14
+EGY,Egypt,2022,44.27
+KNA,Saint Kitts and Nevis,2022,45.64
+MHL,Marshall Islands,2022,45.9
+KIR,Kiribati,2022,46.3
+FSM,Micronesia (Federated States of),2022,47.1
+BHS,Bahamas,2022,47.26
+PYF,French Polynesia,2022,48.09
+BDI,Burundi,2022,5.02
+BGD,Bangladesh,2022,5.3
+JPN,Japan,2022,5.54
+NER,Niger,2022,5.97
+COD,Democratic Republic of the Congo,2022,6.64
+TCD,Chad,2022,6.69
+BFA,Burkina Faso,2022,6.75
+WSM,Samoa,2022,62.43
+TUV,Tuvalu,2022,64.2
+NIU,Niue,2022,66.58
+COK,Cook Islands,2022,68.92
+TKL,Tokelau,2022,69.82
+NRU,Nauru,2022,69.92
+NPL,Nepal,2022,6.99
+SLE,Sierra Leone,2022,7.13
+IND,India,2022,7.27
+KOR,Republic of Korea,2022,7.33
+MMR,Myanmar,2022,7.43
+MWI,Malawi,2022,7.74
+UGA,Uganda,2022,7.9
+TON,Tonga,2022,71.65
+ASM,American Samoa,2022,75.21
+LAO,Lao People's Democratic Republic,2022,8.01
+CHN,China,2022,8.28
+COG,Congo,2022,8.54
+SSD,South Sudan,2022,8.6
+PHL,Philippines,2022,8.74
+CAF,Central African Republic,2022,9.3
+GIN,Guinea,2022,9.53
+FRA,France,2022,9.7

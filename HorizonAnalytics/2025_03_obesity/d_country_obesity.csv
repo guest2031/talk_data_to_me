@@ -1,5 +1,5 @@
 country_code,country_name,year,obesity_rate
-VNM,Viet Nam,2022,2.02
+VNM,Vietnam,2022,2.02
 TLS,Timor-Leste,2022,2.35
 ETH,Ethiopia,2022,2.82
 MDG,Madagascar,2022,4.26
@@ -101,7 +101,7 @@ SLB,Solomon Islands,2022,22.6
 MRT,Mauritania,2022,22.69
 VEN,Venezuela,2022,22.72
 CYP,Cyprus,2022,22.94
-MDA,Republic of Moldova,2022,22.97
+MDA,Moldova,2022,22.97
 PAK,Pakistan,2022,23.01
 ALB,Albania,2022,23.36
 COL,Colombia,2022,23.62
@@ -109,7 +109,7 @@ UKR,Ukraine,2022,23.63
 TJK,Tajikistan,2022,23.79
 DZA,Algeria,2022,23.81
 MNG,Mongolia,2022,24.11
-RUS,Russian Federation,2022,24.19
+RUS,Russia,2022,24.19
 IRN,Iran,2022,24.27
 LVA,Latvia,2022,24.27
 ARM,Armenia,2022,24.51
@@ -154,7 +154,7 @@ ARE,United Arab Emirates,2022,32.08
 MLT,Malta,2022,32.29
 PRY,Paraguay,2022,32.96
 BMU,Bermuda,2022,32.99
-VCT,Saint Vincent and the Grenadines,2022,33.25
+VCT,St. Vincent & Grenadines,2022,33.25
 ATG,Antigua and Barbuda,2022,33.25
 TUR,Türkiye,2022,33.3
 URY,Uruguay,2022,33.34
@@ -180,7 +180,7 @@ SAU,Saudi Arabia,2022,40.6
 PRI,Puerto Rico,2022,41.13
 PLW,Palau,2022,41.14
 KWT,Kuwait,2022,41.42
-USA,United States of America,2022,41.99
+USA,United States,2022,41.99
 BLZ,Belize,2022,42.32
 QAT,Qatar,2022,43.14
 EGY,Egypt,2022,44.27
