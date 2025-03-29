@@ -1,0 +1,209 @@
+country_name,country_code,year,fertility_rate,is_country
+Hong Kong,HKG,2022,0.701,True
+South Korea,KOR,2022,0.778,True
+Puerto Rico,PRI,2022,0.9,True
+British Virgin Islands,VGB,2022,1.015,True
+Singapore,SGP,2022,1.04,True
+Macao,MAC,2022,1.109,True
+Malta,MLT,2022,1.15,True
+Spain,ESP,2022,1.16,True
+China,CHN,2022,1.175,True
+Aruba,ABW,2022,1.179,True
+Italy,ITA,2022,1.24,True
+Japan,JPN,2022,1.26,True
+Poland,POL,2022,1.261,True
+Ukraine,UKR,2022,1.265,True
+Lithuania,LTU,2022,1.27,True
+Curacao,CUW,2022,1.3,True
+Bermuda,BMU,2022,1.3,True
+Luxembourg,LUX,2022,1.31,True
+Cyprus,CYP,2022,1.311,True
+Thailand,THA,2022,1.317,True
+Mauritius,MUS,2022,1.32,True
+Finland,FIN,2022,1.32,True
+Canada,CAN,2022,1.33,True
+Jamaica,JAM,2022,1.34,True
+Bosnia and Herzegovina,BIH,2022,1.346,True
+Albania,ALB,2022,1.376,True
+The Bahamas,BHS,2022,1.38,True
+St. Lucia,LCA,2022,1.387,True
+Switzerland,CHE,2022,1.39,True
+Bhutan,BTN,2022,1.398,True
+Estonia,EST,2022,1.41,True
+Norway,NOR,2022,1.41,True
+Austria,AUT,2022,1.41,True
+Russia,RUS,2022,1.416,True
+Greece,GRC,2022,1.43,True
+Portugal,PRT,2022,1.43,True
+United Arab Emirates,ARE,2022,1.443,True
+Cuba,CUB,2022,1.449,True
+Germany,DEU,2022,1.455,True
+Latvia,LVA,2022,1.47,True
+Liechtenstein,LIE,2022,1.47,True
+Uruguay,URY,2022,1.483,True
+Netherlands,NLD,2022,1.487,True
+Belarus,BLR,2022,1.495,True
+St. Kitts and Nevis,KNA,2022,1.512,True
+Sweden,SWE,2022,1.52,True
+Hungary,HUN,2022,1.52,True
+Costa Rica,CRI,2022,1.522,True
+Croatia,HRV,2022,1.53,True
+Belgium,BEL,2022,1.53,True
+Chile,CHL,2022,1.539,True
+Denmark,DNK,2022,1.55,True
+Slovenia,SVN,2022,1.55,True
+Slovak Republic,SVK,2022,1.57,True
+United Kingdom,GBR,2022,1.57,True
+Isle of Man,IMN,2022,1.571,True
+Sint Maarten (Dutch part),SXM,2022,1.572,True
+Armenia,ARM,2022,1.575,True
+Antigua and Barbuda,ATG,2022,1.58,True
+Dominica,DMA,2022,1.588,True
+Iceland,ISL,2022,1.589,True
+North Macedonia,MKD,2022,1.6,True
+Trinidad and Tobago,TTO,2022,1.614,True
+Czechia,CZE,2022,1.61774660294866,True
+Brazil,BRA,2022,1.626,True
+Australia,AUS,2022,1.63,True
+Serbia,SRB,2022,1.63,True
+Barbados,BRB,2022,1.634,True
+Turks and Caicos Islands,TCA,2022,1.658,True
+New Zealand,NZL,2022,1.66,True
+United States,USA,2022,1.665,True
+Azerbaijan,AZE,2022,1.67,True
+Maldives,MDV,2022,1.678,True
+Iran,IRN,2022,1.681,True
+French Polynesia,PYF,2022,1.688,True
+Colombia,COL,2022,1.692,True
+Ireland,IRL,2022,1.7,True
+Brunei Darussalam,BRN,2022,1.764,True
+St. Vincent & Grenadines,VCT,2022,1.778,True
+Bulgaria,BGR,2022,1.78,True
+Qatar,QAT,2022,1.781,True
+El Salvador,SLV,2022,1.785,True
+Malaysia,MYS,2022,1.787,True
+North Korea,PRK,2022,1.793,True
+France,FRA,2022,1.794,True
+Bahrain,BHR,2022,1.797,True
+Moldova,MDA,2022,1.8,True
+Montenegro,MNE,2022,1.8,True
+Mexico,MEX,2022,1.803,True
+Romania,ROU,2022,1.81,True
+Gibraltar,GIB,2022,1.837,True
+Greenland,GRL,2022,1.839,True
+Argentina,ARG,2022,1.876,True
+Cabo Verde,CPV,2022,1.879,True
+Turkiye,TUR,2022,1.882,True
+Vietnam,VNM,2022,1.941,True
+Bangladesh,BGD,2022,1.95,True
+Sri Lanka,LKA,2022,1.974,True
+Grenada,GRD,2022,1.986,True
+Belize,BLZ,2022,1.989,True
+Virgin Islands (U.S.),VIR,2022,2.0,True
+Ecuador,ECU,2022,2.003,True
+Nepal,NPL,2022,2.008,True
+India,IND,2022,2.011,True
+New Caledonia,NCL,2022,2.02,True
+Faroe Islands,FRO,2022,2.0497,True
+Georgia,GEO,2022,2.063,True
+Tunisia,TUN,2022,2.064,True
+Lebanon,LBN,2022,2.08,True
+Kuwait,KWT,2022,2.092,True
+Myanmar,MMR,2022,2.127,True
+Indonesia,IDN,2022,2.153,True
+Peru,PER,2022,2.164,True
+Venezuela,VEN,2022,2.188,True
+Dominican Republic,DOM,2022,2.247,True
+Nicaragua,NIC,2022,2.284,True
+Panama,PAN,2022,2.297,True
+Morocco,MAR,2022,2.299,True
+Seychelles,SYC,2022,2.32,True
+Suriname,SUR,2022,2.322,True
+Cambodia,KHM,2022,2.322,True
+Honduras,HND,2022,2.34,True
+South Africa,ZAF,2022,2.341,True
+Guatemala,GTM,2022,2.354,True
+Guyana,GUY,2022,2.369,True
+St. Martin (French),MAF,2022,2.385,True
+Saudi Arabia,SAU,2022,2.393,True
+Libya,LBY,2022,2.402,True
+Paraguay,PRY,2022,2.444,True
+Lao,LAO,2022,2.448,True
+Fiji,FJI,2022,2.462,True
+Guam,GUM,2022,2.55,True
+Oman,OMN,2022,2.567,True
+Bolivia,BOL,2022,2.584,True
+Turkmenistan,TKM,2022,2.617,True
+Micronesia,FSM,2022,2.669,True
+Marshall Islands,MHL,2022,2.672,True
+Syria,SYR,2022,2.704,True
+Philippines,PHL,2022,2.725,True
+Botswana,BWA,2022,2.754,True
+Djibouti,DJI,2022,2.757,True
+Haiti,HTI,2022,2.773,True
+Mongolia,MNG,2022,2.774,True
+Eswatini,SWZ,2022,2.785,True
+Jordan,JOR,2022,2.786,True
+Kyrgyzstan,KGZ,2022,2.8,True
+Algeria,DZA,2022,2.829,True
+Egypt,EGY,2022,2.878,True
+Israel,ISR,2022,2.89,True
+Lesotho,LSO,2022,2.98,True
+Timor-Leste,TLS,2022,3.047,True
+Kazakhstan,KAZ,2022,3.05,True
+Tajikistan,TJK,2022,3.141,True
+Tuvalu,TUV,2022,3.144,True
+Papua New Guinea,PNG,2022,3.165,True
+Tonga,TON,2022,3.193,True
+Namibia,NAM,2022,3.248,True
+Kiribati,KIR,2022,3.271,True
+Kenya,KEN,2022,3.296,True
+Uzbekistan,UZB,2022,3.308,True
+Pakistan,PAK,2022,3.41,True
+Palestine,PSE,2022,3.436,True
+Zimbabwe,ZWE,2022,3.437,True
+Iraq,IRQ,2022,3.445,True
+Gabon,GAB,2022,3.46,True
+Nauru,NRU,2022,3.463,True
+Ghana,GHA,2022,3.507,True
+Vanuatu,VUT,2022,3.697,True
+Yemen,YEM,2022,3.716,True
+Rwanda,RWA,2022,3.749,True
+Sao Tome and Principe,STP,2022,3.751,True
+Eritrea,ERI,2022,3.786,True
+Madagascar,MDG,2022,3.791,True
+Malawi,MWI,2022,3.849,True
+Samoa,WSM,2022,3.875,True
+Sierra Leone,SLE,2022,3.876,True
+Comoros,COM,2022,3.912,True
+Solomon Islands,SLB,2022,3.925,True
+Guinea-Bissau,GNB,2022,3.925,True
+Liberia,LBR,2022,4.016,True
+Ethiopia,ETH,2022,4.063,True
+Congo,COG,2022,4.095,True
+Equatorial Guinea,GNQ,2022,4.17,True
+Togo,TGO,2022,4.196,True
+Zambia,ZMB,2022,4.242,True
+Guinea,GIN,2022,4.303,True
+Senegal,SEN,2022,4.314,True
+South Sudan,SSD,2022,4.337,True
+Mauritania,MRT,2022,4.342,True
+Cote d'Ivoire,CIV,2022,4.342,True
+Cameroon,CMR,2022,4.383,True
+Sudan,SDN,2022,4.384,True
+Uganda,UGA,2022,4.468,True
+Afghanistan,AFG,2022,4.523,True
+Mozambique,MOZ,2022,4.561,True
+Gambia,GMB,2022,4.586,True
+Tanzania,TZA,2022,4.661,True
+Burkina Faso,BFA,2022,4.665,True
+Benin,BEN,2022,4.895,True
+Burundi,BDI,2022,4.98,True
+Nigeria,NGA,2022,5.143,True
+Angola,AGO,2022,5.209,True
+Mali,MLI,2022,5.867,True
+Central African Republic,CAF,2022,5.918,True
+DR Congo,COD,2022,6.106,True
+Somalia,SOM,2022,6.202,True
+Chad,TCD,2022,6.215,True
+Niger,NER,2022,6.749,True
