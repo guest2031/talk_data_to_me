@@ -1,0 +1,197 @@
+country_name,country_code,year,documents
+Tuvalu,TUV,2023,2
+Nauru,NRU,2023,4
+Marshall Islands,MHL,2023,7
+Saint Lucia,LCA,2023,12
+Kiribati,KIR,2023,14
+St. Vincent & Grenadines,VCT,2023,15
+Sao Tome and Principe,STP,2023,17
+Micronesia,FSM,2023,20
+Palau,PLW,2023,23
+Tonga,TON,2023,26
+Equatorial Guinea,GNQ,2023,28
+Dominica,DMA,2023,29
+Vanuatu,VUT,2023,38
+Comoros,COM,2023,44
+Andorra,AND,2023,49
+Turkmenistan,TKM,2023,56
+Djibouti,DJI,2023,57
+Solomon Islands,SLB,2023,58
+Guinea-Bissau,GNB,2023,61
+Antigua and Barbuda,ATG,2023,62
+San Marino,SMR,2023,66
+Seychelles,SYC,2023,73
+Timor-Leste,TLS,2023,76
+Belize,BLZ,2023,77
+Eritrea,ERI,2023,78
+Samoa,WSM,2023,85
+South Sudan,SSD,2023,86
+Suriname,SUR,2023,90
+Central African Republic,CAF,2023,92
+Bahamas,BHS,2023,93
+Cape Verde,CPV,2023,94
+Burundi,BDI,2023,132
+Chad,TCD,2023,136
+Saint Kitts and Nevis,KNA,2023,140
+Maldives,MDV,2023,141
+Mauritania,MRT,2023,144
+Haïti,HTI,2023,150
+Nicaragua,NIC,2023,161
+Guyana,GUY,2023,164
+Lesotho,LSO,2023,177
+Greenland,GRL,2023,179
+Liechtenstein,LIE,2023,183
+Eswatini,SWZ,2023,188
+Guinea,GIN,2023,196
+Barbados,BRB,2023,202
+Angola,AGO,2023,226
+El Salvador,SLV,2023,234
+Monaco,MCO,2023,238
+Bhutan,BTN,2023,245
+Niger,NER,2023,263
+Grenada,GRD,2023,275
+Papua New Guinea,PNG,2023,280
+Gabon,GAB,2023,288
+Sierra Leone,SLE,2023,314
+Somalia,SOM,2023,324
+Togo,TGO,2023,335
+Laos,LAO,2023,336
+Tajikistan,TJK,2023,345
+Gambia,GMB,2023,347
+North Korea,PRK,2023,368
+Mali,MLI,2023,399
+Dominican Republic,DOM,2023,430
+Honduras,HND,2023,446
+Congo,COG,2023,458
+Liberia,LBR,2023,463
+Jamaica,JAM,2023,471
+Guatemala,GTM,2023,487
+Mauritius,MUS,2023,500
+Madagascar,MDG,2023,514
+Fiji,FJI,2023,561
+Paraguay,PRY,2023,582
+Montenegro,MNE,2023,593
+Bolivia,BOL,2023,599
+Afghanistan,AFG,2023,603
+Trinidad and Tobago,TTO,2023,605
+Myanmar,MMR,2023,609
+Moldova,MDA,2023,691
+DR Congo,COD,2023,768
+Namibia,NAM,2023,777
+Mozambique,MOZ,2023,795
+Cambodia,KHM,2023,869
+Kyrgyzstan,KGZ,2023,876
+Côte d’Ivoire,CIV,2023,898
+Benin,BEN,2023,933
+Mongolia,MNG,2023,964
+Panama,PAN,2023,1001
+Burkina Faso,BFA,2023,1045
+Libya,LBY,2023,1073
+Botswana,BWA,2023,1101
+Rwanda,RWA,2023,1154
+Zambia,ZMB,2023,1156
+Albania,ALB,2023,1180
+Senegal,SEN,2023,1183
+Malawi,MWI,2023,1248
+Venezuela,VEN,2023,1301
+Syria,SYR,2023,1305
+Macedonia,MKD,2023,1382
+Brunei Darussalam,BRN,2023,1415
+Malta,MLT,2023,1512
+Zimbabwe,ZWE,2023,1625
+Armenia,ARM,2023,1652
+Costa Rica,CRI,2023,1707
+Sudan,SDN,2023,1750
+Yemen,YEM,2023,1785
+Bahrain,BHR,2023,1992
+Cuba,CUB,2023,2069
+Bosnia and Herzegovina,BIH,2023,2147
+Iceland,ISL,2023,2179
+Palestine,PSE,2023,2270
+Uruguay,URY,2023,2411
+Belarus,BLR,2023,2430
+Georgia,GEO,2023,2508
+Azerbaijan,AZE,2023,2567
+Cameroon,CMR,2023,3048
+Luxembourg,LUX,2023,3168
+Tanzania,TZA,2023,3207
+Latvia,LVA,2023,3340
+Nepal,NPL,2023,3481
+Uganda,UGA,2023,3540
+Kuwait,KWT,2023,3657
+Sri Lanka,LKA,2023,4198
+Estonia,EST,2023,4484
+Oman,OMN,2023,4561
+Cyprus,CYP,2023,5208
+Lithuania,LTU,2023,5514
+Kenya,KEN,2023,5638
+Qatar,QAT,2023,6472
+Lebanon,LBN,2023,6535
+Uzbekistan,UZB,2023,6637
+Ghana,GHA,2023,6947
+Ecuador,ECU,2023,6974
+Kazakhstan,KAZ,2023,7043
+Philippines,PHL,2023,7890
+Slovenia,SVN,2023,7899
+Bulgaria,BGR,2023,7936
+Croatia,HRV,2023,9913
+Slovakia,SVK,2023,9944
+Peru,PER,2023,9967
+Tunisia,TUN,2023,10315
+Serbia,SRB,2023,10337
+Ethiopia,ETH,2023,10728
+Algeria,DZA,2023,11021
+Jordan,JOR,2023,11815
+Bangladesh,BGD,2023,13943
+Morocco,MAR,2023,14819
+Hungary,HUN,2023,15968
+Argentina,ARG,2023,16562
+Colombia,COL,2023,17149
+New Zealand,NZL,2023,18304
+Nigeria,NGA,2023,18644
+Vietnam,VNM,2023,19196
+Romania,ROU,2023,19348
+Chile,CHL,2023,19529
+United Arab Emirates,ARE,2023,19631
+Ireland,IRL,2023,21256
+Ukraine,UKR,2023,21522
+Finland,FIN,2023,25607
+Iraq,IRQ,2023,25736
+Czech Republic,CZE,2023,26166
+Israel,ISR,2023,26795
+Greece,GRC,2023,26893
+Thailand,THA,2023,26904
+Singapore,SGP,2023,27821
+Norway,NOR,2023,31173
+Mexico,MEX,2023,32170
+Austria,AUT,2023,33491
+South Africa,ZAF,2023,34346
+Denmark,DNK,2023,35616
+Portugal,PRT,2023,37796
+Belgium,BEL,2023,40640
+Pakistan,PAK,2023,40922
+Egypt,EGY,2023,42118
+Taiwan,TWN,2023,44393
+Malaysia,MYS,2023,45659
+Sweden,SWE,2023,49505
+Switzerland,CHE,2023,56553
+Poland,POL,2023,58169
+Indonesia,IDN,2023,58224
+Saudi Arabia,SAU,2023,61900
+Netherlands,NLD,2023,72640
+Iran,IRN,2023,73545
+Turkey,TUR,2023,75305
+Brazil,BRA,2023,88827
+South Korea,KOR,2023,101414
+Russia,RUS,2023,107056
+Australia,AUS,2023,119770
+France,FRA,2023,122302
+Spain,ESP,2023,122876
+Canada,CAN,2023,128502
+Japan,JPN,2023,134358
+Italy,ITA,2023,155258
+Germany,DEU,2023,202397
+United Kingdom,GBR,2023,238568
+India,IND,2023,306647
+United States,USA,2023,714412
+China,CHN,2023,1043131
