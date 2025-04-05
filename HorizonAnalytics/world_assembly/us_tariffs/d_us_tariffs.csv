@@ -1,0 +1,189 @@
+country_name,country_code,tariff_charge,tariff_reciprocal,is_eu
+Canada,CAN,,4,False
+Mexico,MEX,,5,False
+Afghanistan,AFG,49.0,10,False
+Albania,ALB,10.0,10,False
+Andorra,AND,10.0,10,False
+Antigua and Barbuda,ATG,10.0,10,False
+Argentina,ARG,10.0,10,False
+Armenia,ARM,10.0,10,False
+Australia,AUS,10.0,10,False
+Azerbaijan,AZE,10.0,10,False
+Bahamas,BHS,10.0,10,False
+Bahrain,BHR,10.0,10,False
+Barbados,BRB,10.0,10,False
+Belize,BLZ,10.0,10,False
+Benin,BEN,10.0,10,False
+Bhutan,BTN,10.0,10,False
+Bolivia,BOL,20.0,10,False
+Brazil,BRA,10.0,10,False
+Burundi,BDI,10.0,10,False
+Cabo Verde,CPV,10.0,10,False
+Central African Rep.,CAF,10.0,10,False
+Chile,CHL,10.0,10,False
+Colombia,COL,10.0,10,False
+Comoros,COM,10.0,10,False
+Congo,COG,10.0,10,False
+Costa Rica,CRI,17.0,10,False
+Djibouti,DJI,10.0,10,False
+Dominica,DMA,10.0,10,False
+Dominican Republic,DOM,10.0,10,False
+Ecuador,ECU,12.0,10,False
+Egypt,EGY,10.0,10,False
+El Salvador,SLV,10.0,10,False
+Eritrea,ERI,10.0,10,False
+Eswatini,SWZ,10.0,10,False
+Ethiopia,ETH,10.0,10,False
+Gabon,GAB,10.0,10,False
+Gambia,GMB,10.0,10,False
+Georgia,GEO,10.0,10,False
+Ghana,GHA,17.0,10,False
+Grenada,GRD,10.0,10,False
+Guatemala,GTM,10.0,10,False
+Guinea,GIN,10.0,10,False
+Guinea-Bissau,GNB,10.0,10,False
+Haiti,HTI,10.0,10,False
+Honduras,HND,10.0,10,False
+Iceland,ISL,10.0,10,False
+Iran,IRN,10.0,10,False
+Jamaica,JAM,10.0,10,False
+Kenya,KEN,10.0,10,False
+Kiribati,KIR,10.0,10,False
+Kosovo,XKX,10.0,10,False
+Kuwait,KWT,10.0,10,False
+Kyrgyzstan,KGZ,10.0,10,False
+Lebanon,LBN,10.0,10,False
+Liberia,LBR,10.0,10,False
+Maldives,MDV,10.0,10,False
+Mali,MLI,10.0,10,False
+Marshall Islands,MHL,10.0,10,False
+Mauritania,MRT,10.0,10,False
+Micronesia,FSM,10.0,10,False
+Mongolia,MNG,10.0,10,False
+Montenegro,MNE,10.0,10,False
+Morocco,MAR,10.0,10,False
+Nepal,NPL,10.0,10,False
+New Zealand,NZL,20.0,10,False
+Niger,NER,10.0,10,False
+Oman,OMN,10.0,10,False
+Panama,PAN,10.0,10,False
+Papua New Guinea,PNG,15.0,10,False
+Paraguay,PRY,10.0,10,False
+Peru,PER,10.0,10,False
+Qatar,QAT,10.0,10,False
+Rwanda,RWA,10.0,10,False
+Saint Kitts and Nevis,KNA,10.0,10,False
+Saint Lucia,LCA,10.0,10,False
+Samoa,WSM,10.0,10,False
+San Marino,SMR,10.0,10,False
+Saudi Arabia,SAU,10.0,10,False
+Senegal,SEN,10.0,10,False
+Sierra Leone,SLE,10.0,10,False
+Singapore,SGP,10.0,10,False
+Sint Maarten,SXM,10.0,10,False
+Solomon Islands,SLB,10.0,10,False
+South Sudan,SSD,10.0,10,False
+St. Vincent & Grenadines,VCT,10.0,10,False
+Sudan,SDN,10.0,10,False
+Suriname,SUR,10.0,10,False
+Syria,SYR,81.0,10,False
+São Tomé and Príncipe,STP,10.0,10,False
+Tajikistan,TJK,10.0,10,False
+Tanzania,TZA,10.0,10,False
+Timor-Leste,TLS,10.0,10,False
+Togo,TGO,10.0,10,False
+Tonga,TON,10.0,10,False
+Trinidad and Tobago,TTO,12.0,10,False
+Turkey,TUR,10.0,10,False
+Turkmenistan,TKM,10.0,10,False
+Turks and Caicos,TCA,10.0,10,False
+Tuvalu,TUV,10.0,10,False
+Uganda,UGA,20.0,10,False
+Ukraine,UKR,10.0,10,False
+United Arab Emirates,ARE,10.0,10,False
+United Kingdom,GBR,10.0,10,False
+Uruguay,URY,10.0,10,False
+Uzbekistan,UZB,10.0,10,False
+Yemen,YEM,10.0,10,False
+Cameroon,CMR,22.0,11,False
+DR Congo,COD,22.0,11,False
+Chad,TCD,26.0,13,False
+Equatorial Guinea,GNQ,25.0,13,False
+Nigeria,NGA,27.0,14,False
+Norway,NOR,30.0,15,False
+Venezuela,VEN,29.0,15,False
+Mozambique,MOZ,31.0,16,False
+Israel,ISR,33.0,17,False
+Malawi,MWI,34.0,17,False
+Philippines,PHL,34.0,17,False
+Zambia,ZMB,33.0,17,False
+Nicaragua,NIC,36.0,18,False
+Zimbabwe,ZWE,35.0,18,False
+Austria,AUT,39.0,20,True
+Belgium,BEL,39.0,20,True
+Bulgaria,BGR,39.0,20,True
+Croatia,HRV,39.0,20,True
+Cyprus,CYP,39.0,20,True
+Czech Republic,CZE,39.0,20,True
+Denmark,DNK,39.0,20,True
+Estonia,EST,39.0,20,True
+Finland,FIN,39.0,20,True
+France,FRA,39.0,20,True
+Germany,DEU,39.0,20,True
+Greece,GRC,39.0,20,True
+Hungary,HUN,39.0,20,True
+Ireland,IRL,39.0,20,True
+Italy,ITA,39.0,20,True
+Latvia,LVA,39.0,20,True
+Lithuania,LTU,39.0,20,True
+Luxembourg,LUX,39.0,20,True
+Malta,MLT,39.0,20,True
+Netherlands,NLD,39.0,20,True
+Poland,POL,39.0,20,True
+Portugal,PRT,39.0,20,True
+Romania,ROU,39.0,20,True
+Slovakia,SVK,39.0,20,True
+Slovenia,SVN,39.0,20,True
+Spain,ESP,39.0,20,True
+Sweden,SWE,39.0,20,True
+Jordan,JOR,40.0,20,False
+Côte d'Ivoire,CIV,41.0,21,False
+Namibia,NAM,42.0,21,False
+Vanuatu,VUT,44.0,22,False
+Brunei,BRN,47.0,24,False
+Japan,JPN,46.0,24,False
+Malaysia,MYS,47.0,24,False
+South Korea,KOR,50.0,25,False
+India,IND,52.0,26,False
+Kazakhstan,KAZ,54.0,27,False
+Tunisia,TUN,55.0,28,False
+Pakistan,PAK,58.0,29,False
+Algeria,DZA,59.0,30,False
+Nauru,NRU,59.0,30,False
+South Africa,ZAF,60.0,30,False
+Libya,LBY,61.0,31,False
+Moldova,MDA,61.0,31,False
+Switzerland,CHE,61.0,31,False
+Angola,AGO,63.0,32,False
+Fiji,FJI,63.0,32,False
+Indonesia,IDN,64.0,32,False
+Taiwan,TWN,64.0,32,False
+North Macedonia,MKD,65.0,33,False
+China,CHN,67.0,34,False
+Bosnia and Herzegovina,BIH,70.0,35,False
+Thailand,THA,72.0,36,False
+Bangladesh,BGD,74.0,37,False
+Botswana,BWA,74.0,37,False
+Liechtenstein,LIE,73.0,37,False
+Serbia,SRB,74.0,37,False
+Guyana,GUY,76.0,38,False
+Iraq,IRQ,78.0,39,False
+Mauritius,MUS,80.0,40,False
+Monaco,MCO,10.0,41,False
+Myanmar,MMR,88.0,44,False
+Sri Lanka,LKA,88.0,44,False
+Vietnam,VNM,90.0,46,False
+Madagascar,MDG,93.0,47,False
+Laos,LAO,95.0,48,False
+Cambodia,KHM,97.0,49,False
+Lesotho,LSO,99.0,50,False
